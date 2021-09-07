@@ -1,0 +1,169 @@
+
+<rss xmlns:dc="https://purl.org/dc/elements/1.1/" xmlns:content="https://purl.org/rss/1.0/modules/content/" xmlns:atom="https://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Matt Fantinel - Web Developer</title>
+    <link>https://fantinel.dev</link>
+    <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
+    
+        <item>
+          <title>Smarter, Lighter, Better Images: A Guide to Optimization</title>
+          <description>Learn how to reduce page loading times and bounce rate.</description>
+          <link>https://fantinel.dev/web-images-modern-formats/</link>
+          <pubDate>2021-01-30T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="Guide" /><category term="HTML" /><category term="CSS" /><category term="Optimization" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/web-images-modern-formats/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/web-images-modern-formats/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>How to fix your Favicons</title>
+          <description>Favicons suck. Luckily, there are ways to make them suck less.</description>
+          <link>https://fantinel.dev/fixing-favicons/</link>
+          <pubDate>2021-01-06T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="Guide" /><category term="Favicon" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/fixing-favicons/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/fixing-favicons/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Spicing Up your GitHub Profile with HTML and CSS</title>
+          <description>Make your GitHub profile more appealing with what you do best: code!</description>
+          <link>https://fantinel.dev/github-profile-readme/</link>
+          <pubDate>2021-01-02T00:00:00.000Z</pubDate>
+          <category term="GitHub" /><category term="Guide" /><category term="SVG" /><category term="Online Presence" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/github-profile-readme/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/github-profile-readme/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Looking Back at 2020</title>
+          <description>2020 definitely wasn't our best year... but let's remember what was good about it.</description>
+          <link>https://fantinel.dev/2020-year-in-review/</link>
+          <pubDate>2020-12-28T00:00:00.000Z</pubDate>
+          <category term="Meta" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/2020-year-in-review/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/2020-year-in-review/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>CSS Scroll Snapping - Improve Scrolling without JS</title>
+          <description>Learn how to snap scrolling positions with CSS only.</description>
+          <link>https://fantinel.dev/css-scroll-snapping/</link>
+          <pubDate>2020-08-03T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="CSS" /><category term="Guide" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/css-scroll-snapping/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/css-scroll-snapping/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Developing an Animal Crossing companion app with Ionic</title>
+          <description>No bells were spent while building this app.</description>
+          <link>https://fantinel.dev/ionic-animal-crossing-companion/</link>
+          <pubDate>2020-07-28T00:00:00.000Z</pubDate>
+          <category term="Ionic" /><category term="PWA" /><category term="Open Source" /><category term="Games" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/ionic-animal-crossing-companion/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/ionic-animal-crossing-companion/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Cool things I did and learned in 2019</title>
+          <description>A quick look back at 2019 and what I learned during this year.</description>
+          <link>https://fantinel.dev/2019-year-in-review/</link>
+          <pubDate>2019-12-29T00:00:00.000Z</pubDate>
+          <category term="Meta" /><category term="Open Source" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/2019-year-in-review/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/2019-year-in-review/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Web Workers - Bringing Multithreading to the Front-End</title>
+          <description>Improve your client-side performance by breaking heavy operations into multiple threads - backend style.</description>
+          <link>https://fantinel.dev/web-workers/</link>
+          <pubDate>2019-08-14T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="Guide" /><category term="JavaScript" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/web-workers/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/web-workers/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>MongoDB on Linux - Data directory /data/db not found</title>
+          <description>Fix the error that occurs when trying to run freshly-installed MongoDB on a Linux machine.</description>
+          <link>https://fantinel.dev/mongodb-error-datadb-on-linux/</link>
+          <pubDate>2019-06-09T00:00:00.000Z</pubDate>
+          <category term="Common Errors" /><category term="Backend" /><category term="Linux" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/mongodb-error-datadb-on-linux/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/mongodb-error-datadb-on-linux/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>.NET Core - Project version mismatch</title>
+          <description>Solving this cryptic error might take you many hours. Hopefully this will help you out.</description>
+          <link>https://fantinel.dev/net-core-project-restored-different-version/</link>
+          <pubDate>2019-06-03T00:00:00.000Z</pubDate>
+          <category term="Common Errors" /><category term=".NET" /><category term="Backend" /><category term="C#" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/net-core-project-restored-different-version/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/net-core-project-restored-different-version/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Open Source x Free Software: What's the difference?</title>
+          <description>Learn the difference between these two terms that often get mixed up.</description>
+          <link>https://fantinel.dev/open-source-x-free-software/</link>
+          <pubDate>2019-03-23T00:00:00.000Z</pubDate>
+          <category term="Free Software" /><category term="Open Source" /><category term="Concepts" /><category term="FOSS" /><category term="FLOSS" /><category term="Libre Software" /><category term="Freedom" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/open-source-x-free-software/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/open-source-x-free-software/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Micro Frontends: Solving the Legacy JavaScript Problem</title>
+          <description>Finally a way to modernize that legacy project you keep complaining about!</description>
+          <link>https://fantinel.dev/microfrontends/</link>
+          <pubDate>2019-03-17T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="JavaScript" /><category term="Guide" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/microfrontends/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/microfrontends/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>.NET Core API - Method not allowed on PUT and DELETE requests</title>
+          <description>See how to solve this annoying error after deploying your .NET Core API.</description>
+          <link>https://fantinel.dev/dotnet-core-405-error/</link>
+          <pubDate>2019-03-14T00:00:00.000Z</pubDate>
+          <category term="Common Errors" /><category term=".NET" /><category term="Backend" /><category term="C#" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/dotnet-core-405-error/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/dotnet-core-405-error/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>What are PWAs and why should I care about them?</title>
+          <description>We see a lot of talk about PWAs, but the concept is not that easy to understand.</description>
+          <link>https://fantinel.dev/what-are-pwas-and-why-should-i-care-about-them/</link>
+          <pubDate>2019-03-12T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="PWA" /><category term="JavaScript" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/what-are-pwas-and-why-should-i-care-about-them/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/what-are-pwas-and-why-should-i-care-about-them/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>How to transform your Angular 6+ app into a PWA</title>
+          <description>Make your Angular app work like a native app on phones and desktop.</description>
+          <link>https://fantinel.dev/angular-pwa-how-to/</link>
+          <pubDate>2019-03-10T00:00:00.000Z</pubDate>
+          <category term="Angular" /><category term="PWA" /><category term="Guide" /><category term="Front-End" /><category term="JavaScript" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/angular-pwa-how-to/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/angular-pwa-how-to/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>The purpose of this blog</title>
+          <description>Why does it exist?</description>
+          <link>https://fantinel.dev/purpose-of-this-blog/</link>
+          <pubDate>2019-03-08T00:00:00.000Z</pubDate>
+          <category term="Meta" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/purpose-of-this-blog/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/purpose-of-this-blog/cover.jpg"/>
+        </item>
+      
+  </channel>
+</rss>

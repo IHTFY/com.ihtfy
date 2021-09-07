@@ -1,0 +1,1 @@
+const e="https://fantinel.dev",t=["Matheus Fantinel","Matt Fantinel","Web Development","Software Engineer","Open Source"],a="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",n="Matt Fantinel - Web Developer",i="https://fantinel.dev/images/site-preview.png";export{a as d,i,t as k,e as s,n as t};

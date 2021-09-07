@@ -3,6 +3,7 @@
   src: url('Ubuntu Mono/ubuntumono-bold-webfont.woff2') format('woff2'), url('Ubuntu Mono/ubuntumono-bold-webfont.woff') format('woff');
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -11,6 +12,7 @@
     url('Ubuntu Mono/ubuntumono-bolditalic-webfont.woff') format('woff');
   font-weight: 700;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
@@ -18,6 +20,7 @@
   src: url('Ubuntu Mono/ubuntumono-italic-webfont.woff2') format('woff2'), url('Ubuntu Mono/ubuntumono-italic-webfont.woff') format('woff');
   font-weight: 500;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
@@ -25,4 +28,5 @@
   src: url('Ubuntu Mono/ubuntumono-regular-webfont.woff2') format('woff2'), url('Ubuntu Mono/ubuntumono-regular-webfont.woff') format('woff');
   font-weight: 500;
   font-style: normal;
+  font-display: swap;
 }
