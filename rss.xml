@@ -6,6 +6,16 @@
     <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
     
         <item>
+          <title>How I built a blog with Svelte and SvelteKit</title>
+          <description>An overview of the experience I've had using these amazing projects.</description>
+          <link>https://fantinel.dev/blog-development-sveltekit/</link>
+          <pubDate>2021-09-08T00:00:00.000Z</pubDate>
+          <category term="Front-End" /><category term="Svelte" /><category term="SvelteKit" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/blog-development-sveltekit/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/blog-development-sveltekit/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Smarter, Lighter, Better Images: A Guide to Optimization</title>
           <description>Learn how to reduce page loading times and bounce rate.</description>
           <link>https://fantinel.dev/web-images-modern-formats/</link>
