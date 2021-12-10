@@ -6,6 +6,16 @@
     <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
     
         <item>
+          <title>2021 In Review</title>
+          <description>Another year, another yearly review post. 2021 felt like pretty much 2020 part II for a lot of people, me included.</description>
+          <link>https://fantinel.dev/2021-year-in-review/</link>
+          <pubDate>2021-12-09T00:00:00.000Z</pubDate>
+          <category term="Meta" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/2021-year-in-review/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/2021-year-in-review/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>How I built a blog with Svelte and SvelteKit</title>
           <description>An overview of the experience I've had using these amazing projects.</description>
           <link>https://fantinel.dev/blog-development-sveltekit/</link>
