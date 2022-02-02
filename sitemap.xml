@@ -17,13 +17,13 @@
     <loc>https://fantinel.dev/angular-pwa-how-to</loc>
   </url>
   <url>
-    <loc>https://fantinel.dev/blog</loc>
-  </url>
-  <url>
     <loc>https://fantinel.dev/blog-development-sveltekit</loc>
   </url>
   <url>
     <loc>https://fantinel.dev/css-scroll-snapping</loc>
+  </url>
+  <url>
+    <loc>https://fantinel.dev/blog</loc>
   </url>
   <url>
     <loc>https://fantinel.dev/dotnet-core-405-error</loc>
