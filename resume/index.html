@@ -39,11 +39,25 @@
     <script async defer data-domain="fantinel.dev" src="https://stats.fantinel.dev/js/index.js"></script>
     <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 
+    <script>
+      // The script below uses Plausible to track the % of people that have a dark/light mode preference
+      // But it breaks the Bounce Rate metrics
+      if (plausible) {
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          plausible('Dark Mode Enabled');
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+          plausible('Light Mode Enabled');
+        } else {
+          plausible('No Dark/Light Preference');
+        }
+      }
+    </script>
+
 		<title>Resume - Matt Fantinel - Web Developer</title><meta name="keywords" content="Matheus Fantinel, Matt Fantinel, Web Development, Software Engineer, Open Source" data-svelte="svelte-166fjel"><meta name="description" content="I&#39;m a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it." data-svelte="svelte-166fjel"><meta property="og:description" content="I&#39;m a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it." data-svelte="svelte-166fjel"><meta name="twitter:description" content="I&#39;m a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it." data-svelte="svelte-166fjel"><meta property="og:title" content="Matt Fantinel - Web Developer" data-svelte="svelte-166fjel"><meta name="twitter:title" content="Matt Fantinel - Web Developer" data-svelte="svelte-166fjel"><meta property="og:image" content="https://fantinel.dev/images/site-preview.png" data-svelte="svelte-166fjel"><meta name="twitter:image" content="https://fantinel.dev/images/site-preview.png" data-svelte="svelte-166fjel"><script type="module" src="https://cdn.jsdelivr.net/gh/matfantinel/resume@master/output/resume/resume.esm.js" data-svelte="svelte-kp1kiz"></script><script nomodule="" src="https://cdn.jsdelivr.net/gh/matfantinel/resume@master/output/resume/resume.js" data-svelte="svelte-kp1kiz"></script><meta property="og:title" content="Resume - Matt Fantinel - Web Developer" data-svelte="svelte-kp1kiz"><meta name="twitter:title" content="Resume - Matt Fantinel - Web Developer" data-svelte="svelte-kp1kiz">
 
 		
 
-		<link rel="modulepreload" href="/_app/start-7a25e1e5.js">
+		<link rel="modulepreload" href="/_app/start-ab7c8b82.js">
 		<link rel="modulepreload" href="/_app/chunks/vendor-a655b087.js">
 		<link rel="modulepreload" href="/_app/pages/__layout.svelte-1d120e64.js">
 		<link rel="modulepreload" href="/_app/chunks/footer-29f7d1c9.js">
@@ -56,7 +70,7 @@
 		<link rel="stylesheet" href="/_app/assets/pages/resume.svelte-8fa92391.css">
 
 		<script type="module">
-			import { start } from "/_app/start-7a25e1e5.js";
+			import { start } from "/_app/start-ab7c8b82.js";
 			start({
 				target: document.querySelector("#svelte-root"),
 				paths: {"base":"","assets":""},

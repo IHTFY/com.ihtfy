@@ -6,6 +6,16 @@
     <description>I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.</description>
     
         <item>
+          <title>Ethical Analytics are Plausible, at Last</title>
+          <description>Web Analytics is such a morally ambiguous area that I’ve avoided it for years, but now I can finally do it with peace of mind.</description>
+          <link>https://fantinel.dev/plausible-ethical-analytics/</link>
+          <pubDate>2022-02-01T00:00:00.000Z</pubDate>
+          <category term="Analytics" /><category term="Privacy" /><category term="SEO" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://fantinel.dev/images/posts/plausible-ethical-analytics/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://fantinel.dev/images/posts/plausible-ethical-analytics/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>2021 In Review</title>
           <description>Another year, another yearly review post. 2021 felt like pretty much 2020 part II for a lot of people, me included.</description>
           <link>https://fantinel.dev/2021-year-in-review/</link>

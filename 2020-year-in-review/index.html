@@ -39,11 +39,25 @@
     <script async defer data-domain="fantinel.dev" src="https://stats.fantinel.dev/js/index.js"></script>
     <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 
+    <script>
+      // The script below uses Plausible to track the % of people that have a dark/light mode preference
+      // But it breaks the Bounce Rate metrics
+      if (plausible) {
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          plausible('Dark Mode Enabled');
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+          plausible('Light Mode Enabled');
+        } else {
+          plausible('No Dark/Light Preference');
+        }
+      }
+    </script>
+
 		<title>Looking Back at 2020 - Matt Fantinel - Web Developer</title><meta name="keywords" content="Meta, Matheus Fantinel, Matt Fantinel, Web Development, Software Engineer, Open Source" data-svelte="svelte-xwf28p"><meta name="description" content="2020 definitely wasn&#39;t our best year... but let&#39;s remember what was good about it." data-svelte="svelte-xwf28p"><meta property="og:description" content="2020 definitely wasn&#39;t our best year... but let&#39;s remember what was good about it." data-svelte="svelte-xwf28p"><meta name="twitter:description" content="2020 definitely wasn&#39;t our best year... but let&#39;s remember what was good about it." data-svelte="svelte-xwf28p"><meta property="og:title" content="Looking Back at 2020 - Matt Fantinel - Web Developer" data-svelte="svelte-xwf28p"><meta name="twitter:title" content="Looking Back at 2020 - Matt Fantinel - Web Developer" data-svelte="svelte-xwf28p"><meta property="og:image" content="https://fantinel.dev/images/posts/2020-year-in-review/cover.jpg" data-svelte="svelte-xwf28p"><meta name="twitter:image" content="https://fantinel.dev/images/posts/2020-year-in-review/cover.jpg" data-svelte="svelte-xwf28p">
 
 		
 
-		<link rel="modulepreload" href="/_app/start-7a25e1e5.js">
+		<link rel="modulepreload" href="/_app/start-ab7c8b82.js">
 		<link rel="modulepreload" href="/_app/chunks/vendor-a655b087.js">
 		<link rel="modulepreload" href="/_app/pages/[slug]/__layout.reset.svelte-f2ce7b2c.js">
 		<link rel="modulepreload" href="/_app/chunks/footer-29f7d1c9.js">
@@ -52,7 +66,7 @@
 		<link rel="modulepreload" href="/_app/chunks/blog-post-card-1131c8d6.js">
 		<link rel="modulepreload" href="/_app/chunks/3x3-grid-1c76c743.js">
 		<link rel="modulepreload" href="/_app/chunks/meta-a189fffb.js">
-		<link rel="modulepreload" href="/_app/pages/[slug]/index.svelte-6d5a57c1.js">
+		<link rel="modulepreload" href="/_app/pages/[slug]/index.svelte-7d0d8422.js">
 		<link rel="modulepreload" href="/_app/chunks/sparkling-highlight-4b25987e.js">
 		<link rel="stylesheet" href="/_app/assets/start-61d1577b.css">
 		<link rel="stylesheet" href="/_app/assets/pages/[slug]/__layout.reset.svelte-2c0d9c80.css">
@@ -64,7 +78,7 @@
 		<link rel="stylesheet" href="/_app/assets/sparkling-highlight-44e64f66.css">
 
 		<script type="module">
-			import { start } from "/_app/start-7a25e1e5.js";
+			import { start } from "/_app/start-ab7c8b82.js";
 			start({
 				target: document.querySelector("#svelte-root"),
 				paths: {"base":"","assets":""},
@@ -78,7 +92,7 @@
 					error: null,
 					nodes: [
 						import("/_app/pages/[slug]/__layout.reset.svelte-f2ce7b2c.js"),
-						import("/_app/pages/[slug]/index.svelte-6d5a57c1.js")
+						import("/_app/pages/[slug]/index.svelte-7d0d8422.js")
 					],
 					page: {
 						host: location.host, // TODO this is redundant
