@@ -3,7 +3,7 @@
 		const url = '/posts.json';
 		const res = await fetch(url);
 
-		const test = await res.json()
+		const test = await res.json();
 
 		if (res.ok) {
 			return {
