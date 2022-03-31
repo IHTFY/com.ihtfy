@@ -76,13 +76,14 @@ h5 {
 	fill: var(--callout-info-accent-color);
 }
 ::selection {
-  background-color: rgba(var(--primary-color-rgb), 0.3);
-  color: var(--text-color);
-  text-shadow: none;
+	background-color: rgba(var(--primary-color-rgb), 0.3);
+	color: var(--text-color);
+	text-shadow: none;
 }
 
-ul, ol {
-	margin: 10px 0 10px 40px;	
+ul,
+ol {
+	margin: 10px 0 10px 40px;
 
 	li {
 		margin: 6px 0;
@@ -93,7 +94,7 @@ ul, ol {
 	}
 }
 ul {
-  list-style: outside;
+	list-style: outside;
 }
 strong,
 b {

@@ -1,4 +1,3 @@
-import Prism from 'prismjs';
 import 'prism-svelte';
 import readingTime from 'reading-time';
 
@@ -48,11 +47,15 @@ function getRelatedPosts(post) {
 		if (relPost.slug === post.slug) {
 			continue;
 		}
-		const rel = relatedPosts.find(x => x.post.slug === relPost.slug);
+		const rel = relatedPosts.find((x) => x.post.slug === relPost.slug);
 		if (rel) {
 			rel.count++;
 		} else {
-			relatedPosts.push({post: { ...relPost, readingTime: readingTime(relPost.html).text }, count: 1, date: relPost.date});
+			relatedPosts.push({
+				post: { ...relPost, readingTime: readingTime(relPost.html).text },
+				count: 1,
+				date: relPost.date
+			});
 		}
 	}
 
@@ -71,16 +74,16 @@ const filteredPosts = posts
 	.map((post) => {
 		const readingTimeDuration = readingTime(post.html).text;
 
-		const relatedPosts = getRelatedPosts(post);		
+		const relatedPosts = getRelatedPosts(post);
 
 		return {
 			...post,
 			readingTime: readingTimeDuration,
-      relatedPosts: relatedPosts
-										.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-										.sort((a, b) => b.count - a.count)
-										.slice(0, 3)
-										.map(x => x.post)
+			relatedPosts: relatedPosts
+				.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+				.sort((a, b) => b.count - a.count)
+				.slice(0, 3)
+				.map((x) => x.post)
 		};
 	});
 

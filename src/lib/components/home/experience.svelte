@@ -24,7 +24,7 @@
 					color: 'primary',
 					text: 'Vue'
 				},
-        {
+				{
 					color: 'primary',
 					text: 'React'
 				},
