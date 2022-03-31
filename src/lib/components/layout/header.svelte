@@ -1,5 +1,6 @@
 <script>
 	import Logo from '$lib/svg/logo.svelte';
+	import DarkSwitch from '../base/dark-switch.svelte';
 	import Socials from '$lib/components/base/socials.svelte';
 
 	export let animated = true;
@@ -16,6 +17,7 @@
 				<a href="/resume">Resume</a>
 			</div>
 		</div>
+		<DarkSwitch />
 		<div class="right">
 			<Socials />
 		</div>
