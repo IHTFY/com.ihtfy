@@ -1,0 +1,1 @@
+const s="https://site.ihtfy.com",t=["Frankie Mercado","IHopeThisFindsYou","IHTFY"],e="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",i="IHTFY - Frankie Mercado",o=`${s}/images/site-preview.png`;export{e as d,o as i,t as k,s,i as t};

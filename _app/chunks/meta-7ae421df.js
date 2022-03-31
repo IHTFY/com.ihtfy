@@ -1,1 +1,0 @@
-const e="https://fantinel.dev",t=["Matheus Fantinel","Matt Fantinel","Web Development","Software Engineer","Open Source"],n="I'm a developer aiming to build things that spark joy. I build fun stuff on the web, and sometimes write about it.",s="Matt Fantinel - Web Developer",a=`${e}/images/site-preview.png`;export{n as d,a as i,t as k,e as s,s as t};
