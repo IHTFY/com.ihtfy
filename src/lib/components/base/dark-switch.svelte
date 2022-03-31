@@ -4,7 +4,13 @@
 	const toggleDarkMode = () => theme.update((current) => (current === 'light' ? 'dark' : 'light'));
 </script>
 
-<input id="toggle" class="toggle" type="checkbox" on:change={toggleDarkMode} />
+<input
+	id="toggle"
+	class="toggle"
+	type="checkbox"
+	checked={$theme === 'light'}
+	on:change={toggleDarkMode}
+/>
 
 <style>
 	/* adapted from https://codepen.io/mrozilla/pen/OJJNjRb */
