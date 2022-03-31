@@ -1,6 +1,6 @@
 <script context="module">
 	export async function load({ fetch, url }) {
-		const jsonUrl = url.pathname.replace(/\/\s*$/, "") + '.json';
+		const jsonUrl = url.pathname.replace(/\/\s*$/, '') + '.json';
 		const res = await fetch(jsonUrl);
 
 		if (res.ok) {
@@ -29,20 +29,20 @@
 	import BlogPostCard from '$lib/components/base/blog-post-card.svelte';
 	import ThreeByThreeGrid from '$lib/components/layout/3x3-grid.svelte';
 	import Section from '$lib/components/layout/section.svelte';
-  import { keywords, siteBaseUrl, title } from '$lib/meta';
+	import { keywords, siteBaseUrl, title } from '$lib/meta';
 
 	export let post;
 </script>
 
 <svelte:head>
-	<meta name="keywords" content="{post.tags.concat(keywords).join(', ')}" />
+	<meta name="keywords" content={post.tags.concat(keywords).join(', ')} />
 
 	<meta name="description" content={post.excerpt} />
 	<meta property="og:description" content={post.excerpt} />
 	<meta name="twitter:description" content={post.excerpt} />
 
 	<title>{post.title} - {title}</title>
-  <meta property="og:title" content="{post.title} - {title}" />
+	<meta property="og:title" content="{post.title} - {title}" />
 	<meta name="twitter:title" content="{post.title} - {title}" />
 
 	<meta property="og:image" content="{siteBaseUrl}/images/posts/{post.slug}/cover.jpg" />
@@ -137,14 +137,14 @@
 		> * {
 			grid-column: 2;
 		}
-		.full-bleed {
-			width: 100%;
-			grid-column: 1 / 4;
+		// .full-bleed {
+		// 	width: 100%;
+		// 	grid-column: 1 / 4;
 
-			:global(img) {
-				object-fit: cover;
-			}
-		}
+		// 	:global(img) {
+		// 		object-fit: cover;
+		// 	}
+		// }
 
 		.header {
 			display: flex;

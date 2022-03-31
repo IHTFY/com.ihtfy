@@ -1,22 +1,3 @@
-<style lang="scss">
-	#avatar {
-		filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.2));
-
-		#mouth,
-		#eyebrow-left,
-		#eyebrow-right {
-			transition: all 0.3s;
-		}
-
-		&:hover {
-			#eyebrow-left,
-			#eyebrow-right {
-				transform: translateY(-5px);
-			}
-		}
-	}
-</style>
-
 <svg
 	version="1.1"
 	id="avatar"
@@ -1234,3 +1215,22 @@
 		</g>
 	</g>
 </svg>
+
+<style lang="scss">
+	#avatar {
+		filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.2));
+
+		#mouth,
+		#eyebrow-left,
+		#eyebrow-right {
+			transition: all 0.3s;
+		}
+
+		&:hover {
+			#eyebrow-left,
+			#eyebrow-right {
+				transform: translateY(-5px);
+			}
+		}
+	}
+</style>
