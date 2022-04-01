@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-0b2e8f6d.js",
+    "file": "start-1a6f4bb1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -17,14 +17,14 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-9d57e0a8.js",
+    "file": "pages/__layout.svelte-2744441b.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-fd756819.js",
-      "_footer-de97756c.js",
-      "_meta-e335b0a4.js",
+      "_footer-864acf92.js",
+      "_meta-eb0f70f0.js",
       "_github-017f3eed.js"
     ],
     "css": [
@@ -61,13 +61,13 @@
     ]
   },
   "src/routes/resume.svelte": {
-    "file": "pages/resume.svelte-db08f5e4.js",
+    "file": "pages/resume.svelte-e1606e2f.js",
     "src": "src/routes/resume.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-fd756819.js",
-      "_meta-e335b0a4.js"
+      "_meta-eb0f70f0.js"
     ],
     "css": [
       "assets/pages/resume.svelte-8fa92391.css"
@@ -88,17 +88,17 @@
     ]
   },
   "src/routes/[slug]/__layout.reset.svelte": {
-    "file": "pages/_slug_/__layout.reset.svelte-f7dae6aa.js",
+    "file": "pages/_slug_/__layout.reset.svelte-16fdd966.js",
     "src": "src/routes/[slug]/__layout.reset.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-fd756819.js",
-      "_footer-de97756c.js",
+      "_footer-864acf92.js",
       "_image-278c0dbf.js",
       "_blog-post-card-d541c82b.js",
       "_3x3-grid-94cd880b.js",
-      "_meta-e335b0a4.js",
+      "_meta-eb0f70f0.js",
       "_github-017f3eed.js"
     ],
     "css": [
@@ -123,18 +123,18 @@
   "_vendor-fd756819.js": {
     "file": "chunks/vendor-fd756819.js"
   },
-  "_footer-de97756c.js": {
-    "file": "chunks/footer-de97756c.js",
+  "_footer-864acf92.js": {
+    "file": "chunks/footer-864acf92.js",
     "imports": [
       "_vendor-fd756819.js",
       "_github-017f3eed.js"
     ],
     "css": [
-      "assets/footer-feb2a36b.css"
+      "assets/footer-c02d8010.css"
     ]
   },
-  "_meta-e335b0a4.js": {
-    "file": "chunks/meta-e335b0a4.js"
+  "_meta-eb0f70f0.js": {
+    "file": "chunks/meta-eb0f70f0.js"
   },
   "_github-017f3eed.js": {
     "file": "chunks/github-017f3eed.js",
