@@ -5,7 +5,7 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">Hello, I'm Frankie!</h1>
+	<h1 class="hello">Hi, I'm Frankie!</h1>
 	<p class="intro">
 		<span class="left">I like to write code, do math,</span>
 		<span class="right">make music, and play with fire.</span>
