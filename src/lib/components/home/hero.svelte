@@ -7,8 +7,8 @@
 <section id="hero">
 	<h1 class="hello">Hello, I'm Frankie!</h1>
 	<p class="intro">
-		<span class="left">I build fun stuff on the web,</span>
-		<span class="right">and sometimes write about it.</span>
+		<span class="left">I like to write code, do math,</span>
+		<span class="right">make music, and play with fire.</span>
 	</p>
 	<div class="ctas">
 		<a id="projects-btn" href="#projects" class="button primary-light">

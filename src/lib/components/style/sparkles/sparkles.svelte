@@ -3,8 +3,7 @@
 	import { onDestroy, onMount } from 'svelte';
 	const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
 
-	// Default color is a bright yellow
-	const DEFAULT_COLOR = 'hsl(50deg, 100%, 50%)';
+	const DEFAULT_COLOR = 'hsl(190deg, 100%, 75%)';
 	const generateSparkle = (color = DEFAULT_COLOR) => {
 		return {
 			id: String(random(10000, 99999)),
@@ -13,8 +12,8 @@
 			size: random(10, 20),
 			style: {
 				// Pick a random spot in the available space
-				top: random(-10, 80) + '%',
-				left: random(0, 100) + '%'
+				top: random(-10, 20) + '%',
+				left: random(0, 80) + '%'
 			}
 		};
 	};

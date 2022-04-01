@@ -8,13 +8,11 @@
 
 <section id="about">
 	<div class="info">
-		<h2>
-			I'm a developer aiming to build things that
-			<SparklingHighlight>spark joy</SparklingHighlight>
-		</h2>
+		<h2>I've been posting something every day in 2022.</h2>
 		<p>
-			I believe software should be great for everyone — those who write it and those who use it —
-			and that bringing joy to problem-solving is the key to that.
+			You can find most of my online stuff here. I go by <SparklingHighlight
+				>ihtfy</SparklingHighlight
+			> on most sites.
 		</p>
 	</div>
 	<div class="avatar">
