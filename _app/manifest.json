@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-1a6f4bb1.js",
+    "file": "start-6ec6cdf9.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -44,13 +44,13 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-0758dddd.js",
+    "file": "pages/index.svelte-904a3ed0.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-fd756819.js",
-      "_sparkling-highlight-8f334ea0.js",
+      "_sparkling-highlight-ad546992.js",
       "_blog-post-card-d541c82b.js",
       "_3x3-grid-94cd880b.js",
       "_github-017f3eed.js",
@@ -106,14 +106,14 @@
     ]
   },
   "src/routes/[slug]/index.svelte": {
-    "file": "pages/_slug_/index.svelte-23956ad7.js",
+    "file": "pages/_slug_/index.svelte-8fb4f396.js",
     "src": "src/routes/[slug]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-fd756819.js",
       "_image-278c0dbf.js",
-      "_sparkling-highlight-8f334ea0.js",
+      "_sparkling-highlight-ad546992.js",
       "_github-017f3eed.js"
     ],
     "css": [
@@ -130,7 +130,7 @@
       "_github-017f3eed.js"
     ],
     "css": [
-      "assets/footer-c02d8010.css"
+      "assets/footer-d9026069.css"
     ]
   },
   "_meta-eb0f70f0.js": {
@@ -142,8 +142,8 @@
       "_vendor-fd756819.js"
     ]
   },
-  "_sparkling-highlight-8f334ea0.js": {
-    "file": "chunks/sparkling-highlight-8f334ea0.js",
+  "_sparkling-highlight-ad546992.js": {
+    "file": "chunks/sparkling-highlight-ad546992.js",
     "imports": [
       "_vendor-fd756819.js"
     ],
