@@ -10,6 +10,7 @@
 	type="checkbox"
 	checked={$theme === 'light'}
 	on:change={toggleDarkMode}
+	title="Toggle dark mode"
 />
 
 <style lang="scss">
