@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev --host",
-		"build": "rm -rf build && svelte-kit build",
+		"build": "svelte-kit build",
 		"deploy": "npm run build && npx gh-pages -d build -t true",
-		"preview": "svelte-kit preview",
+		"preview": "svelte-kit preview --host",
 		"lint": "prettier --ignore-path .gitignore  --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
 		"format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
 		"postbuild": "svelte-sitemap --domain https://site.ihtfy.com --trailing-slashes true"
