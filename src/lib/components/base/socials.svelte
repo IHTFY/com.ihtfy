@@ -1,50 +1,63 @@
 <script>
-	import TelegramIcon from '$lib/svg/socials/telegram.svelte';
-	import TwitterIcon from '$lib/svg/socials/twitter.svelte';
+	import YouTubeIcon from '$lib/svg/socials/youtube.svelte';
 	import GitHubIcon from '$lib/svg/socials/github.svelte';
-	import LinkedInIcon from '$lib/svg/socials/linkedin.svelte';
+	import InstagramIcon from '$lib/svg/socials/instagram.svelte';
+	import TwitterIcon from '$lib/svg/socials/twitter.svelte';
+	import PatreonIcon from '$lib/svg/socials/patreon.svelte';
+	import TikTokIcon from '$lib/svg/socials/tiktok.svelte';
 	import EmailIcon from '$lib/svg/socials/email.svelte';
-	import Rss from '$lib/svg/rss.svelte';
+	import RSSIcon from '$lib/svg/rss.svelte';
 </script>
 
 <div class="socials">
-	<a href="https://t.me/Matt_Fantinel" target="_blank" rel="noopener" title="Say Hi on Telegram">
-		<TelegramIcon />
+	<a
+		href="https://www.youtube.com/user/ihopethisfindsyou"
+		target="_blank"
+		rel="noopener noreferrer"
+		title="Watch my videos on YouTube"
+	>
+		<YouTubeIcon />
+	</a>
+	<a href="https://github.com/IHTFY/" target="_blank" rel="noopener" title="See my GitHub profile">
+		<GitHubIcon />
 	</a>
 	<a
-		href="https://twitter.com/Matt_Fantinel"
+		href="https://www.instagram.com/ihtfy/"
 		target="_blank"
-		rel="noopener"
-		title="Say Hi on Twitter"
+		rel="noopener noreferrer"
+		title="See my pictures on Instagram"
+	>
+		<InstagramIcon />
+	</a>
+	<a
+		href="https://twitter.com/ihtfy"
+		target="_blank"
+		rel="noopener noreferrer"
+		title="Follow me on Twitter"
 	>
 		<TwitterIcon />
 	</a>
 	<a
-		href="https://github.com/MatFantinel"
+		href="https://patreon.com/ihtfy"
 		target="_blank"
-		rel="noopener"
-		title="See my GitHub profile"
+		rel="noopener noreferrer"
+		title="Send me a tip on Patreon"
 	>
-		<GitHubIcon />
+		<PatreonIcon />
 	</a>
 	<a
-		href="https://www.linkedin.com/in/matheus-fantinel/"
+		href="https://tiktok.com/@ihtfy"
 		target="_blank"
-		rel="noopener"
-		title="Connect on LinkedIn"
+		rel="noopener noreferrer"
+		title="Follow me on TikTok"
 	>
-		<LinkedInIcon />
+		<TikTokIcon />
 	</a>
-	<a
-		href="mailto:matt@fantinel.dev"
-		target="_blank"
-		rel="noopener"
-		title="Send an email to matt@fantinel.dev"
-	>
+	<a href="mailto:site@FrankieMercado.com" target="_blank" rel="noopener" title="Send an email">
 		<EmailIcon />
 	</a>
 	<a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
-		<Rss />
+		<RSSIcon />
 	</a>
 </div>
 
