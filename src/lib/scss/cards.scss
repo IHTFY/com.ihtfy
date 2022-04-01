@@ -3,7 +3,7 @@
 	box-shadow: var(--card-shadow);
 	color: var(--text-color);
 	border-radius: 10px;
-	transition: all 0.4s ease;
+	transition: all 500ms ease;
 	position: relative;
 	overflow: hidden;
 	width: 100%;
@@ -15,12 +15,13 @@
 	&:hover {
 		text-decoration: none;
 	}
+	&:hover {
+		box-shadow: var(--card-shadow-hover);
+		transform: scale(1.01);
+		transition-duration: 100ms;
 
-	&.clickable {
-		cursor: pointer;
-		&:hover {
-			box-shadow: var(--card-shadow-hover);
-			transform: scale(1.01);
+		&.clickable {
+			cursor: pointer;
 		}
 	}
 
@@ -46,6 +47,10 @@
 			height: 100%;
 			object-fit: cover;
 			position: absolute;
+
+			&:hover {
+				animation: hue-rotate 2s linear infinite;
+			}
 		}
 
 		&:empty {
@@ -89,5 +94,14 @@
 			gap: 5px;
 			flex-wrap: wrap;
 		}
+	}
+}
+
+@keyframes hue-rotate {
+	from {
+		filter: hue-rotate(0deg);
+	}
+	to {
+		filter: hue-rotate(360deg);
 	}
 }
