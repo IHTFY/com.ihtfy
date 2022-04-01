@@ -12,17 +12,8 @@
 	on:change={toggleDarkMode}
 />
 
-<style>
+<style lang="scss">
 	/* adapted from https://codepen.io/mrozilla/pen/OJJNjRb */
-	/* @import '../../scss/breakpoints.scss'; */
-	@media only screen and (min-width: 480px) {
-		.toggle:hover:not(:checked) {
-			color: hsl(40, 100%, 50%);
-		}
-		.toggle:hover:checked {
-			color: #1c1e26;
-		}
-	}
 	.toggle {
 		--size: 1.5rem;
 
@@ -40,21 +31,30 @@
 		color: hsl(240, 100%, 95%);
 
 		transition: all 500ms;
-	}
-	.toggle:checked {
-		--ray-size: calc(var(--size) * -0.4);
-		--right: calc(var(--size) * 0.65);
-		--left: calc(var(--size) * -0.65);
-		--long-right: calc(var(--size) * 0.46);
-		--long-left: calc(var(--size) * -0.46);
 
-		transform: scale(0.75);
-		color: hsl(40, 100%, 50%);
-		box-shadow: inset 0 0 0 var(--size), var(--left) 0 0 var(--ray-size),
-			var(--right) 0 0 var(--ray-size), 0 var(--left) 0 var(--ray-size),
-			0 var(--right) 0 var(--ray-size), var(--long-left) var(--long-left) 0 var(--ray-size),
-			var(--long-right) var(--long-right) 0 var(--ray-size),
-			var(--long-left) var(--long-right) 0 var(--ray-size),
-			var(--long-right) var(--long-left) 0 var(--ray-size);
+		&:hover {
+			color: hsl(40, 100%, 50%);
+		}
+
+		&:checked {
+			--ray-size: calc(var(--size) * -0.4);
+			--right: calc(var(--size) * 0.65);
+			--left: calc(var(--size) * -0.65);
+			--long-right: calc(var(--size) * 0.46);
+			--long-left: calc(var(--size) * -0.46);
+
+			transform: scale(0.75);
+			color: hsl(40, 100%, 50%);
+			box-shadow: inset 0 0 0 var(--size), var(--left) 0 0 var(--ray-size),
+				var(--right) 0 0 var(--ray-size), 0 var(--left) 0 var(--ray-size),
+				0 var(--right) 0 var(--ray-size), var(--long-left) var(--long-left) 0 var(--ray-size),
+				var(--long-right) var(--long-right) 0 var(--ray-size),
+				var(--long-left) var(--long-right) 0 var(--ray-size),
+				var(--long-right) var(--long-left) 0 var(--ray-size);
+
+			&:hover {
+				color: #1c1e26;
+			}
+		}
 	}
 </style>
