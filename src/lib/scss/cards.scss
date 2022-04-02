@@ -52,8 +52,8 @@
 
 			&:hover {
 				animation: hue-rotate 2s linear infinite;
-				transform: scale(1.15);
-				transition-duration: 2s;
+				transform: scale(1.1);
+				transition-duration: 5s;
 			}
 		}
 
@@ -89,8 +89,8 @@
 			font-size: 0.9rem;
 		}
 
-		.footer {
-		}
+		// .footer {
+		// }
 
 		.tags {
 			display: flex;

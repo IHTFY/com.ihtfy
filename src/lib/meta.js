@@ -4,10 +4,18 @@
 
 export const siteBaseUrl = 'https://site.ihtfy.com';
 
-export const keywords = ['Frankie Mercado', 'IHopeThisFindsYou', 'IHTFY', 'software', 'code', 'coding', 'math'];
+export const keywords = [
+	'Frankie Mercado',
+	'IHopeThisFindsYou',
+	'IHTFY',
+	'software',
+	'code',
+	'coding',
+	'math'
+];
 
 export const description = 'I like to write code, do math, make music, and play with fire.';
 
-export const title = 'IHTFY | Frankie Mercado';
+export const title = 'IHTFY';
 
 export const image = `${siteBaseUrl}/images/site-preview.png`;
