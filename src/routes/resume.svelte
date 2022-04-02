@@ -10,9 +10,9 @@
 		nomodule=""
 		src="https://cdn.jsdelivr.net/gh/matfantinel/resume@master/output/resume/resume.js"></script>
 
-	<title>Resume - {title}</title>
-	<meta property="og:title" content="Resume - {title}" />
-	<meta name="twitter:title" content="Resume - {title}" />
+	<title>Resume | {title}</title>
+	<meta property="og:title" content="Resume | {title}" />
+	<meta name="twitter:title" content="Resume | {title}" />
 </svelte:head>
 
 <div class="resume-wrapper">

@@ -41,9 +41,9 @@
 	<meta property="og:description" content={post.excerpt} />
 	<meta name="twitter:description" content={post.excerpt} />
 
-	<title>{post.title} - {title}</title>
-	<meta property="og:title" content="{post.title} - {title}" />
-	<meta name="twitter:title" content="{post.title} - {title}" />
+	<title>{post.title} | {title}</title>
+	<meta property="og:title" content="{post.title} | {title}" />
+	<meta name="twitter:title" content="{post.title} | {title}" />
 
 	<meta property="og:image" content="{siteBaseUrl}/images/posts/{post.slug}/cover.jpg" />
 	<meta name="twitter:image" content="{siteBaseUrl}/images/posts/{post.slug}/cover.jpg" />
