@@ -11,11 +11,12 @@
 	</div>
 	<div class="content">
 		<div class="copyright">
-			© {currentYear} Matheus Fantinel. Made in Brazil.
+			© {currentYear} IHTFY
 		</div>
 		<div class="credits">
-			Powered by <a href="https://kit.svelte.dev/" target="_blank" rel="noopener">SvelteKit</a>.
-			Icons by <a href="https://iconoir.com/" target="_blank" rel="noopener">Iconoir</a>.
+			Check out <a href="https://github.com/IHTFY/com.ihtfy" target="_blank" rel="noopener"
+				>the code for this site</a
+			>.
 		</div>
 		<div class="socials">
 			<Socials />
