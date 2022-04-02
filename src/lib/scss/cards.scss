@@ -3,7 +3,7 @@
 	box-shadow: var(--card-shadow);
 	color: var(--text-color);
 	border-radius: 10px;
-	transition: all 500ms ease;
+	transition: all 0.5s ease;
 	position: relative;
 	overflow: hidden;
 	width: 100%;
@@ -18,7 +18,7 @@
 	&:hover {
 		box-shadow: var(--card-shadow-hover);
 		transform: scale(1.01);
-		transition-duration: 100ms;
+		transition-duration: 0.1s;
 
 		&.clickable {
 			cursor: pointer;
@@ -33,6 +33,7 @@
 		height: min(50%, 350px);
 		min-height: 240px;
 		max-height: 350px;
+		overflow: hidden;
 
 		picture,
 		img {
@@ -47,9 +48,12 @@
 			height: 100%;
 			object-fit: cover;
 			position: absolute;
+			transition-duration: 0.5s;
 
 			&:hover {
 				animation: hue-rotate 2s linear infinite;
+				transform: scale(1.15);
+				transition-duration: 2s;
 			}
 		}
 
