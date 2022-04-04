@@ -20,7 +20,7 @@
 		<OneByOneGrid>
 			<ProjectsGrid>
 				<Card>
-					<div slot="image">
+					<!-- <div slot="image">
 						<Image path="projects" filename="personal-website" alt="Personal Website" />
 					</div>
 					<div slot="content">
@@ -54,11 +54,11 @@
 							<Tag>Svelte</Tag>
 							<Tag color="secondary">Open Source</Tag>
 						</div>
-					</div>
+					</div> -->
 				</Card>
 
 				<Card>
-					<div slot="image">
+					<!-- <div slot="image">
 						<Image path="projects" filename="pocket-companion" alt="Pocket Companion" />
 					</div>
 					<div slot="content">
@@ -104,11 +104,11 @@
 							<Tag>Ionic</Tag>
 							<Tag color="secondary">Open Source</Tag>
 						</div>
-					</div>
+					</div> -->
 				</Card>
 
 				<Card>
-					<div slot="image">
+					<!-- <div slot="image">
 						<Image path="projects" filename="gestek" alt="Gestek" />
 					</div>
 					<div slot="content">
@@ -137,13 +137,13 @@
 							<Tag>Angular</Tag>
 							<Tag>PWA</Tag>
 						</div>
-					</div>
+					</div> -->
 				</Card>
 			</ProjectsGrid>
 
 			<ThreeByThreeGrid>
 				<Card>
-					<div slot="image">
+					<!-- <div slot="image">
 						<Image path="projects" filename="moneta" alt="Moneta" />
 					</div>
 					<div slot="content">
@@ -183,11 +183,11 @@
 							<Tag>Desktop</Tag>
 							<Tag color="secondary">Open Source</Tag>
 						</div>
-					</div>
+					</div> -->
 				</Card>
 
 				<Card>
-					<div slot="image">
+					<!-- <div slot="image">
 						<Image path="projects" filename="reminduck" alt="Reminduck" />
 					</div>
 					<div slot="content">
@@ -227,7 +227,7 @@
 							<Tag>Desktop</Tag>
 							<Tag color="secondary">Open Source</Tag>
 						</div>
-					</div>
+					</div> -->
 				</Card>
 			</ThreeByThreeGrid>
 		</OneByOneGrid>
