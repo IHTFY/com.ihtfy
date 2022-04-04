@@ -1,0 +1,13 @@
+table {
+	width: '100%';
+	border-radius: '0.375rem';
+	background: 'red';
+
+	// background-color: 'var(--c-prose-alt-bg)';
+}
+
+table th {
+	color: 'var(--un-prose-links)';
+	font-size: '1.125rem';
+	text-transform: 'uppercase';
+}
