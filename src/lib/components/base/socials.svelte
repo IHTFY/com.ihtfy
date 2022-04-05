@@ -18,7 +18,7 @@
 	>
 		<YouTubeIcon />
 	</a>
-	<a href="https://github.com/IHTFY/" target="_blank" rel="noopener" title="See my GitHub profile">
+	<a href="https://github.com/IHTFY/" target="_blank" rel="noopener" title="See my code on GitHub">
 		<GitHubIcon />
 	</a>
 	<a
