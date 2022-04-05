@@ -1,6 +1,6 @@
 ---
-slug: Reminders
-title: "Reminders"
+slug: reminders
+title: "reminders"
 date: "2022-03-19"
 excerpt: 'TODO'
 tags: [todo]

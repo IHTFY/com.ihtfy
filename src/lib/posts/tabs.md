@@ -1,6 +1,6 @@
 ---
-slug: Tabs
-title: "Tabs"
+slug: tabs
+title: "tabs"
 date: "2022-01-09"
 excerpt: 'TODO'
 tags: [todo]
