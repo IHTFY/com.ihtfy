@@ -18,19 +18,22 @@
 				xlink:href="#gentle-wave"
 				x="48"
 				y="0"
-				fill="rgba(var(--page-background-color-rgb),0.7)"
+				fill="var(--page-background-color)"
+				opacity="0.7"
 			/>
 			<use
 				xlink:href="#gentle-wave"
 				x="48"
 				y="3"
-				fill="rgba(var(--page-background-color-rgb),0.5)"
+				fill="var(--page-background-color)"
+				opacity="0.5"
 			/>
 			<use
 				xlink:href="#gentle-wave"
 				x="48"
 				y="5"
-				fill="rgba(var(--page-background-color-rgb),0.3)"
+				fill="var(--page-background-color)"
+				opacity="0.3"
 			/>
 			<use xlink:href="#gentle-wave" x="48" y="7" fill="var(--page-background-color)" />
 		</g>

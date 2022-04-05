@@ -156,7 +156,8 @@
 
 			.note {
 				font-size: 90%;
-				color: rgba(var(--text-color-rgb), 0.8);
+				color: var(--text-color);
+				opacity: 0.8;
 			}
 		}
 
@@ -221,7 +222,8 @@
 				font-size: 0.85rem;
 				text-align: center;
 				margin-bottom: 2rem;
-				color: rgba(var(--text-color-rgb), 0.8);
+				color: var(--text-color);
+				opacity: 0.8;
 			}
 
 			:global(blockquote) {

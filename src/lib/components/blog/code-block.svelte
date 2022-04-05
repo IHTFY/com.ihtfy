@@ -23,7 +23,7 @@
 		font-size: 1rem;
 		line-height: 1.33em;
 		border-radius: 8px;
-		box-shadow: var(--card-shadow);
+		box-shadow: var(--shadow);
 
 		padding: 30px 15px;
 		margin: 30px 0;
