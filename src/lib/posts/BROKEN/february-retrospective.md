@@ -1,6 +1,6 @@
 ---
-slug: February Retrospective
-title: "February Retrospective"
+slug: february-retrospective
+title: "february retrospective"
 date: "2022-03-02"
 excerpt: 'TODO'
 tags: [todo]

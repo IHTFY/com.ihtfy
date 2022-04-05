@@ -1,6 +1,6 @@
 ---
-slug: Buzzing
-title: "Buzzing"
+slug: buzzing
+title: "buzzing"
 date: "2022-03-13"
 excerpt: 'TODO'
 tags: [todo]

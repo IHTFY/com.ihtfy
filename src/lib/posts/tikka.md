@@ -1,6 +1,6 @@
 ---
-slug: Tikka
-title: "Tikka"
+slug: tikka
+title: "tikka"
 date: "2022-03-08"
 excerpt: 'TODO'
 tags: [todo]
