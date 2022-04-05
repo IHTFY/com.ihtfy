@@ -1,6 +1,6 @@
 ---
-slug: Games
-title: "Games"
+slug: games
+title: "games"
 date: "2021-07-16"
 excerpt: 'TODO'
 tags: [todo]

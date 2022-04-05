@@ -1,6 +1,6 @@
 ---
-slug: Parking
-title: "Parking"
+slug: parking
+title: "parking"
 date: "2022-03-10"
 excerpt: 'TODO'
 tags: [todo]

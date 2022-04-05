@@ -1,5 +1,5 @@
 ---
-slug: Two days
+slug: two-days
 title: "Two days"
 date: "2022-03-09"
 excerpt: 'TODO'

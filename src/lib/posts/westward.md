@@ -1,6 +1,6 @@
 ---
-slug: Westward
-title: "Westward"
+slug: westward
+title: "westward"
 date: "2022-01-05"
 excerpt: 'TODO'
 tags: [todo]
