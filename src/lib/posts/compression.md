@@ -174,10 +174,10 @@ It doesn't look like we did much, and honestly, we didn't. This is because we us
 
 Since our data is just numbers, we can store that efficiently. Letters are actually stored as numbers; there are different formats for encoding and interpreting them.
 
-ASCII originally used 7 bits per character, which gives you 27 (128) different numbers. That's enough to store the uppercase and lowercase letters, the numerals 0-9, the punctuation you have on the top row of a keyboard, and a few other special characters like "carriage return" or new line.
+ASCII originally used 7 bits per character, which gives you 2⁷ (128) different numbers. That's enough to store the uppercase and lowercase letters, the numerals 0-9, the punctuation you have on the top row of a keyboard, and a few other special characters like "carriage return" or new line.
 
 UTF-8 uses a byte (8 bits or 256 numbers) to store each character. It works for decoding ASCII , but it can also be used to decode Unicode by using up to 4 bytes (32 bits or 4,294,967,296 numbers), although Unicode only specifies 1,112,064 different characters.
 
-UTF-16 uses 16 bits (216 = 65536) to encode. It works with Unicode but not ASCII. These extra numbers can label characters for every language, random symbols, emoji.
+UTF-16 uses 16 bits (2¹⁶ = 65536) to encode. It works with Unicode but not ASCII. These extra numbers can label characters for every language, random symbols, emoji.
 
 If we wanted to encode (from letters to numbers) Romeo and Juliet written in another alphabet, Chinese for example, we'd need to store each character using a large number - probably in the thousands. But if we applied LZ encoding, we would only be storing numbers from 0 to something under 10,000 I'd guess.
