@@ -1,5 +1,5 @@
 ---
-slug: Happy New Year
+slug: happy-new-year
 title: "Happy New Year"
 date: "2022-01-02"
 excerpt: 'TODO'

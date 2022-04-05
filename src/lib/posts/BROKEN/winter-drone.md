@@ -1,5 +1,5 @@
 ---
-slug: Winter Drone
+slug: winter-drone
 title: "Winter Drone"
 date: "2022-01-03"
 excerpt: 'TODO'

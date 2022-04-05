@@ -1,6 +1,6 @@
 ---
-slug: Meatballs
-title: "Meatballs"
+slug: meatballs
+title: "meatballs"
 date: "2022-03-03"
 excerpt: 'TODO'
 tags: [todo]
