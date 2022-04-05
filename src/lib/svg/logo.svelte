@@ -55,22 +55,15 @@
 	#logo {
 		width: auto;
 		height: 100%;
-	}
 
-	#logo {
 		#icon {
 			transition: all 0.2s ease-in-out;
-
 			fill: var(--text-light-color);
 			stroke: var(--text-light-color);
 
 			path {
 				fill: none;
 				stroke: inherit;
-			}
-			&:hover {
-				fill: none;
-				stroke: var(--primary-light-color);
 			}
 		}
 
@@ -82,6 +75,17 @@
 			path {
 				fill: inherit;
 				stroke: inherit;
+			}
+		}
+
+		&:hover {
+			#icon {
+				stroke: var(--callout-info-accent-color);
+			}
+
+			#name {
+				fill: var(--callout-info-accent-color);
+				stroke: none;
 			}
 		}
 	}
@@ -112,10 +116,8 @@
 
 	@media screen and (prefers-reduced-motion: no-preference) {
 		#logo.animated {
-			#icon {
-				> path {
-					animation: animate-svg-stroke 3s ease-in-out 0s both;
-				}
+			#icon > path {
+				animation: animate-svg-stroke 3s ease-in-out 0s both;
 			}
 			#name {
 				> path:nth-child(1) {
