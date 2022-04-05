@@ -1,5 +1,5 @@
 ---
-slug: PWA
+slug: pwa
 title: "PWA"
 date: "2022-01-14"
 excerpt: 'TODO'

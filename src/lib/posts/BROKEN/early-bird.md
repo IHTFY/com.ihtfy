@@ -1,6 +1,6 @@
 ---
-slug: Early Bird
-title: "Early Bird"
+slug: early-bird
+title: "early bird"
 date: "2022-01-06"
 excerpt: 'TODO'
 tags: [todo]

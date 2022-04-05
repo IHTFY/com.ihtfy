@@ -1,6 +1,6 @@
 ---
-slug: Drunken Crawfish
-title: "Drunken Crawfish"
+slug: drunken-crawfish
+title: "drunken crawfish"
 date: "2022-01-07"
 excerpt: 'TODO'
 tags: [todo]

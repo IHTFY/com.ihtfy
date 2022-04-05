@@ -1,5 +1,5 @@
 ---
-slug: Hotel ACs
+slug: hotel-acs
 title: "Hotel ACs"
 date: "2022-01-12"
 excerpt: 'TODO'

@@ -1,6 +1,6 @@
 ---
-slug: Parallel
-title: "Parallel"
+slug: parallel
+title: "parallel"
 date: "2022-02-26"
 excerpt: 'TODO'
 tags: [todo]

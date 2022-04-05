@@ -1,6 +1,6 @@
 ---
-slug: Quarter
-title: "Quarter"
+slug: quarter
+title: "quarter"
 date: "2022-03-25"
 excerpt: 'TODO'
 tags: [todo]

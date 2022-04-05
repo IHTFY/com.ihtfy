@@ -1,6 +1,6 @@
 ---
-slug: Phantom
-title: "Phantom"
+slug: phantom
+title: "phantom"
 date: "2022-03-11"
 excerpt: 'TODO'
 tags: [todo]
