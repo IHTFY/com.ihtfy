@@ -1,6 +1,6 @@
 .card {
 	background: var(--card-background-color);
-	box-shadow: var(--card-shadow);
+	box-shadow: var(--shadow);
 	color: var(--text-color);
 	border-radius: 10px;
 	transition: all 0.5s ease;
@@ -14,7 +14,7 @@
 
 	&:hover {
 		text-decoration: none;
-		box-shadow: var(--card-shadow-hover);
+		box-shadow: var(--shadow-hover);
 		transform: scale(1.01);
 		transition-duration: 0.1s;
 
@@ -73,7 +73,8 @@
 		}
 		.note {
 			font-size: 0.8rem;
-			color: rgba(var(--text-color-rgb), 0.8);
+			color: var(--text-color);
+			opacity: 0.8;
 		}
 		.text {
 			margin-top: 5px;

@@ -64,10 +64,6 @@ h5 {
 	color: var(--secondary-color);
 	fill: var(--secondary-color);
 }
-.text-lighter {
-	color: rgba(var(--text-color-rgb), 0.8);
-	fill: rgba(var(--text-color-rgb), 0.8);
-}
 .justify {
 	text-align: justify;
 }
@@ -76,7 +72,7 @@ h5 {
 	fill: var(--callout-info-accent-color);
 }
 ::selection {
-	background-color: rgba(var(--primary-color-rgb), 0.3);
+	background-color: rgba(var(--primary-color), 0.3);
 	color: var(--text-color);
 	text-shadow: none;
 }
