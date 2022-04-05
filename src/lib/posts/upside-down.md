@@ -1,6 +1,6 @@
 ---
-slug: Upside-down
-title: "Upside-down"
+slug: upside-down
+title: "upside-down"
 date: "2022-03-26"
 excerpt: 'TODO'
 tags: [todo]

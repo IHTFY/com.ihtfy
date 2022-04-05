@@ -1,6 +1,6 @@
 ---
-slug: Studio
-title: "Studio"
+slug: studio
+title: "studio"
 date: "2022-03-17"
 excerpt: 'TODO'
 tags: [todo]

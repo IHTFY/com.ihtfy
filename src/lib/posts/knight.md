@@ -1,6 +1,6 @@
 ---
-slug: Knight
-title: "Knight"
+slug: knight
+title: "knight"
 date: "2021-03-16"
 excerpt: 'TODO'
 tags: [todo]

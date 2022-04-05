@@ -1,5 +1,5 @@
 ---
-slug: Taco Dip
+slug: taco-dip
 title: "Taco Dip"
 date: "2022-01-08"
 excerpt: 'TODO'
