@@ -1,6 +1,6 @@
 ---
-slug: Workout
-title: "Workout"
+slug: workout
+title: "workout"
 date: "2021-03-16"
 excerpt: 'TODO'
 tags: [todo]

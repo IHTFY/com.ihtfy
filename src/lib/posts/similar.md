@@ -1,6 +1,6 @@
 ---
-slug: Similar
-title: "Similar"
+slug: similar
+title: "similar"
 date: "2022-03-14"
 excerpt: 'TODO'
 tags: [todo]

@@ -1,6 +1,6 @@
 ---
-slug: Hibachi
-title: "Hibachi"
+slug: hibachi
+title: "hibachi"
 date: "2022-01-04"
 excerpt: 'TODO'
 tags: [todo]

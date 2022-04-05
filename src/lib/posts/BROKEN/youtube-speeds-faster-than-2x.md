@@ -1,5 +1,5 @@
 ---
-slug: YouTube Speeds Faster Than 2x
+slug: youtube-speeds-faster-than-2x
 title: "YouTube Speeds Faster Than 2x"
 date: "2019-06-08"
 excerpt: 'TODO'
