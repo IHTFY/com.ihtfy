@@ -1,8 +1,5 @@
 <script>
 	import '../app.scss';
-	import Waves from '$lib/components/layout/waves.svelte';
-	import Header from '$lib/components/layout/header.svelte';
-	import Footer from '$lib/components/layout/footer.svelte';
 	import { description, image, keywords, title } from '$lib/meta';
 	import { onMount } from 'svelte';
 	import { theme } from '$lib/components/style/theme.js';
@@ -56,12 +53,4 @@
 	</script>
 </svelte:head>
 
-<Waves />
-
-<Header />
-
-<main>
-	<slot />
-</main>
-
-<Footer />
+<slot />
