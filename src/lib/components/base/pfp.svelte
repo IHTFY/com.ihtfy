@@ -7,20 +7,27 @@
 	const leaving = () => (isHovered = 0);
 </script>
 
-<div on:mouseover={hovering} on:focus={hovering} on:mouseout={leaving} on:blur={leaving}>
-	<div id="regular" style="opacity: {1 - isHovered};">
+<div id="wrap" on:mouseover={hovering} on:focus={hovering} on:mouseout={leaving} on:blur={leaving}>
+	<div id="regular" style="transform: translate(0px, {20 + isHovered * 250}px)">
 		<Image path="avatar" alt="Frankie" filename="avatar" />
 	</div>
-	<div id="alternate" style="opacity: {isHovered};">
+	<div id="alternate" style="transform: translate(0px, {20 + (1 - isHovered) * 250}px)">
 		<Image path="avatar" alt="Frankie" filename="avatar-alt" />
 	</div>
 </div>
 
 <style>
+	#wrap {
+		width: 100%;
+		height: 100%;
+		transform: scale(1.1);
+		overflow: hidden;
+	}
+
 	#regular,
 	#alternate {
 		transition: all 0.5s ease;
 		position: absolute;
-		transform: scale(1.1) translate(0px, 20px);
+		transform: translate(0px, 20px);
 	}
 </style>
