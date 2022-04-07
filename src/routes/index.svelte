@@ -1,4 +1,4 @@
-<script context="module">
+<script context="module">	
 	export async function load({ fetch }) {
 		const url = '/posts.json';
 		const res = await fetch(url);
@@ -42,6 +42,6 @@
 		<About />
 		<RecentPosts {posts} />
 		<Projects />
-		<Experience />
+		<!-- <Experience /> -->
 	</div>
 </WavesLayout>
