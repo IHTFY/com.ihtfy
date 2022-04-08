@@ -22,10 +22,12 @@
 		height: 100%;
 		transform: scale(1.1);
 		overflow: hidden;
+		user-select: none;
 	}
 
 	#regular,
 	#alternate {
+		width: 100%;
 		transition: all 0.5s ease;
 		position: absolute;
 		transform: translate(0px, 20px);
