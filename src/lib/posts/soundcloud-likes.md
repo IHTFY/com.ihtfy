@@ -59,7 +59,8 @@ Next, you want to add the folder that contains the `youtube-dl.exe` file. Click 
 
 Now the terminal will be able to find `youtube-dl.exe`, and you can refer to it without using the full path to the file.
 
-Now, you can periodically run that file to download your liked songs from SoundCloud. By default, `youtube-dl` will download from newest to oldest, so once you start seeing 
->... has already been downloaded
+Now, you can periodically run that file to download your liked songs from SoundCloud. By default, `youtube-dl` will download from newest to oldest, so once you start seeing
 
- you can stop the script by closing the window. Note, you'll want to keep all your songs in that folder so that `youtube-dl` can tell when it's already downloaded a file; there's no other history built in.
+> ... has already been downloaded
+
+you can stop the script by closing the window. Note, you'll want to keep all your songs in that folder so that `youtube-dl` can tell when it's already downloaded a file; there's no other history built in.

@@ -27,7 +27,7 @@ Based on the party game. I should make a full post about this one.
 
 I tried a lot of new things while making this game; this was my first multiplayer game.
 
-* * *
+---
 
 ## Telewave
 
@@ -42,7 +42,7 @@ I tried a lot of new things while making this game; this was my first multiplaye
 
 Based on the board game, [Wavelength](https://www.wavelength.zone/).
 
-* * *
+---
 
 ## Optics
 
@@ -57,7 +57,7 @@ Based on the board game, [Wavelength](https://www.wavelength.zone/).
 
 Based on the card game, [Illusion](https://pandasaurusgames.com/products/illusion). I first played this over the 4th of July weekend.
 
-* * *
+---
 
 ## Knight Puzzle
 

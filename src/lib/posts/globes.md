@@ -97,5 +97,4 @@ These images were created using PTGui and Photoshop.
 
 I took a series of 360x180 spherical panoramas at Picnic Point in Madison at sunset. In high light levels I use high speed bursts of photos, like a low frame rate movie. Stitching the photos becomes very simple with so many photos. In low light, the images blur making it harder to stitch. Next time I do a low light panorama I'll try a different technique.
 
-
 ![timelapse](/optimized-images/posts/globes/timelapse.gif)

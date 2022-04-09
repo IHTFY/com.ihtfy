@@ -21,16 +21,16 @@ The other day, I made a function to return an arbitrary diagonal of a matrix.
 ```javascript
 /**
  * The range of % is (-n, n). positiveMode restricts the range to [0, n).
- * 
- * @param {a value} x 
- * @param {the modulus} n 
+ *
+ * @param {a value} x
+ * @param {the modulus} n
  * @returns x mod n | x ϵ [0,n)
  */
 const positiveMod = (x, n) => ((x % n) + n) % n;
 
 /**
  * Pick a diagonal from a grid.
- * 
+ *
  * @param {3x3 grid} grid
  * @param {column index of first element} diagonalIndex
  * @param {1: right, -1: left} direction
@@ -44,14 +44,14 @@ const positiveMod = (x, n) => ((x % n) + n) % n;
  */
 
 export const getDiagonal = (grid, diagonalIndex, direction) => {
-  if (diagonalIndex < 0) {
-    diagonalIndex = positiveMod(diagonalIndex, grid[0].length);
-  }
-  const output = [];
-  for (let i = 0; i < grid.length; i++) {
-    output.push(grid[i][positiveMod(diagonalIndex + direction * i, grid[i].length)]);
-  }
-  return output;
+	if (diagonalIndex < 0) {
+		diagonalIndex = positiveMod(diagonalIndex, grid[0].length);
+	}
+	const output = [];
+	for (let i = 0; i < grid.length; i++) {
+		output.push(grid[i][positiveMod(diagonalIndex + direction * i, grid[i].length)]);
+	}
+	return output;
 };
 ```
 

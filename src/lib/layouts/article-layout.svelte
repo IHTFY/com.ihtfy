@@ -5,7 +5,7 @@
 	import { siteBaseUrl } from '$lib/meta';
 	export let title;
 	export let image;
-	export let excerpt;	
+	export let excerpt;
 </script>
 
 <svelte:head>
