@@ -2,8 +2,8 @@
 slug: january-retrospective
 title: january retrospective
 date: 2022-02-01
-excerpt: 'TODO'
-tags: [todo]
+excerpt: How did I do in January?
+tags: [website, review]
 ---
 
 On January 1st, 2022, I listed some goals for the year.

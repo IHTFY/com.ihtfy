@@ -1,9 +1,9 @@
 ---
 slug: hotel-tvs
-title: "hotel TVs"
-date: "2022-01-11"
-excerpt: 'TODO'
-tags: [todo]
+title: Hotel TVs
+date: 2022-01-11
+excerpt: Hacking the hotel TV
+tags: [hack, tutorial, experiment]
 ---
 
 <script>

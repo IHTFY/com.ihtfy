@@ -2,8 +2,8 @@
 slug: happy-new-year
 title: Happy New Year
 date: 2022-01-02
-excerpt: 'TODO'
-tags: [todo]
+excerpt: Starting daily posts
+tags: [website]
 ---
 
 I have 30 minutes to write this. I wanted to post something on January 1st and hopefully every day this year. Perhaps I'll count YouTube videos as part of the streak, but I could probably make a post here as well on those days.

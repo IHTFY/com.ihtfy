@@ -1,9 +1,9 @@
 ---
 slug: upside-down
-title: "upside-down"
-date: "2022-03-26"
-excerpt: 'TODO'
-tags: [todo]
+title: upside-down
+date: 2022-03-26
+excerpt: I've seen a couple videos of people putting frozen cheese pizza upside-down in the oven.
+tags: [random]
 ---
 
 I've seen a couple videos of people putting frozen cheese pizza upside-down in the oven.

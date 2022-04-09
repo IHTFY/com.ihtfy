@@ -1,9 +1,9 @@
 ---
 slug: february-retrospective
-title: "february retrospective"
+title: february retrospective
 date: 2022-03-02
-excerpt: 'TODO'
-tags: [todo]
+excerpt: Reviewing my February goal progress
+tags: [website, review]
 ---
 
 <script>

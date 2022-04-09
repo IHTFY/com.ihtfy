@@ -1,9 +1,9 @@
 ---
 slug: factory
-title: "factory"
-date: "2022-03-18"
-excerpt: 'TODO'
-tags: [todo]
+title: factory
+date: 2022-03-18
+excerpt: How to setup Google Home speakers in a new house.
+tags: [random]
 ---
 
 I was having trouble setting up my Google home speakers with the new wifi. The only way to fix it was to factory reset the speaker using [these instructions](https://support.google.com/googlenest/answer/7073477?hl=en#zippy=%2Cgoogle-home-max%2Cgoogle-nest-mini-nd-gen).

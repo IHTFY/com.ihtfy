@@ -1,9 +1,9 @@
 ---
 slug: migrating
-title: "migrating"
-date: "2022-02-20"
-excerpt: 'TODO'
-tags: [todo]
+title: migrating
+date: 2022-02-20
+excerpt: Moving my site to GitHub
+tags: [code, design, website]
 ---
 
 <script>

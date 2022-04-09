@@ -1,9 +1,9 @@
 ---
 slug: westward
-title: "westward"
-date: "2022-01-05"
-excerpt: 'TODO'
-tags: [todo]
+title: westward
+date: 2022-01-05
+excerpt: I flew back to California
+tags: [random]
 ---
 
 <script>

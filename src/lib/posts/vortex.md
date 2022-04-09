@@ -1,9 +1,9 @@
 ---
 slug: vortex
-title: "vortex"
-date: "2022-02-22"
-excerpt: 'TODO'
-tags: [todo]
+title: vortex
+date: 2022-02-22
+excerpt: I finished the vortex math thing.
+tags: [code, math]
 ---
 
 I finished the modular times table vortex. Here's the finished site: [https://vortex.ihtfy.com/](https://vortex.ihtfy.com/)

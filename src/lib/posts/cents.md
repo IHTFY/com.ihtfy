@@ -1,9 +1,9 @@
 ---
 slug: cents
-title: "cents"
-date: "2022-02-23"
-excerpt: 'TODO'
-tags: [todo]
+title: cents
+date: 2022-02-23
+excerpt: Thinking about ads
+tags: [design]
 ---
 
 For a short time, I had ads on my website. I checked Google AdSense and I see that my balance is $11.58. I haven't actually gotten paid though, because there's a $100 minimum withdrawal.

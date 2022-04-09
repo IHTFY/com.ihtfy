@@ -2,8 +2,8 @@
 slug: globes
 title: globes
 date: 2015-09-15
-excerpt: 'TODO'
-tags: ['todo']
+excerpt: Spherical panoramas
+tags: [photography]
 ---
 
 <script>

@@ -1,8 +1,8 @@
 ---
 slug: anodize
-title: "anodize"
-date: "2022-02-07"
-excerpt: 'Taking a blow torch to a paperclip'
+title: anodize
+date: 2022-02-07
+excerpt: Taking a blow torch to a paperclip
 tags: [science, experiment]
 ---
 

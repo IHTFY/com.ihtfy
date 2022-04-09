@@ -2,8 +2,8 @@
 slug: milk-tea-doppelgangers
 title: milk tea doppelgangers
 date: 2022-01-19
-excerpt: 'TODO'
-tags: [todo]
+excerpt: Milktea is cereal milk.
+tags: [food, random]
 ---
 
 I've noticed some milk teas taste like breakfast cereals:

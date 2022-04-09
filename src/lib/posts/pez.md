@@ -1,9 +1,9 @@
 ---
 slug: pez
-title: "pez"
-date: "2022-03-21"
-excerpt: 'TODO'
-tags: [todo]
+title: pez
+date: 2022-03-21
+excerpt: I got the pez dispenser in the mail today.
+tags: [random, hack]
 ---
 
 <script>
