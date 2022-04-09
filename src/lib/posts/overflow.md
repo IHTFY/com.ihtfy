@@ -41,7 +41,7 @@ Another idea: I might have themes for styling: Mathologer (white background), 3B
 
 ## Setup
 
-I'll make a new folder called \`vortex\`. I'll download the latest version of [Materialize](https://materializecss.github.io/materialize/getting-started.html) and [D3](https://d3js.org/). Hmm, the download link for the SASS version of Materialize doesn't work, so I'll just get the regular version.
+I'll make a new folder called `vortex`. I'll download the latest version of [Materialize](https://materializecss.github.io/materialize/getting-started.html) and [D3](https://d3js.org/). Hmm, the download link for the SASS version of Materialize doesn't work, so I'll just get the regular version.
 
 I'll make a new html file called `index.html` and insert the default html from [here](https://materializecss.github.io/materialize/getting-started.html#setup). I'm going to download those dependencies (icons) later so that everything is offline. I rearranged the file structure a bit, so I updated the relative paths in the `src` attributes. I'm also putting the `<script>` tags in the `<head>` and adding the `defer` attribute.
 
@@ -51,7 +51,7 @@ Now, I'll see if D3 is working by doing a "hello world". I make a file called `m
 
 d3.select("body").append("span").text("Hello, world!");
 
-It works. I'm going to save this in GitHub, and set up a public page. In VSCode, I can go to Source Control, then "Publish to GitHub". I'll make it a public repository called "vortex". [Here it is](https://github.com/IHTFY/vortex). To make a page for it on GitHub, I go to Settings > Pages > set Source to Master > Save. Now it's public at https://ihtfy.github.io/vortex/. To give it a custom URL, I'll add a file in the root of the project called `CNAME` with the text \`vortex.ihtfy.com\`.
+It works. I'm going to save this in GitHub, and set up a public page. In VSCode, I can go to Source Control, then "Publish to GitHub". I'll make it a public repository called "vortex". [Here it is](https://github.com/IHTFY/vortex). To make a page for it on GitHub, I go to Settings > Pages > set Source to Master > Save. Now it's public at https://ihtfy.github.io/vortex/. To give it a custom URL, I'll add a file in the root of the project called `CNAME` with the text `vortex.ihtfy.com`.
 
 I also need to set it up in my DNS settings for ihtfy.com. I'll add a CNAME record with a hostname of `vortex.ihtfy.com` and use `ihtfy.github.io.` as the data. Finally, in the GitHub Pages settings, I'll add `vortex.ihtfy.com` as a Custom Domain. In a minute or so, I can also enable HTTPS.
 
@@ -68,12 +68,12 @@ I modify the "hello world" a bit to draw a circle:
 ```javascript
 const svg = d3.select('#display');
 svg
-  .append('circle')
-  .attr('cx', '50%')
-  .attr('cy', '50%')
-  .attr('r', 100)
-  .style('fill', 'none')
-  .style('stroke', 'black');
+	.append('circle')
+	.attr('cx', '50%')
+	.attr('cy', '50%')
+	.attr('r', 100)
+	.style('fill', 'none')
+	.style('stroke', 'black');
 ```
 
 </CodeBlock>

@@ -20,8 +20,7 @@ The goal was to motivate myself to merely continue exercising. In the past, I wo
 
 ## Adding and Subtracting Reps
 
-![workout gif](https://github.com/IHTFY/workout/blob/main/gifs/dayN.gif?raw=true "Adding and Subtracting Reps")
-
+![workout gif](https://github.com/IHTFY/workout/blob/main/gifs/dayN.gif?raw=true 'Adding and Subtracting Reps')
 
 Originally, I was just using a spreadsheet to type in the reps as I completed them. This worked, but I wanted to have buttons that I could click rather than backspacing and retyping each number. There are `+5` and `-1` buttons for each exercise, so you can easily "add nickels" and "subtract pennies" to get your exact count quickly.
 
@@ -31,7 +30,6 @@ The data is stored in your browser's `localStorage` which persists when you rest
 
 ![Toggle Lines](https://github.com/IHTFY/workout/blob/main/gifs/toggle.gif?raw=true)
 
-
 You can toggle different exercises on and off, but note that the Average line is still using the original y-axes scale; its scale is locked to the default behind the scenes.
 
 There is an option to manually edit the data points. It uses JSON format, so be careful to follow the pattern and not add extra commas, brackets, or leading zeros.
@@ -39,6 +37,5 @@ There is an option to manually edit the data points. It uses JSON format, so be 
 ## Edit the Data
 
 ![](https://github.com/IHTFY/workout/blob/main/gifs/edit.gif?raw=true)
-
 
 [Try it out](https://workout.ihtfy.com/), or see the [source code](https://github.com/IHTFY/workout)

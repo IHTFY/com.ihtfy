@@ -11,18 +11,18 @@ tags: [music]
 ### Song Info:
 
 - Gooddaylosecontrolwhatitis
-    - Good Day - Nappy Roots
-    - Lose Control - Missy Elliot
-    - What It Is - Lil Mama
+  - Good Day - Nappy Roots
+  - Lose Control - Missy Elliot
+  - What It Is - Lil Mama
 - Whatitisfeelright
-    - What It Is - Lil Mama
-    - Feel Right - Mark Ronson
+  - What It Is - Lil Mama
+  - Feel Right - Mark Ronson
 - Whatdoyoumeanlovemyself
-    - What Do You Mean - Justin Beiber
-    - Love Myself - Hailee Steinfeld
+  - What Do You Mean - Justin Beiber
+  - Love Myself - Hailee Steinfeld
 - Sendmeonmywayworkit
-    - Send Me On My Way - Rusted Root
-    - Work It - Missy Elliot
+  - Send Me On My Way - Rusted Root
+  - Work It - Missy Elliot
 - Chillinbuyou
-    - Chillin - Wale
-    - Buyou - Keri Hilson
+  - Chillin - Wale
+  - Buyou - Keri Hilson

@@ -88,6 +88,7 @@ if (window.confirm('Download?')) {
   link.click();
 }
 ```
+
 </CodeBlock>
 
 ### A 4K Version
@@ -210,4 +211,5 @@ pygame.image.save(DISPLAYSURF, "primes.png")
 if __name__ == '__main__':
   main()
 ```
+
 </CodeBlock>

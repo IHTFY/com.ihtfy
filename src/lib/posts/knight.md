@@ -10,7 +10,7 @@ tags: [code, gaming]
 
 I saw this video where Grandmaster Ben Finegold explains a simple chess puzzle. It only involves two pieces: a knight and a queen.
 
-[GM Ben Finegold Explains the Puzzle](https://youtu.be/SrQlpY\_eGYU?t=45)
+[GM Ben Finegold Explains the Puzzle](https://youtu.be/SrQlpY_eGYU?t=45)
 
 The goal and rules are pretty simple, and you only need to know how the two pieces work to solve it.
 
