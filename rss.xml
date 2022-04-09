@@ -7,540 +7,540 @@
     
         <item>
           <title>habit</title>
-          <description>TODO</description>
+          <description>Still working on the replacement website</description>
           <link>https://site.ihtfy.com/habit/</link>
           <pubDate>2022-04-02T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/habit/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/habit/cover.jpg"/>
         </item>
       
         <item>
           <title>again</title>
-          <description>TODO</description>
+          <description>I forgot to write again</description>
           <link>https://site.ihtfy.com/again/</link>
           <pubDate>2022-03-31T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
         </item>
       
         <item>
           <title>wombo</title>
-          <description>TODO</description>
+          <description>How I made the thumbnails for these posts.</description>
           <link>https://site.ihtfy.com/wombo/</link>
           <pubDate>2022-03-31T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="art" /><category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/wombo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/wombo/cover.jpg"/>
         </item>
       
         <item>
           <title>oops</title>
-          <description>TODO</description>
+          <description>I missed a day.</description>
           <link>https://site.ihtfy.com/oops/</link>
           <pubDate>2022-03-30T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/oops/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/oops/cover.jpg"/>
         </item>
       
         <item>
           <title>choppy</title>
-          <description>TODO</description>
+          <description>I made an unlisted stream about the IQ test generator.</description>
           <link>https://site.ihtfy.com/choppy/</link>
           <pubDate>2022-03-29T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/choppy/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/choppy/cover.jpg"/>
         </item>
       
         <item>
           <title>assembly</title>
-          <description>TODO</description>
+          <description>I like assembling furniture.</description>
           <link>https://site.ihtfy.com/assembly/</link>
           <pubDate>2022-03-28T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/assembly/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/assembly/cover.jpg"/>
         </item>
       
         <item>
           <title>schema</title>
-          <description>TODO</description>
+          <description>I'm working on the IQ test again.</description>
           <link>https://site.ihtfy.com/schema/</link>
           <pubDate>2022-03-27T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/schema/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/schema/cover.jpg"/>
         </item>
       
         <item>
           <title>upside-down</title>
-          <description>TODO</description>
+          <description>I've seen a couple videos of people putting frozen cheese pizza upside-down in the oven.</description>
           <link>https://site.ihtfy.com/upside-down/</link>
           <pubDate>2022-03-26T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/upside-down/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/upside-down/cover.jpg"/>
         </item>
       
         <item>
           <title>quarter</title>
-          <description>TODO</description>
+          <description>I'm thinking about ending the daily posts at the end of the month and transitioning to weekly instead.</description>
           <link>https://site.ihtfy.com/quarter/</link>
           <pubDate>2022-03-25T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/quarter/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/quarter/cover.jpg"/>
         </item>
       
         <item>
           <title>consoles</title>
-          <description>TODO</description>
+          <description>I'm Bob the Builder</description>
           <link>https://site.ihtfy.com/consoles/</link>
           <pubDate>2022-03-24T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/consoles/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/consoles/cover.jpg"/>
         </item>
       
         <item>
           <title>boilerplate</title>
-          <description>TODO</description>
+          <description>Working on the IQ test generator</description>
           <link>https://site.ihtfy.com/boilerplate/</link>
           <pubDate>2022-03-23T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/boilerplate/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/boilerplate/cover.jpg"/>
         </item>
       
         <item>
           <title>matrices</title>
-          <description>TODO</description>
+          <description>Thoughts about Raven's Progressive Matrices</description>
           <link>https://site.ihtfy.com/matrices/</link>
           <pubDate>2022-03-21T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="math" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
         </item>
       
         <item>
           <title>pez</title>
-          <description>TODO</description>
+          <description>I got the pez dispenser in the mail today.</description>
           <link>https://site.ihtfy.com/pez/</link>
           <pubDate>2022-03-21T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" /><category term="hack" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pez/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pez/cover.jpg"/>
         </item>
       
         <item>
           <title>reminders</title>
-          <description>TODO</description>
+          <description>I turned back on Google location history.</description>
           <link>https://site.ihtfy.com/reminders/</link>
           <pubDate>2022-03-19T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/reminders/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/reminders/cover.jpg"/>
         </item>
       
         <item>
           <title>factory</title>
-          <description>TODO</description>
+          <description>How to setup Google Home speakers in a new house.</description>
           <link>https://site.ihtfy.com/factory/</link>
           <pubDate>2022-03-18T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/factory/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/factory/cover.jpg"/>
         </item>
       
         <item>
           <title>dispenser</title>
-          <description>TODO</description>
+          <description>A Pez dispenser for pills.</description>
           <link>https://site.ihtfy.com/dispenser/</link>
           <pubDate>2022-03-17T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
         </item>
       
         <item>
           <title>studio</title>
-          <description>TODO</description>
+          <description>I own calendar.studio</description>
           <link>https://site.ihtfy.com/studio/</link>
           <pubDate>2022-03-17T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/studio/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/studio/cover.jpg"/>
         </item>
       
         <item>
           <title>informed</title>
-          <description>TODO</description>
+          <description>The USPS will email you the scans of incoming mail.</description>
           <link>https://site.ihtfy.com/informed/</link>
           <pubDate>2022-03-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/informed/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/informed/cover.jpg"/>
         </item>
       
         <item>
           <title>314</title>
-          <description>A quick look back at 2019 and what I learned during this year.</description>
+          <description>It's Pi Day.</description>
           <link>https://site.ihtfy.com/314/</link>
           <pubDate>2022-03-15T00:00:00.000Z</pubDate>
-          <category term="math" />
+          <category term="math" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/314/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/314/cover.jpg"/>
         </item>
       
         <item>
           <title>similar</title>
-          <description>TODO</description>
+          <description>Sometimes I forget which word to use.</description>
           <link>https://site.ihtfy.com/similar/</link>
           <pubDate>2022-03-14T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/similar/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/similar/cover.jpg"/>
         </item>
       
         <item>
           <title>buzzing</title>
-          <description>TODO</description>
+          <description>The random buzzing phantom notifications are back.</description>
           <link>https://site.ihtfy.com/buzzing/</link>
           <pubDate>2022-03-13T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/buzzing/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/buzzing/cover.jpg"/>
         </item>
       
         <item>
           <title>pixi</title>
-          <description>TODO</description>
+          <description>I'm playing around with PixiJS.</description>
           <link>https://site.ihtfy.com/pixi/</link>
           <pubDate>2022-03-12T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pixi/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pixi/cover.jpg"/>
         </item>
       
         <item>
           <title>phantom</title>
-          <description>TODO</description>
+          <description>My phone is annoying me.</description>
           <link>https://site.ihtfy.com/phantom/</link>
           <pubDate>2022-03-11T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/phantom/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/phantom/cover.jpg"/>
         </item>
       
         <item>
           <title>parking</title>
-          <description>TODO</description>
+          <description>I went to the gym, but I didn't work out.</description>
           <link>https://site.ihtfy.com/parking/</link>
           <pubDate>2022-03-10T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/parking/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/parking/cover.jpg"/>
         </item>
       
         <item>
           <title>Two days</title>
-          <description>TODO</description>
+          <description>I started going to tue gym again.</description>
           <link>https://site.ihtfy.com/two-days/</link>
           <pubDate>2022-03-09T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/two-days/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/two-days/cover.jpg"/>
         </item>
       
         <item>
           <title>tikka</title>
-          <description>TODO</description>
+          <description>I tried the meatballs and tikka masala.</description>
           <link>https://site.ihtfy.com/tikka/</link>
           <pubDate>2022-03-08T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/tikka/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/tikka/cover.jpg"/>
         </item>
       
         <item>
           <title>mandelbrot</title>
-          <description>TODO</description>
+          <description>Updating the description of my Mandelbrot fractal viewer</description>
           <link>https://site.ihtfy.com/mandelbrot/</link>
           <pubDate>2022-03-07T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="math" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/mandelbrot/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/mandelbrot/cover.jpg"/>
         </item>
       
         <item>
           <title>phone</title>
-          <description>TODO</description>
+          <description>This is a low quality post.</description>
           <link>https://site.ihtfy.com/phone/</link>
           <pubDate>2022-03-06T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/phone/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/phone/cover.jpg"/>
         </item>
       
         <item>
           <title>regional</title>
-          <description>TODO</description>
+          <description>Have you heard of cheese dip?</description>
           <link>https://site.ihtfy.com/regional/</link>
           <pubDate>2022-03-05T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/regional/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/regional/cover.jpg"/>
         </item>
       
         <item>
           <title>apartments</title>
-          <description>TODO</description>
+          <description>Almost moved into a bad neighborhood</description>
           <link>https://site.ihtfy.com/apartments/</link>
           <pubDate>2022-03-04T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/apartments/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/apartments/cover.jpg"/>
         </item>
       
         <item>
           <title>meatballs</title>
-          <description>TODO</description>
+          <description>Thought of making meatball masala</description>
           <link>https://site.ihtfy.com/meatballs/</link>
           <pubDate>2022-03-03T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" /><category term="random" /><category term="experiment" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/meatballs/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/meatballs/cover.jpg"/>
         </item>
       
         <item>
           <title>february retrospective</title>
-          <description>TODO</description>
+          <description>Reviewing my February goal progress</description>
           <link>https://site.ihtfy.com/february-retrospective/</link>
           <pubDate>2022-03-02T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/february-retrospective/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/february-retrospective/cover.jpg"/>
         </item>
       
         <item>
           <title>thirty</title>
-          <description>TODO</description>
+          <description>What's a circadian rhythm?</description>
           <link>https://site.ihtfy.com/thirty/</link>
           <pubDate>2022-03-01T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/thirty/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/thirty/cover.jpg"/>
         </item>
       
         <item>
           <title>bug</title>
-          <description>TODO</description>
+          <description>Ran into a bug on the new website.</description>
           <link>https://site.ihtfy.com/bug/</link>
           <pubDate>2022-02-28T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/bug/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/bug/cover.jpg"/>
         </item>
       
         <item>
           <title>shortlist</title>
-          <description>TODO</description>
+          <description>My new website is getting close to being live.</description>
           <link>https://site.ihtfy.com/shortlist/</link>
           <pubDate>2022-02-27T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/shortlist/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/shortlist/cover.jpg"/>
         </item>
       
         <item>
           <title>parallel</title>
-          <description>TODO</description>
+          <description>I canceled the renewal of my WordPress.com subscription.</description>
           <link>https://site.ihtfy.com/parallel/</link>
           <pubDate>2022-02-26T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/parallel/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/parallel/cover.jpg"/>
         </item>
       
         <item>
           <title>another</title>
-          <description>TODO</description>
+          <description>Redesigning my website</description>
           <link>https://site.ihtfy.com/another/</link>
           <pubDate>2022-02-24T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="website" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
         </item>
       
         <item>
           <title>plan</title>
-          <description>TODO</description>
+          <description>Working on my new site</description>
           <link>https://site.ihtfy.com/plan/</link>
           <pubDate>2022-02-24T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/plan/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/plan/cover.jpg"/>
         </item>
       
         <item>
           <title>cents</title>
-          <description>TODO</description>
+          <description>Thinking about ads</description>
           <link>https://site.ihtfy.com/cents/</link>
           <pubDate>2022-02-23T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cents/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cents/cover.jpg"/>
         </item>
       
         <item>
           <title>vortex</title>
-          <description>TODO</description>
+          <description>I finished the vortex math thing.</description>
           <link>https://site.ihtfy.com/vortex/</link>
           <pubDate>2022-02-22T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/vortex/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/vortex/cover.jpg"/>
         </item>
       
         <item>
           <title>overflow</title>
-          <description>TODO</description>
+          <description>Working on a Mathologer challenge</description>
           <link>https://site.ihtfy.com/overflow/</link>
           <pubDate>2022-02-21T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/overflow/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/overflow/cover.jpg"/>
         </item>
       
         <item>
           <title>migrating</title>
-          <description>TODO</description>
+          <description>Moving my site to GitHub</description>
           <link>https://site.ihtfy.com/migrating/</link>
           <pubDate>2022-02-20T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="design" /><category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/migrating/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/migrating/cover.jpg"/>
         </item>
       
         <item>
           <title>simplify</title>
-          <description>TODO</description>
+          <description>Compressing my SVG logo</description>
           <link>https://site.ihtfy.com/simplify/</link>
           <pubDate>2022-02-19T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="design" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/simplify/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/simplify/cover.jpg"/>
         </item>
       
         <item>
           <title>theming</title>
-          <description>TODO</description>
+          <description>Remaking the calendar maker</description>
           <link>https://site.ihtfy.com/theming/</link>
           <pubDate>2022-02-18T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="design" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/theming/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/theming/cover.jpg"/>
         </item>
       
         <item>
           <title>late</title>
-          <description>TODO</description>
+          <description>Posting late</description>
           <link>https://site.ihtfy.com/late/</link>
           <pubDate>2022-02-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
         </item>
       
         <item>
           <title>reredo</title>
-          <description>TODO</description>
+          <description>Redoing the calendar maker again</description>
           <link>https://site.ihtfy.com/reredo/</link>
           <pubDate>2022-02-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/reredo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/reredo/cover.jpg"/>
         </item>
       
         <item>
           <title>forgot</title>
-          <description>TODO</description>
+          <description>Sorry, I forgot.</description>
           <link>https://site.ihtfy.com/forgot/</link>
           <pubDate>2022-02-15T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/forgot/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/forgot/cover.jpg"/>
         </item>
       
         <item>
           <title>pseudorandom</title>
-          <description>TODO</description>
+          <description>Playing around with crypto - No, not currency</description>
           <link>https://site.ihtfy.com/pseudorandom/</link>
           <pubDate>2022-02-14T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pseudorandom/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pseudorandom/cover.jpg"/>
         </item>
       
         <item>
           <title>compression</title>
-          <description>TODO</description>
+          <description>How LZ string compression works</description>
           <link>https://site.ihtfy.com/compression/</link>
           <pubDate>2022-02-13T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/compression/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/compression/cover.jpg"/>
         </item>
       
         <item>
           <title>calendar progress</title>
-          <description>TODO</description>
+          <description>Working on a calendar maker.</description>
           <link>https://site.ihtfy.com/calendar-progress/</link>
           <pubDate>2022-02-12T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/calendar-progress/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/calendar-progress/cover.jpg"/>
         </item>
       
         <item>
           <title>plates</title>
-          <description>TODO</description>
+          <description>Installing a tow hook mounted license plate</description>
           <link>https://site.ihtfy.com/plates/</link>
           <pubDate>2022-02-11T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="project" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/plates/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/plates/cover.jpg"/>
         </item>
       
         <item>
           <title>cheese</title>
-          <description>TODO</description>
+          <description>12 year aged cheese</description>
           <link>https://site.ihtfy.com/cheese/</link>
           <pubDate>2022-02-10T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cheese/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cheese/cover.jpg"/>
         </item>
       
         <item>
           <title>cat</title>
-          <description>TODO</description>
+          <description>A cat ate a birdie.</description>
           <link>https://site.ihtfy.com/cat/</link>
           <pubDate>2022-02-09T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cat/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cat/cover.jpg"/>
         </item>
       
         <item>
           <title>shortner</title>
-          <description>TODO</description>
+          <description>How to get custom short URLs</description>
           <link>https://site.ihtfy.com/shortner/</link>
           <pubDate>2022-02-08T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="hack" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/shortner/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/shortner/cover.jpg"/>
         </item>
@@ -557,490 +557,490 @@
       
         <item>
           <title>hdd</title>
-          <description>TODO</description>
+          <description>Testing some external hard drives</description>
           <link>https://site.ihtfy.com/hdd/</link>
           <pubDate>2022-02-06T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/hdd/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/hdd/cover.jpg"/>
         </item>
       
         <item>
           <title>redo</title>
-          <description>TODO</description>
+          <description>Restarting the calendar maker</description>
           <link>https://site.ihtfy.com/redo/</link>
           <pubDate>2022-02-05T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/redo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/redo/cover.jpg"/>
         </item>
       
         <item>
           <title>livestreams</title>
-          <description>TODO</description>
+          <description>How to save livestreams.</description>
           <link>https://site.ihtfy.com/livestreams/</link>
           <pubDate>2022-02-04T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/livestreams/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/livestreams/cover.jpg"/>
         </item>
       
         <item>
           <title>soundcloud likes</title>
-          <description>TODO</description>
+          <description>How to archive all your soundcloud likes.</description>
           <link>https://site.ihtfy.com/soundcloud-likes/</link>
           <pubDate>2022-02-03T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/soundcloud-likes/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/soundcloud-likes/cover.jpg"/>
         </item>
       
         <item>
           <title>lingo</title>
-          <description>TODO</description>
+          <description>Wordle is trending</description>
           <link>https://site.ihtfy.com/lingo/</link>
           <pubDate>2022-02-02T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="gaming" /><category term="review" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/lingo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/lingo/cover.jpg"/>
         </item>
       
         <item>
           <title>january retrospective</title>
-          <description>TODO</description>
+          <description>How did I do in January?</description>
           <link>https://site.ihtfy.com/january-retrospective/</link>
           <pubDate>2022-02-01T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/january-retrospective/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/january-retrospective/cover.jpg"/>
         </item>
       
         <item>
           <title>imslp</title>
-          <description>TODO</description>
+          <description>The place for classical sheet music</description>
           <link>https://site.ihtfy.com/imslp/</link>
           <pubDate>2022-01-31T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="music" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/imslp/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/imslp/cover.jpg"/>
         </item>
       
         <item>
           <title>444</title>
-          <description>TODO</description>
+          <description>4 for $4 from Wendy's</description>
           <link>https://site.ihtfy.com/444/</link>
           <pubDate>2022-01-30T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/444/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/444/cover.jpg"/>
         </item>
       
         <item>
           <title>logo</title>
-          <description>TODO</description>
+          <description>Thinking of a new logo</description>
           <link>https://site.ihtfy.com/logo/</link>
           <pubDate>2022-01-29T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/logo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/logo/cover.jpg"/>
         </item>
       
         <item>
           <title>fractal</title>
-          <description>TODO</description>
+          <description>Making a fractal viewer to arbitrary depth</description>
           <link>https://site.ihtfy.com/fractal/</link>
           <pubDate>2022-01-28T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/fractal/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/fractal/cover.jpg"/>
         </item>
       
         <item>
           <title>asphalt</title>
-          <description>TODO</description>
+          <description>An iPad racing game</description>
           <link>https://site.ihtfy.com/asphalt/</link>
           <pubDate>2022-01-27T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="gaming" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/asphalt/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/asphalt/cover.jpg"/>
         </item>
       
         <item>
           <title>dash cam</title>
-          <description>TODO</description>
+          <description>Installing a dash cam</description>
           <link>https://site.ihtfy.com/dash-cam/</link>
           <pubDate>2022-01-26T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/dash-cam/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/dash-cam/cover.jpg"/>
         </item>
       
         <item>
           <title>panorama scroll</title>
-          <description>TODO</description>
+          <description>A funny way to screenshot a page</description>
           <link>https://site.ihtfy.com/panorama-scroll/</link>
           <pubDate>2022-01-25T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="hack" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/panorama-scroll/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/panorama-scroll/cover.jpg"/>
         </item>
       
         <item>
           <title>watching videos</title>
-          <description>TODO</description>
+          <description>Learning about SvelteKit</description>
           <link>https://site.ihtfy.com/watching-videos/</link>
           <pubDate>2022-01-24T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/watching-videos/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/watching-videos/cover.jpg"/>
         </item>
       
         <item>
           <title>headache</title>
-          <description>TODO</description>
+          <description>Head hurts</description>
           <link>https://site.ihtfy.com/headache/</link>
           <pubDate>2022-01-23T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/headache/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/headache/cover.jpg"/>
         </item>
       
         <item>
           <title>oil change</title>
-          <description>TODO</description>
+          <description>My car hit 100000</description>
           <link>https://site.ihtfy.com/oil-change/</link>
           <pubDate>2022-01-22T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/oil-change/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/oil-change/cover.jpg"/>
         </item>
       
         <item>
           <title>sleep schedule</title>
-          <description>TODO</description>
+          <description>I stay up.</description>
           <link>https://site.ihtfy.com/sleep-schedule/</link>
           <pubDate>2022-01-21T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/sleep-schedule/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/sleep-schedule/cover.jpg"/>
         </item>
       
         <item>
           <title>blank</title>
-          <description>TODO</description>
+          <description></description>
           <link>https://site.ihtfy.com/blank/</link>
           <pubDate>2022-01-20T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/blank/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/blank/cover.jpg"/>
         </item>
       
         <item>
           <title>milk tea doppelgangers</title>
-          <description>TODO</description>
+          <description>Milktea is cereal milk.</description>
           <link>https://site.ihtfy.com/milk-tea-doppelgangers/</link>
           <pubDate>2022-01-19T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/milk-tea-doppelgangers/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/milk-tea-doppelgangers/cover.jpg"/>
         </item>
       
         <item>
           <title>sveltekit</title>
-          <description>TODO</description>
+          <description>About to start the calendar maker</description>
           <link>https://site.ihtfy.com/sveltekit/</link>
           <pubDate>2022-01-18T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/sveltekit/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/sveltekit/cover.jpg"/>
         </item>
       
         <item>
           <title>lazy sunday</title>
-          <description>TODO</description>
+          <description>This is not a real post</description>
           <link>https://site.ihtfy.com/lazy-sunday/</link>
           <pubDate>2022-01-17T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/lazy-sunday/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/lazy-sunday/cover.jpg"/>
         </item>
       
         <item>
           <title>chess engine</title>
-          <description>TODO</description>
+          <description>Making a chess engine</description>
           <link>https://site.ihtfy.com/chess-engine/</link>
           <pubDate>2022-01-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/chess-engine/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/chess-engine/cover.jpg"/>
         </item>
       
         <item>
           <title>PWA</title>
-          <description>TODO</description>
+          <description>Making the Knight Puzzle a PWA</description>
           <link>https://site.ihtfy.com/pwa/</link>
           <pubDate>2022-01-14T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="gaming" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pwa/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pwa/cover.jpg"/>
         </item>
       
         <item>
           <title>days go by</title>
-          <description>TODO</description>
+          <description>A picture of the sunset</description>
           <link>https://site.ihtfy.com/days-go-by/</link>
           <pubDate>2022-01-13T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" /><category term="photography" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/days-go-by/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/days-go-by/cover.jpg"/>
         </item>
       
         <item>
           <title>offline</title>
-          <description>TODO</description>
+          <description>Turning Optics into a PWA</description>
           <link>https://site.ihtfy.com/offline/</link>
           <pubDate>2022-01-13T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="gaming" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/offline/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/offline/cover.jpg"/>
         </item>
       
         <item>
           <title>Hotel ACs</title>
-          <description>TODO</description>
+          <description>How to hack hotel air conditioning.</description>
           <link>https://site.ihtfy.com/hotel-acs/</link>
           <pubDate>2022-01-12T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="hack" /><category term="project" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/hotel-acs/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/hotel-acs/cover.jpg"/>
         </item>
       
         <item>
-          <title>hotel TVs</title>
-          <description>TODO</description>
+          <title>Hotel TVs</title>
+          <description>Hacking the hotel TV</description>
           <link>https://site.ihtfy.com/hotel-tvs/</link>
           <pubDate>2022-01-11T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="hack" /><category term="tutorial" /><category term="experiment" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/hotel-tvs/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/hotel-tvs/cover.jpg"/>
         </item>
       
         <item>
           <title>standalone</title>
-          <description>TODO</description>
+          <description>Making Empire an installable app</description>
           <link>https://site.ihtfy.com/standalone/</link>
           <pubDate>2022-01-10T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="gaming" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/standalone/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/standalone/cover.jpg"/>
         </item>
       
         <item>
           <title>tabs</title>
-          <description>TODO</description>
+          <description>Adding navigation to Empire</description>
           <link>https://site.ihtfy.com/tabs/</link>
           <pubDate>2022-01-09T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="gaming" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/tabs/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/tabs/cover.jpg"/>
         </item>
       
         <item>
           <title>Taco Dip</title>
-          <description>TODO</description>
+          <description>I made taco dip.</description>
           <link>https://site.ihtfy.com/taco-dip/</link>
           <pubDate>2022-01-08T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/taco-dip/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/taco-dip/cover.jpg"/>
         </item>
       
         <item>
           <title>drunken crawfish</title>
-          <description>TODO</description>
+          <description>Stix Grill & Bar in Fremont, CA</description>
           <link>https://site.ihtfy.com/drunken-crawfish/</link>
           <pubDate>2022-01-07T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" /><category term="food" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/drunken-crawfish/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/drunken-crawfish/cover.jpg"/>
         </item>
       
         <item>
           <title>early bird</title>
-          <description>TODO</description>
+          <description>Installing car floor mats</description>
           <link>https://site.ihtfy.com/early-bird/</link>
           <pubDate>2022-01-06T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/early-bird/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/early-bird/cover.jpg"/>
         </item>
       
         <item>
           <title>westward</title>
-          <description>TODO</description>
+          <description>I flew back to California</description>
           <link>https://site.ihtfy.com/westward/</link>
           <pubDate>2022-01-05T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/westward/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/westward/cover.jpg"/>
         </item>
       
         <item>
           <title>hibachi</title>
-          <description>TODO</description>
+          <description>Went out to a hibachi place</description>
           <link>https://site.ihtfy.com/hibachi/</link>
           <pubDate>2022-01-04T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="food" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/hibachi/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/hibachi/cover.jpg"/>
         </item>
       
         <item>
           <title>Winter Drone</title>
-          <description>TODO</description>
+          <description>I took pictures from the sky</description>
           <link>https://site.ihtfy.com/winter-drone/</link>
           <pubDate>2022-01-03T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="photography" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/winter-drone/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/winter-drone/cover.jpg"/>
         </item>
       
         <item>
           <title>Happy New Year</title>
-          <description>TODO</description>
+          <description>Starting daily posts</description>
           <link>https://site.ihtfy.com/happy-new-year/</link>
           <pubDate>2022-01-02T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/happy-new-year/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/happy-new-year/cover.jpg"/>
         </item>
       
         <item>
           <title>games</title>
-          <description>TODO</description>
+          <description>Here are some web games I've made.</description>
           <link>https://site.ihtfy.com/games/</link>
           <pubDate>2021-07-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="gaming" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/games/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/games/cover.jpg"/>
         </item>
       
         <item>
           <title>knight</title>
-          <description>TODO</description>
+          <description>I made a chess puzzle game.</description>
           <link>https://site.ihtfy.com/knight/</link>
           <pubDate>2021-03-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="gaming" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/knight/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/knight/cover.jpg"/>
         </item>
       
         <item>
           <title>workout</title>
-          <description>TODO</description>
+          <description>I made a workout tracker</description>
           <link>https://site.ihtfy.com/workout/</link>
           <pubDate>2021-03-16T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/workout/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/workout/cover.jpg"/>
         </item>
       
         <item>
           <title>YouTube Speeds Faster Than 2x</title>
-          <description>TODO</description>
+          <description>How to watch YouTube even faster</description>
           <link>https://site.ihtfy.com/youtube-speeds-faster-than-2x/</link>
           <pubDate>2019-06-08T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/youtube-speeds-faster-than-2x/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/youtube-speeds-faster-than-2x/cover.jpg"/>
         </item>
       
         <item>
           <title>grey</title>
-          <description>TODO</description>
+          <description>A tiny planet</description>
           <link>https://site.ihtfy.com/grey/</link>
           <pubDate>2017-09-29T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="photography" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/grey/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/grey/cover.jpg"/>
         </item>
       
         <item>
           <title>albinogator</title>
-          <description>TODO</description>
+          <description>A panoramic portrait of an Albino Alligator</description>
           <link>https://site.ihtfy.com/albinogator/</link>
           <pubDate>2017-08-22T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="photography" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/albinogator/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/albinogator/cover.jpg"/>
         </item>
       
         <item>
           <title>point</title>
-          <description>TODO</description>
+          <description>Gernerative art using Processing</description>
           <link>https://site.ihtfy.com/point/</link>
           <pubDate>2016-01-07T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="art" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/point/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/point/cover.jpg"/>
         </item>
       
         <item>
           <title>ana raw</title>
-          <description>TODO</description>
+          <description>More music I made for another of my sister's fashio shows</description>
           <link>https://site.ihtfy.com/ana-raw/</link>
           <pubDate>2015-10-18T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="music" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/ana-raw/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/ana-raw/cover.jpg"/>
         </item>
       
         <item>
           <title>ana MKE</title>
-          <description>TODO</description>
+          <description>Music I made for my sister's fashion show in 2015</description>
           <link>https://site.ihtfy.com/ana-mke/</link>
           <pubDate>2015-09-28T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="music" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/ana-mke/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/ana-mke/cover.jpg"/>
         </item>
       
         <item>
           <title>globes</title>
-          <description>TODO</description>
+          <description>Spherical panoramas</description>
           <link>https://site.ihtfy.com/globes/</link>
           <pubDate>2015-09-15T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="photography" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/globes/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/globes/cover.jpg"/>
         </item>
       
         <item>
           <title>prime</title>
-          <description>TODO</description>
+          <description>Plotting twin primes</description>
           <link>https://site.ihtfy.com/prime/</link>
           <pubDate>2015-08-29T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="code" /><category term="art" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/prime/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/prime/cover.jpg"/>
         </item>
       
         <item>
           <title>mmfunk</title>
-          <description>TODO</description>
+          <description>The first remix I made</description>
           <link>https://site.ihtfy.com/mmfunk/</link>
           <pubDate>2015-08-03T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="music" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/mmfunk/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/mmfunk/cover.jpg"/>
         </item>
       
         <item>
           <title>wire</title>
-          <description>TODO</description>
+          <description>My first wire wrappings</description>
           <link>https://site.ihtfy.com/wire/</link>
           <pubDate>2015-07-27T00:00:00.000Z</pubDate>
-          <category term="todo" />
+          <category term="art" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/wire/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/wire/cover.jpg"/>
         </item>
