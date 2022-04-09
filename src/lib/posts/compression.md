@@ -1,6 +1,6 @@
 ---
 slug: compression
-title: compression
+title: Compression
 date: 2022-02-13
 excerpt: How LZ string compression works
 tags: [code, tutorial]

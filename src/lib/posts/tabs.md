@@ -1,6 +1,6 @@
 ---
 slug: tabs
-title: tabs
+title: Tabs
 date: 2022-01-09
 excerpt: Adding navigation to Empire
 tags: [code, gaming]

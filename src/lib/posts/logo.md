@@ -1,6 +1,6 @@
 ---
 slug: logo
-title: logo
+title: Logo
 date: 2022-01-29
 excerpt: Thinking of a new logo
 tags: [design]

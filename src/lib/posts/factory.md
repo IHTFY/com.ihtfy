@@ -1,6 +1,6 @@
 ---
 slug: factory
-title: factory
+title: Factory
 date: 2022-03-18
 excerpt: How to setup Google Home speakers in a new house.
 tags: [random]

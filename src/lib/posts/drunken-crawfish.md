@@ -1,6 +1,6 @@
 ---
 slug: drunken-crawfish
-title: drunken crawfish
+title: Drunken Crawfish
 date: 2022-01-07
 excerpt: Stix Grill & Bar in Fremont, CA
 tags: [random, food]

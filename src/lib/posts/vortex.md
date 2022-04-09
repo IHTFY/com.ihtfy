@@ -1,6 +1,6 @@
 ---
 slug: vortex
-title: vortex
+title: Vortex
 date: 2022-02-22
 excerpt: I finished the vortex math thing.
 tags: [code, math]

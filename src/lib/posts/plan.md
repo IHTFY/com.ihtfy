@@ -1,6 +1,6 @@
 ---
 slug: plan
-title: plan
+title: Plan
 date: 2022-02-24
 excerpt: Working on my new site
 tags: [code, design]

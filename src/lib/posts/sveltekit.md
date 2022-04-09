@@ -1,6 +1,6 @@
 ---
 slug: sveltekit
-title: sveltekit
+title: SvelteKit
 date: 2022-01-18
 excerpt: About to start the calendar maker
 tags: [code, project]

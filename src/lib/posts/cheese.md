@@ -1,6 +1,6 @@
 ---
 slug: cheese
-title: cheese
+title: Cheese
 date: 2022-02-10
 excerpt: 12 year aged cheese
 tags: [random]
