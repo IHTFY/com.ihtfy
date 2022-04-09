@@ -2,8 +2,8 @@
 slug: days-go-by
 title: days go by
 date: 2022-01-13
-excerpt: 'TODO'
-tags: [todo]
+excerpt: A picture of the sunset
+tags: [random, photography]
 ---
 
 <script>

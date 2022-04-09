@@ -1,9 +1,9 @@
 ---
 slug: choppy
-title: "choppy"
-date: "2022-03-29"
-excerpt: 'TODO'
-tags: [todo]
+title: choppy
+date: 2022-03-29
+excerpt: I made an unlisted stream about the IQ test generator.
+tags: [code]
 ---
 
 I did an [unlisted stream](https://www.youtube.com/watch?v=QikZC9J3ZkQ) talking about Raven's Progressive Matrices. YouTube was telling me it wasn't getting enough data for a smooth stream, but the replay doesn't look too bad.

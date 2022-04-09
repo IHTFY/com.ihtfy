@@ -1,9 +1,9 @@
 ---
 slug: plates
-title: "plates"
-date: "2022-02-11"
-excerpt: 'TODO'
-tags: [todo]
+title: plates
+date: 2022-02-11
+excerpt: Installing a tow hook mounted license plate
+tags: [project, review]
 ---
 
 <script>

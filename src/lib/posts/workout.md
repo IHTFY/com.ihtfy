@@ -1,9 +1,9 @@
 ---
 slug: workout
-title: "workout"
-date: "2021-03-16"
-excerpt: 'TODO'
-tags: [todo]
+title: workout
+date: 2021-03-16
+excerpt: I made a workout tracker
+tags: [code, project]
 ---
 
 ## [workout.ihtfy.com](https://workout.ihtfy.com)

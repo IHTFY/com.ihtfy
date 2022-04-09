@@ -1,9 +1,9 @@
 ---
 slug: similar
-title: "similar"
-date: "2022-03-14"
-excerpt: 'TODO'
-tags: [todo]
+title: similar
+date: 2022-03-14
+excerpt: Sometimes I forget which word to use.
+tags: [random]
 ---
 
 There are some words between which I always forget the difference.

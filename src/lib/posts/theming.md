@@ -1,9 +1,9 @@
 ---
 slug: theming
-title: "theming"
-date: "2022-02-18"
-excerpt: 'TODO'
-tags: [todo]
+title: theming
+date: 2022-02-18
+excerpt: Remaking the calendar maker
+tags: [code, design, project]
 ---
 
 I remade the calendar maker using Attractions, and it looks pretty nice so far. A few things it's missing are dark mode and grid/layout utilities.

@@ -1,9 +1,9 @@
 ---
 slug: pseudorandom
-title: "pseudorandom"
-date: "2022-02-14"
-excerpt: 'TODO'
-tags: [todo]
+title: pseudorandom
+date: 2022-02-14
+excerpt: Playing around with crypto - No, not currency
+tags: [code, math]
 ---
 
 I'm still tinkering around with the [calendar maker](https://calendar.ihtfy.com/). I decided to give each event (birthday, holiday, anniversary, etc.) a random id. Rather than just use `Math.random()`, I decided to try using the browser's `Crypto` interface. There's a nice function that generates a UUID (universally unique identifier): `window.crypto.randomUUID()`. The result looks something like this: `'a1d803ce-822e-4d2d-a68f-16f85a5c1508'`. This is a 128 bit label which means there are 2128 unique values - around 3.4x1038 or roughly a trillion times a trillion times a trillion.

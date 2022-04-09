@@ -1,9 +1,9 @@
 ---
 slug: wire
-title: "wire"
-date: "2015-07-27"
-excerpt: 'TODO'
-tags: [todo]
+title: wire
+date: 2015-07-27
+excerpt: My first wire wrappings
+tags: [art, project]
 ---
 
 <script>

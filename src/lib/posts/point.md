@@ -1,9 +1,9 @@
 ---
 slug: point
-title: "point"
-date: "2016-01-07"
-excerpt: 'TODO'
-tags: [todo]
+title: point
+date: 2016-01-07
+excerpt: Gernerative art using Processing
+tags: [code, art, math]
 ---
 
 <script>

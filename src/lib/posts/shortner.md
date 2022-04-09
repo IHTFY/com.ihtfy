@@ -1,9 +1,9 @@
 ---
 slug: shortner
-title: "shortner"
-date: "2022-02-08"
-excerpt: 'TODO'
-tags: [todo]
+title: shortner
+date: 2022-02-08
+excerpt: How to get custom short URLs
+tags: [code, hack]
 ---
 
 If you have a domain (website name) registered, you can use it as a custom url shortner. I own ihtfy.com and I use it to make shortcut links to various pages.

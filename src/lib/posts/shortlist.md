@@ -1,9 +1,9 @@
 ---
 slug: shortlist
-title: "shortlist"
-date: "2022-02-27"
-excerpt: 'TODO'
-tags: [todo]
+title: shortlist
+date: 2022-02-27
+excerpt: My new website is getting close to being live.
+tags: [website, code]
 ---
 
 My new website is getting close to being live. I've transferred all my posts and made quite a few changes. The main things remaining are:

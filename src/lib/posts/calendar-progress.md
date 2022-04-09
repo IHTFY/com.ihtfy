@@ -1,9 +1,9 @@
 ---
 slug: calendar-progress
-title: "calendar progress"
-date: "2022-02-12"
-excerpt: 'TODO'
-tags: [todo]
+title: calendar progress
+date: 2022-02-12
+excerpt: Working on a calendar maker.
+tags: [code]
 ---
 
 I've been working on the calendar maker the last two days. You can see the current progress [here](https://calendar.ihtfy.com/data). It's still has a long way to go. I've been working on componentizing and getting image uploading to work. I originally tried using filepond as the image uploading component, but after a lot of issues, I realized that was better suited for uploading to a remote server. Now, I'm using a svelte version of [dropzone](https://github.com/thecodejack/svelte-file-dropzone). It seems to work alright, although the css styling of the component gives me some trouble.

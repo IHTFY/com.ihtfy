@@ -1,9 +1,9 @@
 ---
 slug: prime
-title: "prime"
-date: "2015-08-29"
-excerpt: 'TODO'
-tags: [todo]
+title: prime
+date: 2015-08-29
+excerpt: Plotting twin primes
+tags: [code, art, math]
 ---
 
 <script>

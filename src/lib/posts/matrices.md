@@ -1,9 +1,9 @@
 ---
 slug: matrices
-title: "matrices"
-date: "2022-03-21"
-excerpt: 'TODO'
-tags: [todo]
+title: matrices
+date: 2022-03-21
+excerpt: Thoughts about Raven's Progressive Matrices
+tags: [math, code]
 ---
 
 There's a type of puzzle called a Raven's Matrix. It was developed as a type of IQ test, but I remember doing it in elementary school. There's a free IQ test from Mensa Norway you can try: https://test.mensa.no/

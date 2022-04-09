@@ -1,9 +1,9 @@
 ---
 slug: compression
-title: "compression"
-date: "2022-02-13"
-excerpt: 'TODO'
-tags: [todo]
+title: compression
+date: 2022-02-13
+excerpt: How LZ string compression works
+tags: [code, tutorial]
 ---
 
 TODO Make these tables look nicer. `\src\lib\scss\base.scss`

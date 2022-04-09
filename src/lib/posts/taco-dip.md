@@ -1,9 +1,9 @@
 ---
 slug: taco-dip
-title: "Taco Dip"
-date: "2022-01-08"
-excerpt: 'TODO'
-tags: [todo]
+title: Taco Dip
+date: 2022-01-08
+excerpt: I made taco dip.
+tags: [food]
 ---
 
 <script>
