@@ -1,6 +1,6 @@
 ---
 slug: fractal
-title: fractal
+title: Fractal
 date: 2022-01-28
 excerpt: Making a fractal viewer to arbitrary depth
 tags: [code, math]

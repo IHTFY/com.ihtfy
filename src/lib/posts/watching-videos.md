@@ -1,6 +1,6 @@
 ---
 slug: watching-videos
-title: watching videos
+title: Watching Videos
 date: 2022-01-24
 excerpt: Learning about SvelteKit
 tags: [code]

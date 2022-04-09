@@ -1,6 +1,6 @@
 ---
 slug: quarter
-title: quarter
+title: Quarter
 date: 2022-03-25
 excerpt: I'm thinking about ending the daily posts at the end of the month and transitioning to weekly instead.
 tags: [random]

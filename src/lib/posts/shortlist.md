@@ -1,6 +1,6 @@
 ---
 slug: shortlist
-title: shortlist
+title: Shortlist
 date: 2022-02-27
 excerpt: My new website is getting close to being live.
 tags: [website, code]

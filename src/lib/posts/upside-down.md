@@ -1,12 +1,12 @@
 ---
 slug: upside-down
-title: upside-down
+title: Upside Down
 date: 2022-03-26
-excerpt: I've seen a couple videos of people putting frozen cheese pizza upside-down in the oven.
+excerpt: I've seen a couple videos of people putting frozen cheese pizza upside down in the oven.
 tags: [random]
 ---
 
-I've seen a couple videos of people putting frozen cheese pizza upside-down in the oven.
+I've seen a couple videos of people putting frozen cheese pizza upside down in the oven.
 
 [Here's the latest one](https://vm.tiktok.com/ZTd5wRqjK/)
 

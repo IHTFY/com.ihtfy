@@ -1,6 +1,6 @@
 ---
 slug: hdd
-title: hdd
+title: HDD
 date: 2022-02-06
 excerpt: Testing some external hard drives
 tags: [review]

@@ -1,6 +1,6 @@
 ---
 slug: grey
-title: grey
+title: Grey
 date: 2017-09-29
 excerpt: A tiny planet
 tags: [photography]

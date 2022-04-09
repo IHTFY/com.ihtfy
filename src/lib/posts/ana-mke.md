@@ -1,6 +1,6 @@
 ---
 slug: ana-mke
-title: ana MKE
+title: Ana MKE
 date: 2015-09-28
 excerpt: Music I made for my sister's fashion show in 2015
 tags: [music]

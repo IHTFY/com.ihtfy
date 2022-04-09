@@ -1,6 +1,6 @@
 ---
 slug: westward
-title: westward
+title: Westward
 date: 2022-01-05
 excerpt: I flew back to California
 tags: [random]

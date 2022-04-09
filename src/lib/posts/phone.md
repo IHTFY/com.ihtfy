@@ -1,6 +1,6 @@
 ---
 slug: phone
-title: phone
+title: Phone
 date: 2022-03-06
 excerpt: This is a low quality post.
 tags: [random]

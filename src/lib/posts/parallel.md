@@ -1,6 +1,6 @@
 ---
 slug: parallel
-title: parallel
+title: Parallel
 date: 2022-02-26
 excerpt: I canceled the renewal of my WordPress.com subscription.
 tags: [website, design]

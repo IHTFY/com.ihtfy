@@ -1,6 +1,6 @@
 ---
 slug: february-retrospective
-title: february retrospective
+title: February Retrospective
 date: 2022-03-02
 excerpt: Reviewing my February goal progress
 tags: [website, review]

@@ -1,6 +1,6 @@
 ---
 slug: consoles
-title: consoles
+title: Consoles
 date: 2022-03-24
 excerpt: I'm Bob the Builder
 tags: [random]

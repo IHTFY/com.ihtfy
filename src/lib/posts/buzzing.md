@@ -1,6 +1,6 @@
 ---
 slug: buzzing
-title: buzzing
+title: Buzzing
 date: 2022-03-13
 excerpt: The random buzzing phantom notifications are back.
 tags: [random]

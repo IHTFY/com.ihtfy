@@ -1,6 +1,6 @@
 ---
 slug: hibachi
-title: hibachi
+title: Hibachi
 date: 2022-01-04
 excerpt: Went out to a hibachi place
 tags: [food]

@@ -1,6 +1,6 @@
 ---
 slug: point
-title: point
+title: Point
 date: 2016-01-07
 excerpt: Gernerative art using Processing
 tags: [code, art, math]

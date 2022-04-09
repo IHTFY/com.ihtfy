@@ -1,6 +1,6 @@
 ---
 slug: prime
-title: prime
+title: Prime
 date: 2015-08-29
 excerpt: Plotting twin primes
 tags: [code, art, math]

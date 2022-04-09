@@ -1,6 +1,6 @@
 ---
 slug: late
-title: late
+title: Late
 date: 2022-02-16
 excerpt: Posting late
 tags: [random]

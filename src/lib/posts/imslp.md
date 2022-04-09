@@ -1,6 +1,6 @@
 ---
 slug: imslp
-title: imslp
+title: IMSLP
 date: 2022-01-31
 excerpt: The place for classical sheet music
 tags: [music]

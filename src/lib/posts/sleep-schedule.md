@@ -1,6 +1,6 @@
 ---
 slug: sleep-schedule
-title: sleep schedule
+title: Sleep Schedule
 date: 2022-01-21
 excerpt: I stay up.
 tags: [random]

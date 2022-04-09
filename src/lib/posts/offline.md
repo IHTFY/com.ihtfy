@@ -1,6 +1,6 @@
 ---
 slug: offline
-title: offline
+title: Offline
 date: 2022-01-13
 excerpt: Turning Optics into a PWA
 tags: [code, gaming]

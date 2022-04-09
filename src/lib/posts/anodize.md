@@ -1,6 +1,6 @@
 ---
 slug: anodize
-title: anodize
+title: Anodize
 date: 2022-02-07
 excerpt: Taking a blow torch to a paperclip
 tags: [science, experiment]

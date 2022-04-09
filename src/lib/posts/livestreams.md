@@ -1,6 +1,6 @@
 ---
 slug: livestreams
-title: livestreams
+title: Livestreams
 date: 2022-02-04
 excerpt: How to save livestreams.
 tags: [code, tutorial]

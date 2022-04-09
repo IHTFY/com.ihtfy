@@ -1,6 +1,6 @@
 ---
 slug: reminders
-title: reminders
+title: Reminders
 date: 2022-03-19
 excerpt: I turned back on Google location history.
 tags: [random]

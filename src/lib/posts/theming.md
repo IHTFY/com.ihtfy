@@ -1,6 +1,6 @@
 ---
 slug: theming
-title: theming
+title: Theming
 date: 2022-02-18
 excerpt: Remaking the calendar maker
 tags: [code, design, project]
