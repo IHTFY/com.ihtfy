@@ -22,14 +22,12 @@ If you wanted to compress the string "OROMEOROMEO"
 
 You would get all the individual characters used and add them to the dictionary:
 
-
 | Input       | Dictionary | Output |
 | ----------- | ---------- | ------ |
 | OROMEOROMEO | 1. O       |        |
 |             | 2. R       |        |
 |             | 3. M       |        |
 |             | 4. E       |        |
-
 
 Initialize the Dictionary
 
@@ -106,7 +104,6 @@ Next, "E" is encoded as "4" since "EO" isn't in the dictionary, but we'll add it
 
 Finally we find a longer match.
 
-
 | Input  | Dictionary | Output    |
 | ------ | ---------- | --------- |
 | OROMEO | 1. O       | 1,2,1,3,4 |
@@ -120,7 +117,6 @@ Finally we find a longer match.
 |        | 9. EO      |           |
 
 "O" is in the dictionary, but so is "OR" which is longer. Is "ORO" in the dictionary? No, so we encode "OR" as "5", and add "ORO" to the dictionary.
-
 
 | Input | Dictionary | Output      |
 | ----- | ---------- | ----------- |
@@ -136,7 +132,6 @@ Finally we find a longer match.
 |       | 10. ORO    |             |
 
 Next, we have "O" in the dictionary, but "OM" is there too. Is "OME"? No, so we encode "OM" as "7" and add "OME" to the dictionary.
-
 
 | Input | Dictionary | Output        |
 | ----- | ---------- | ------------- |

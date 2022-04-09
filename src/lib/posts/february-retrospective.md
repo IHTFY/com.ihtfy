@@ -48,5 +48,4 @@ A few posts were showcasing code I had written a long time ago: [SoundCloud Like
 
 <Callout type="warning">Failed</Callout>
 
-
 No excuse really. It wouldn't take long, but I also recognize it's not going to get any use right now.

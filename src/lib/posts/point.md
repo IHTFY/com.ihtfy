@@ -112,7 +112,6 @@ Random circles
 
 ### White and Pink
 
-
 <Image
   path="posts/{slug}"
   filename="bb"
@@ -127,8 +126,8 @@ Random circles
 />
 
 ## Watch a video
-[![Annealed Mosaic - Breaking Bad](http://i3.ytimg.com/vi/BCXYKs8LsZQ/maxresdefault.jpg)](https://youtu.be/BCXYKs8LsZQ)
 
+[![Annealed Mosaic - Breaking Bad](http://i3.ytimg.com/vi/BCXYKs8LsZQ/maxresdefault.jpg)](https://youtu.be/BCXYKs8LsZQ)
 
 ### Source:
 
@@ -144,7 +143,7 @@ boolean draw;
 float t = 5;
 boolean recording = false;
 boolean progressive = false;
- 
+
 void setup() {
   size(1600,900); // source image resolution
   img = "lake.png"; // source image name
@@ -158,7 +157,7 @@ void setup() {
   recording = false; // output movie frames
   progressive = false; // simulated annealing
 }
- 
+
 void draw() {
   if (progressive) {
     t += 20;
@@ -204,7 +203,7 @@ void draw() {
     saveFrame("./images/movie/frames####.png"); // output frame
   }
 }
- 
+
 void keyPressed() {
   if (key == 'r' || key == 'R') {
     recording = !recording; // flag to save frames for animation
