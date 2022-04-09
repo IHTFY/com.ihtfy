@@ -1,6 +1,6 @@
 ---
 slug: early-bird
-title: early bird
+title: Early Bird
 date: 2022-01-06
 excerpt: Installing car floor mats
 tags: [random]

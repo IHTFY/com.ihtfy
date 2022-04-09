@@ -1,6 +1,6 @@
 ---
 slug: globes
-title: globes
+title: Globes
 date: 2015-09-15
 excerpt: Spherical panoramas
 tags: [photography]

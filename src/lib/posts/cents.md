@@ -1,6 +1,6 @@
 ---
 slug: cents
-title: cents
+title: Cents
 date: 2022-02-23
 excerpt: Thinking about ads
 tags: [design]

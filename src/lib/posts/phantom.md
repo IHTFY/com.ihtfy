@@ -1,6 +1,6 @@
 ---
 slug: phantom
-title: phantom
+title: Phantom
 date: 2022-03-11
 excerpt: My phone is annoying me.
 tags: [random]

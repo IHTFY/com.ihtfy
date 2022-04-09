@@ -1,6 +1,6 @@
 ---
 slug: mandelbrot
-title: mandelbrot
+title: Mandelbrot
 date: 2022-03-07
 excerpt: Updating the description of my Mandelbrot fractal viewer
 tags: [math, code]

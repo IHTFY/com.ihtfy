@@ -1,6 +1,6 @@
 ---
 slug: reredo
-title: reredo
+title: Reredo
 date: 2022-02-16
 excerpt: Redoing the calendar maker again
 tags: [code, design]

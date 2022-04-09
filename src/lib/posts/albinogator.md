@@ -1,6 +1,6 @@
 ---
 slug: albinogator
-title: albinogator
+title: Albinogator
 date: 2017-08-22
 excerpt: A panoramic portrait of an Albino Alligator
 tags: [photography]

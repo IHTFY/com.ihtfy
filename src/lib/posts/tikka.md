@@ -1,6 +1,6 @@
 ---
 slug: tikka
-title: tikka
+title: Tikka
 date: 2022-03-08
 excerpt: I tried the meatballs and tikka masala.
 tags: [food]

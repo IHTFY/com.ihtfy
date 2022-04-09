@@ -1,6 +1,6 @@
 ---
 slug: another
-title: another
+title: Another
 date: 2022-02-24
 excerpt: Redesigning my website
 tags: [code, website, design]

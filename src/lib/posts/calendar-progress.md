@@ -1,6 +1,6 @@
 ---
 slug: calendar-progress
-title: calendar progress
+title: Calendar Progress
 date: 2022-02-12
 excerpt: Working on a calendar maker.
 tags: [code]
