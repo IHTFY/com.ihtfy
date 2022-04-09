@@ -1,6 +1,6 @@
 ---
 slug: knight
-title: knight
+title: Knight
 date: 2021-03-16
 excerpt: I made a chess puzzle game.
 tags: [code, gaming]

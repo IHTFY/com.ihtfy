@@ -1,6 +1,6 @@
 ---
 slug: similar
-title: similar
+title: Similar
 date: 2022-03-14
 excerpt: Sometimes I forget which word to use.
 tags: [random]

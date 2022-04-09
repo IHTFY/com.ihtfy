@@ -1,6 +1,6 @@
 ---
 slug: schema
-title: schema
+title: Schema
 date: 2022-03-27
 excerpt: I'm working on the IQ test again.
 tags: [code, math]

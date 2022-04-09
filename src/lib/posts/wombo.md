@@ -1,6 +1,6 @@
 ---
 slug: wombo
-title: wombo
+title: Wombo
 date: 2022-03-31
 excerpt: How I made the thumbnails for these posts.
 tags: [art, website]

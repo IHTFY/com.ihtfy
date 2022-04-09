@@ -1,6 +1,6 @@
 ---
 slug: studio
-title: studio
+title: Studio
 date: 2022-03-17
 excerpt: I own calendar.studio
 tags: [code, project]

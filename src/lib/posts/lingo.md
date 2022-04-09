@@ -1,6 +1,6 @@
 ---
 slug: lingo
-title: lingo
+title: Lingo
 date: 2022-02-02
 excerpt: Wordle is trending
 tags: [gaming, review, code]

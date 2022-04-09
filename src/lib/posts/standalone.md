@@ -1,6 +1,6 @@
 ---
 slug: standalone
-title: standalone
+title: Standalone
 date: 2022-01-10
 excerpt: Making Empire an installable app
 tags: [code, gaming]

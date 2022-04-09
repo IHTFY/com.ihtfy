@@ -1,6 +1,6 @@
 ---
 slug: habit
-title: habit
+title: Habit
 date: 2022-04-02
 excerpt: Still working on the replacement website
 tags: [website]

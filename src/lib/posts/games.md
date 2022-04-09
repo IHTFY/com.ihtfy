@@ -1,6 +1,6 @@
 ---
 slug: games
-title: games
+title: Games
 date: 2021-07-16
 excerpt: Here are some web games I've made.
 tags: [gaming, code]

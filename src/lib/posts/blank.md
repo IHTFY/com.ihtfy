@@ -1,6 +1,6 @@
 ---
 slug: blank
-title: blank
+title: Blank
 date: 2022-01-20
 excerpt: ""
 tags: [random]

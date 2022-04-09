@@ -1,6 +1,6 @@
 ---
 slug: pseudorandom
-title: pseudorandom
+title: Pseudorandom
 date: 2022-02-14
 excerpt: Playing around with crypto - No, not currency
 tags: [code, math]

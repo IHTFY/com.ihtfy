@@ -1,6 +1,6 @@
 ---
 slug: dash-cam
-title: dash cam
+title: Dash Cam
 date: 2022-01-26
 excerpt: Installing a dash cam
 tags: [random]

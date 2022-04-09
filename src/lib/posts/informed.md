@@ -1,6 +1,6 @@
 ---
 slug: informed
-title: informed
+title: Informed
 date: 2022-03-16
 excerpt: The USPS will email you the scans of incoming mail.
 tags: [random]

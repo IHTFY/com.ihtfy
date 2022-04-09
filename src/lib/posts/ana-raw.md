@@ -1,6 +1,6 @@
 ---
 slug: ana-raw
-title: ana raw
+title: Ana RAW
 date: 2015-10-18
 excerpt: More music I made for another of my sister's fashio shows
 tags: [music]

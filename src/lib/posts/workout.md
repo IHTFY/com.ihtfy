@@ -1,6 +1,6 @@
 ---
 slug: workout
-title: workout
+title: Workout
 date: 2021-03-16
 excerpt: I made a workout tracker
 tags: [code, project]

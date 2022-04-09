@@ -1,6 +1,6 @@
 ---
 slug: panorama-scroll
-title: panorama scroll
+title: Panorama Scroll
 date: 2022-01-25
 excerpt: A funny way to screenshot a page
 tags: [hack, random]

@@ -1,6 +1,6 @@
 ---
 slug: wire
-title: wire
+title: Wire
 date: 2015-07-27
 excerpt: My first wire wrappings
 tags: [art, project]

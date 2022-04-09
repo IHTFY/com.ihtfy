@@ -1,6 +1,6 @@
 ---
 slug: days-go-by
-title: days go by
+title: Days Go By
 date: 2022-01-13
 excerpt: A picture of the sunset
 tags: [random, photography]
