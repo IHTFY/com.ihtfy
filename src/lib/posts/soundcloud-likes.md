@@ -1,9 +1,9 @@
 ---
 slug: soundcloud-likes
-title: "soundcloud likes"
-date: "2022-02-03"
-excerpt: 'TODO'
-tags: [todo]
+title: soundcloud likes
+date: 2022-02-03
+excerpt: How to archive all your soundcloud likes.
+tags: [code, tutorial]
 ---
 
 <script>

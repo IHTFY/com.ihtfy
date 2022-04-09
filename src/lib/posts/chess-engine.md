@@ -2,8 +2,8 @@
 slug: chess-engine
 title: chess engine
 date: 2022-01-16
-excerpt: 'TODO'
-tags: [todo]
+excerpt: Making a chess engine
+tags: [code]
 ---
 
 I started making a chess engine a while ago. I only got as far as making random moves.

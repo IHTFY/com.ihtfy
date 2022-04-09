@@ -2,8 +2,8 @@
 slug: hotel-acs
 title: Hotel ACs
 date: 2022-01-12
-excerpt: 'TODO'
-tags: [todo]
+excerpt: How to hack hotel air conditioning.
+tags: [hack, project, tutorial]
 ---
 
 <script>

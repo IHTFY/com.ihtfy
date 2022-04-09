@@ -1,9 +1,9 @@
 ---
 slug: another
-title: "another"
-date: "2022-02-24"
-excerpt: 'TODO'
-tags: [todo]
+title: another
+date: 2022-02-24
+excerpt: Redesigning my website
+tags: [code, website, design]
 ---
 
 I'm still stuck on the MDSveX/prismjs error. I found [another site](https://github.com/elianiva/elianiva.my.id) that uses sveltekit. It's hosted on vercel, but I wonder if it will work if I just change the adapter to static in `svelte.convig.js`.

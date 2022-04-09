@@ -1,9 +1,9 @@
 ---
 slug: plan
-title: "plan"
-date: "2022-02-24"
-excerpt: 'TODO'
-tags: [todo]
+title: plan
+date: 2022-02-24
+excerpt: Working on my new site
+tags: [code, design]
 ---
 
 <script>

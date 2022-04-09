@@ -1,9 +1,9 @@
 ---
 slug: redo
-title: "redo"
-date: "2022-02-05"
-excerpt: 'TODO'
-tags: [todo]
+title: redo
+date: 2022-02-05
+excerpt: Restarting the calendar maker
+tags: [code, design]
 ---
 
 I was having trouble getting my sveltekit site to work on github pages. The content was there but it wasn't reading any of my css files. Maybe I didn't had Tailwind CSS setup properly. When I previewed the built site locally it was fine, so maybe it was something else.

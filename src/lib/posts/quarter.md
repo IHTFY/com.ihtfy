@@ -1,9 +1,9 @@
 ---
 slug: quarter
-title: "quarter"
-date: "2022-03-25"
-excerpt: 'TODO'
-tags: [todo]
+title: quarter
+date: 2022-03-25
+excerpt: I'm thinking about ending the daily posts at the end of the month and transitioning to weekly instead.
+tags: [random]
 ---
 
 I'm thinking about ending the daily posts at the end of the month and transitioning to weekly instead.

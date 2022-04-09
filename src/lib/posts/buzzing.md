@@ -1,9 +1,9 @@
 ---
 slug: buzzing
-title: "buzzing"
-date: "2022-03-13"
-excerpt: 'TODO'
-tags: [todo]
+title: buzzing
+date: 2022-03-13
+excerpt: The random buzzing phantom notifications are back.
+tags: [random]
 ---
 
 <script>

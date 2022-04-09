@@ -1,9 +1,9 @@
 ---
 slug: winter-drone
-title: "Winter Drone"
-date: "2022-01-03"
-excerpt: 'TODO'
-tags: [todo]
+title: Winter Drone
+date: 2022-01-03
+excerpt: I took pictures from the sky
+tags: [photography]
 ---
 
 My brother and I managed to get the drone out today. I was a few firmware updates behind and spent most of the morning failing to get them to work. I exhausted all of the google search answers, so I'll have to start an email thread with DJI support. Luckily, I was still able to fly the [Mavic Air 2](https://click.dji.com/ALhIpTqXZyeFn_8vR9ggBg?pm=link).

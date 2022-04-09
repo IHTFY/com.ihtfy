@@ -1,9 +1,9 @@
 ---
 slug: habit
-title: "habit"
-date: "2022-04-02"
-excerpt: 'TODO'
-tags: [todo]
+title: habit
+date: 2022-04-02
+excerpt: Still working on the replacement website
+tags: [website]
 ---
 
 I still get reminders from the WordPress app to post everyday. Some days it doesn't work though.

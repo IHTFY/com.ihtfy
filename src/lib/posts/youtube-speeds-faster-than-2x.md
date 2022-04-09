@@ -1,9 +1,9 @@
 ---
 slug: youtube-speeds-faster-than-2x
-title: "YouTube Speeds Faster Than 2x"
-date: "2019-06-08"
-excerpt: 'TODO'
-tags: [todo]
+title: YouTube Speeds Faster Than 2x
+date: 2019-06-08
+excerpt: How to watch YouTube even faster
+tags: [code, tutorial]
 ---
 
 <script>

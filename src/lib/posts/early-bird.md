@@ -2,8 +2,8 @@
 slug: early-bird
 title: early bird
 date: 2022-01-06
-excerpt: 'TODO'
-tags: [todo]
+excerpt: Installing car floor mats
+tags: [random]
 ---
 
 My sleep schedule has been especially bad the last couple years. Today I woke up at a reasonable time, and hopefully I can repeat that tomorrow.
