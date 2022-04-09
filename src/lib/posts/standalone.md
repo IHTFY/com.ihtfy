@@ -1,9 +1,9 @@
 ---
 slug: standalone
-title: "standalone"
-date: "2022-01-10"
-excerpt: 'TODO'
-tags: [todo]
+title: standalone
+date: 2022-01-10
+excerpt: Making Empire an installable app
+tags: [code, gaming]
 ---
 
 <script>

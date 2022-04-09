@@ -1,9 +1,9 @@
 ---
 slug: phone
-title: "phone"
-date: "2022-03-06"
-excerpt: 'TODO'
-tags: [todo]
+title: phone
+date: 2022-03-06
+excerpt: This is a low quality post.
+tags: [random]
 ---
 
 I'm writing this on my phone again, which means this is a low quality post.

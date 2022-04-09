@@ -1,9 +1,9 @@
 ---
 slug: games
-title: "games"
-date: "2021-07-16"
-excerpt: 'TODO'
-tags: [todo]
+title: games
+date: 2021-07-16
+excerpt: Here are some web games I've made.
+tags: [gaming, code]
 ---
 
 <script>

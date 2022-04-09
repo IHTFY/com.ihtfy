@@ -1,9 +1,9 @@
 ---
 slug: wombo
-title: "wombo"
-date: "2022-03-31"
-excerpt: 'TODO'
-tags: [todo]
+title: wombo
+date: 2022-03-31
+excerpt: How I made the thumbnails for these posts.
+tags: [art, website]
 ---
 
 I've been using [this site](https://app.wombo.art/) to make the thumbnail images for these posts - using the title as the prompt.

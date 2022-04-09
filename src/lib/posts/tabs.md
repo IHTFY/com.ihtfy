@@ -1,9 +1,9 @@
 ---
 slug: tabs
-title: "tabs"
-date: "2022-01-09"
-excerpt: 'TODO'
-tags: [todo]
+title: tabs
+date: 2022-01-09
+excerpt: Adding navigation to Empire
+tags: [code, gaming]
 ---
 
 <script>

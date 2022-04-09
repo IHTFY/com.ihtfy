@@ -1,9 +1,9 @@
 ---
 slug: hibachi
-title: "hibachi"
-date: "2022-01-04"
-excerpt: 'TODO'
-tags: [todo]
+title: hibachi
+date: 2022-01-04
+excerpt: Went out to a hibachi place
+tags: [food]
 ---
 
 I forgot I was trying to post something everyday. We went to a Japanese steakhouse today.

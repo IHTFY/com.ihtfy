@@ -1,9 +1,9 @@
 ---
 slug: simplify
-title: "simplify"
-date: "2022-02-19"
-excerpt: 'TODO'
-tags: [todo]
+title: simplify
+date: 2022-02-19
+excerpt: Compressing my SVG logo
+tags: [design, code]
 ---
 
 I simplified my logo a bit. It looks pretty much the same, but the underlying svg is much smaller.

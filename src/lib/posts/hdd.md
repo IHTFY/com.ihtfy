@@ -1,9 +1,9 @@
 ---
 slug: hdd
-title: "hdd"
-date: "2022-02-06"
-excerpt: 'TODO'
-tags: [todo]
+title: hdd
+date: 2022-02-06
+excerpt: Testing some external hard drives
+tags: [review]
 ---
 
 I've always kept the habit of making backups of all the data on my computer. Most recently, I had used 2 [Western Digital 4TB HDD with USB 3.0](https://amzn.to/3GtMWeE). I periodically copy all my important files into one of these. And then every few backups, I will mirror the updated drive onto the other one. Usually I would keep them physically separated - either at work or someone else's house. After 5 years of 4k videos 60fps videos, 5k 360° videos, thousands of DSLR photos, and the huge cache/project files that come with editing them, they're just about full.

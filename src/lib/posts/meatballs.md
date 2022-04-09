@@ -1,9 +1,9 @@
 ---
 slug: meatballs
-title: "meatballs"
-date: "2022-03-03"
-excerpt: 'TODO'
-tags: [todo]
+title: meatballs
+date: 2022-03-03
+excerpt: Thought of making meatball masala
+tags: [food, random, experiment]
 ---
 
 I just had an idea for dinner tonight.

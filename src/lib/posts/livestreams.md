@@ -1,9 +1,9 @@
 ---
 slug: livestreams
-title: "livestreams"
-date: "2022-02-04"
-excerpt: 'TODO'
-tags: [todo]
+title: livestreams
+date: 2022-02-04
+excerpt: How to save livestreams.
+tags: [code, tutorial]
 ---
 
 <script>

@@ -1,9 +1,9 @@
 ---
 slug: grey
-title: "grey"
-date: "2017-09-29"
-excerpt: 'TODO'
-tags: [todo]
+title: grey
+date: 2017-09-29
+excerpt: A tiny planet
+tags: [photography]
 ---
 
 <script>

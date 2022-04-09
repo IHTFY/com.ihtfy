@@ -1,9 +1,9 @@
 ---
 slug: overflow
-title: "overflow"
-date: "2022-02-21"
-excerpt: 'TODO'
-tags: [todo]
+title: overflow
+date: 2022-02-21
+excerpt: Working on a Mathologer challenge
+tags: [code, math]
 ---
 
 <script>

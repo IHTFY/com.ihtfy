@@ -1,9 +1,9 @@
 ---
 slug: schema
-title: "schema"
-date: "2022-03-27"
-excerpt: 'TODO'
-tags: [todo]
+title: schema
+date: 2022-03-27
+excerpt: I'm working on the IQ test again.
+tags: [code, math]
 ---
 
 <script>

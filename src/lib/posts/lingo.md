@@ -1,9 +1,9 @@
 ---
 slug: lingo
-title: "lingo"
-date: "2022-02-02"
-excerpt: 'TODO'
-tags: [todo]
+title: lingo
+date: 2022-02-02
+excerpt: Wordle is trending
+tags: [gaming, review, code]
 ---
 
 I played [Wordle](https://www.powerlanguage.co.uk/wordle/) a while ago, and it reminded me of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)). I knew there was another game that was more similar, and I just remembered the gameshow [Lingo](https://en.wikipedia.org/wiki/Lingo_(American_game_show)).

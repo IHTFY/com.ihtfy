@@ -1,9 +1,9 @@
 ---
 slug: mandelbrot
-title: "mandelbrot"
-date: "2022-03-07"
-excerpt: 'TODO'
-tags: [todo]
+title: mandelbrot
+date: 2022-03-07
+excerpt: Updating the description of my Mandelbrot fractal viewer
+tags: [math, code]
 ---
 
 In my [fractal post](https://frankiemercado.com/2022/01/27/fractal/), I mentioned I need to fix my mandelbrot fractal viewer. I still need to do this; I'd like to get the original paper's method to work. The current version is based on a shadertoy example which relies on picking a cyclic point as reference.

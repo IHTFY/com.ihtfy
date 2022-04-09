@@ -1,9 +1,9 @@
 ---
 slug: reredo
-title: "reredo"
-date: "2022-02-16"
-excerpt: 'TODO'
-tags: [todo]
+title: reredo
+date: 2022-02-16
+excerpt: Redoing the calendar maker again
+tags: [code, design]
 ---
 
 I noticed a little bit ago that the calendar maker site doesn't really need routing. And it's just a static page hosted on GitHub, so I don't really need SvelteKit for server side rendering. I had also had some problems getting any component libraries to install. I think I'm going to start over again just using Svelte, and hopefully I can get this library called [Attractions](https://illright.github.io/attractions/) to work.

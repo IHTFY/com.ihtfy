@@ -1,9 +1,9 @@
 ---
 slug: cat
-title: "cat"
-date: "2022-02-09"
-excerpt: 'TODO'
-tags: [todo]
+title: cat
+date: 2022-02-09
+excerpt: A cat ate a birdie.
+tags: [random]
 ---
 
 I heard something outside my window. I looked out and saw a tabby tail through the leaves. A few seconds later, it pops out at the top of the tree. I can hear baby birds chirping, and I see the cat chewing.

@@ -1,9 +1,9 @@
 ---
 slug: regional
-title: "regional"
-date: "2022-03-05"
-excerpt: 'TODO'
-tags: [todo]
+title: regional
+date: 2022-03-05
+excerpt: Have you heard of cheese dip?
+tags: [food, random]
 ---
 
 I made cheese dip tonight. No meat again.
