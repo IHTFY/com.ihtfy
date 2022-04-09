@@ -6,7 +6,7 @@ excerpt: Wordle is trending
 tags: [gaming, review, code]
 ---
 
-I played [Wordle](https://www.powerlanguage.co.uk/wordle/) a while ago, and it reminded me of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)). I knew there was another game that was more similar, and I just remembered the gameshow [Lingo](https://en.wikipedia.org/wiki/Lingo_(American_game_show)).
+I played [Wordle](https://www.powerlanguage.co.uk/wordle/) a while ago, and it reminded me of [Mastermind](<https://en.wikipedia.org/wiki/Mastermind_(board_game)>). I knew there was another game that was more similar, and I just remembered the gameshow [Lingo](<https://en.wikipedia.org/wiki/Lingo_(American_game_show)>).
 
 Wordle is a daily word game, but it could very easily be a normal game that you can play repeatedly. I guess the daily aspect makes people burnout slower, and it promotes sharing with friends since everyone sees the same word - like a daily puzzle on lichess or chess.com. Also, what else can you do while waiting for another word?
 

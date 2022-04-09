@@ -20,13 +20,11 @@ I find these types of puzzles pretty simple once you notice the handful of rules
 | 123           | 312            |
 | 123           | 231            |
 
-
 This shifting can happen vertically or in the opposite direction as well. Notice how the numbers form diagonals rather than columns.
 
 Another common operation is to simply interpret sub elements in a cell as numbers and then add or subtract them to calculate the cell in the final row/column.
 
 It would be cool to gather people's raw scores and then calculate the mean and deviation to be able to normalize it and give an IQ score. I could also give explanations for each puzzle at the end since they're created with simple rules.
-
 
 | flip horizontally⟶ | rotate 180° ⟶ |     |
 | ------------------ | ------------- | --- |

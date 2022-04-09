@@ -30,7 +30,6 @@ From Windows PowerShell, I go to the folder containing all my data.
 
 Then I run the command:
 
-
 <CodeBlock lang="shell">
 
 ```shell
@@ -39,21 +38,20 @@ npx wordpress-export-to-markdown
 
 </CodeBlock>
 
-
 I renamed the XML file to `export.xml`, and kept the default output folder name. These are the settings I used:
 
 <CodeBlock lang="shell" filename="config">
 
 ```shell
-Starting wizard…  
-? Path to WordPress export file? export.xml  
-? Path to output folder? output  
-? Create year folders? No  
-? Create month folders? No  
-? Create a folder for each post? Yes  
-? Prefix post folders/files with date? Yes  
-? Save images attached to posts? Yes  
-? Save images scraped from post body content? Yes  
+Starting wizard…
+? Path to WordPress export file? export.xml
+? Path to output folder? output
+? Create year folders? No
+? Create month folders? No
+? Create a folder for each post? Yes
+? Prefix post folders/files with date? Yes
+? Save images attached to posts? Yes
+? Save images scraped from post body content? Yes
 ? Include custom post types and pages? No
 ```
 

@@ -42,11 +42,12 @@ Next, we'll make the batch file. Make a new text file and add this inside of it:
 
 ```batch
 @ECHO OFF
-SET /p url=Stream Link: 
-SET /p name=Filename: 
+SET /p url=Stream Link:
+SET /p name=Filename:
 ECHO saving in downloads
 START ffmpeg -protocol\_whitelist file,http,https,tcp,tls,crypto -i "%URL%" -codec copy "C:\\Users\\Frankie\\Downloads\\%name%.mkv"
 ```
+
 </CodeBlock>
 
 You can change the path on the last line. The `%name%` is a variable which comes from the prompt in line 3. I'm saving as an `mkv` file, but you could change this to mp4 or something else; from what I recall, it may be faster to save as an mkv.
@@ -58,6 +59,7 @@ Save that text file as a `.bat` file, like `streamDL.bat`. Now if you double-cli
 ```batch
 ffmpeg -protocol\_whitelist file,http,https,tcp,tls,crypto -i "%URL%" -codec copy "yourFilename.mkv"
 ```
+
 </CodeBlock>
 
 The important part here is the `-protocol_whitelist file,http,https,tcp,tls,crypto` argument with lets FFmpeg read the .ts files using https or http.

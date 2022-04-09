@@ -94,7 +94,6 @@ And here's the code for the URL:
 
 <CodeBlock lang="javascript" filename="⏭️">
 
-
 ```javascript
 javascript: {
   if (document.getElementsByTagName("video").length) {
@@ -106,6 +105,7 @@ javascript: {
   }
 };
 ```
+
 </CodeBlock>
 
 Here's another one that has a little meter to show the current speed.
@@ -129,8 +129,8 @@ javascript: {
   }
 }
 ```
-</CodeBlock>
 
+</CodeBlock>
 
 Here's one that just sets the playhead to the end of the video.
 
@@ -142,4 +142,5 @@ javascript: {
   v.currentTime = v.duration;
 }
 ```
+
 </CodeBlock>
