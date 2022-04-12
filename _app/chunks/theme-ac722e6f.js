@@ -1,0 +1,1 @@
+import{D as s}from"./vendor-444f9169.js";const t="https://site.ihtfy.com",i=["Frankie Mercado","IHopeThisFindsYou","IHTFY","software","code","coding","math"],a="I like to write code, do math, make music, and play with fire.",o="IHTFY",r=`${t}/images/site-preview.png`,c=s("dark");export{c as a,a as d,r as i,i as k,t as s,o as t};
