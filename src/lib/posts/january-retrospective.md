@@ -16,7 +16,7 @@ In February, I'd like to have more high quality posts. I would be okay with a fe
 
 ## Post frequent YouTube videos
 
-I've only posted [1 public video](https://www.youtube.com/watch?v=obydiUba5ow). There were a few unlisted videos from earlier this month: [Drone](https://site.ihtfy.com/winter-drone/), [Hibachi](https://site.ihtfy.com/hibachi/). Public videos was what I cared about. At some point, I may move some videos to unlisted playlists and but keep the playlists public on my channel.
+I've only posted [1 public video](https://www.youtube.com/watch?v=obydiUba5ow). There were a few unlisted videos from earlier this month: [Drone](/winter-drone/), [Hibachi](/hibachi/). Public videos was what I cared about. At some point, I may move some videos to unlisted playlists and but keep the playlists public on my channel.
 
 In February, I'd like to have at least 2 new public-worthy videos. Ultimately, I'd like to grow an audience on YouTube, so I'd like to keep the content on that channel above the threshold for daily posts.
 
@@ -28,13 +28,13 @@ In February, I'll spend some time in the morning thinking of what I can finish b
 
 ## Document the creation of various projects
 
-My video about [making a new logo](https://site.ihtfy.com/logo/) was kind of what I was thinking when I made this goal. That video in particular was unscripted and basically unedited - just a concatenation of clips. I also rushed the end, because I stopped recording my thought process. I have found that the videos I finished were all done in 1-2 days. I have project files that are much older, but I just keep pecking at them every few months.
+My video about [making a new logo](/logo/) was kind of what I was thinking when I made this goal. That video in particular was unscripted and basically unedited - just a concatenation of clips. I also rushed the end, because I stopped recording my thought process. I have found that the videos I finished were all done in 1-2 days. I have project files that are much older, but I just keep pecking at them every few months.
 
 In February, I'd like to bring one of my long-term projects to completion and post about the steps I'm taking to finish it.
 
 ## Organize and display past projects
 
-I haven't focused on my past projects this month. I did go back to make some improvements on some of my web games which was good: [adding tabs to empire](https://site.ihtfy.com/tabs/) and [making it an installable app](https://site.ihtfy.com/standalone/), also with [Optics](https://site.ihtfy.com/offline/) and my [knight puzzle](https://site.ihtfy.com/pwa/), and adding some brains to my [chess engine](https://site.ihtfy.com/chess-engine/). Actually, I guess I did alright in this category.
+I haven't focused on my past projects this month. I did go back to make some improvements on some of my web games which was good: [adding tabs to empire](/tabs/) and [making it an installable app](/standalone/), also with [Optics](/offline/) and my [knight puzzle](/pwa/), and adding some brains to my [chess engine](/chess-engine/). Actually, I guess I did alright in this category.
 
 In February, I'd like to show my Vigenère cipher cracker I made a long time ago. I'd also like to check what other old code I have that might be interesting. This is mostly reducing regret; it would be sad if my old work died with me, even if it isn't groundbreaking.
 
