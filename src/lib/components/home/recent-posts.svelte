@@ -10,7 +10,7 @@
 <section id="recent-posts">
 	<Section
 		title="Latest posts"
-		description="Sometimes, I write about what I'm learning or building."
+		description="Thoughts, writeups, and other stuff I've written about."
 		buttonText="View all posts"
 		buttonUrl="/blog"
 	>
