@@ -15,7 +15,7 @@
 	<Section
 		align="top"
 		title="Projects"
-		description="I like to build some small projects when learning. Technologies are varied and so are their purposes. Most of them are open source!"
+		description="Games, tools, and other projects I've worked on."
 	>
 		<OneByOneGrid>
 			<ProjectsGrid>

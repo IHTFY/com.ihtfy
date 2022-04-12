@@ -1,7 +1,7 @@
 @mixin light-theme {
 	// #region Palette
-	--primary-color: rgb(255, 174, 0);
-	--primary-color-rgb: 12, 104, 165;
+	--primary-color-rgb: 255, 174, 0;
+	--primary-color: rgba(255, 174, 0, 1);
 	--primary-color-contrast: rgba(255, 255, 255, 1);
 
 	--primary-light-color: rgba(165, 207, 223, 1);
@@ -16,6 +16,8 @@
 	--secondary-lightest-color: rgba(242, 240, 254, 1);
 	// #endregion
 
+	--selection-color: rgba(var(--primary-color-rgb), 0.3);
+
 	--page-background-color: rgba(244, 248, 251, 1);
 	--page-background-color-hsl-hue: 206;
 	--page-background-color-hsl-saturation: 47%;
@@ -28,8 +30,9 @@
 
 	--link-highlight-color: var(--primary-color);
 
-	--waves-color-start: rgba(var(--primary-color-rgb), 0.3);
-	--waves-color-end: rgba(var(--primary-color-rgb), 0.1);
+	--waves-color: 12, 104, 165;
+	--waves-color-start: rgba(var(--waves-color), 0.3);
+	--waves-color-end: rgba(var(--waves-color), 0.1);
 
 	--shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0);
 	--shadow-hover: 0px 0px 2px 2px var(--text-color);
@@ -84,7 +87,7 @@
 
 @mixin dark-theme {
 	// #region Palette
-	--primary-color: rgba(0, 194, 194, 1);
+	--primary-color-rgb: 0, 194, 194;
 	--primary-color-contrast: rgba(28, 30, 38, 1);
 
 	--primary-light-color: rgba(0, 57, 78, 1);
@@ -105,7 +108,7 @@
 	--page-background-color-hsl-saturation: 84%;
 	--page-background-color-hsl-lightness: 35%;
 
-	--text-color: rgba(225, 225, 225, 1);
+	--text-color: rgba(255, 255, 255, 1);
 	--text-light-color: rgba(158, 180, 181, 1);
 
 	--post-page-background-color: rgba(20, 21, 25, 1);
