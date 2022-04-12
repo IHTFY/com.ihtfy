@@ -29,12 +29,14 @@
 		height: var(--size);
 		box-shadow: inset calc(var(--size) * 0.33) calc(var(--size) * -0.25) 0;
 		border-radius: 999px;
-		color: hsl(240, 100%, 95%);
+		// normal color in dark mode
+		color: var(--text-light-color);
 
 		transition: all 500ms;
 
+		// hovering in dark mode
 		&:hover {
-			color: hsl(40, 100%, 50%);
+			color: var(--text-color);
 		}
 
 		&:checked {
@@ -45,7 +47,8 @@
 			--long-left: calc(var(--size) * -0.46);
 
 			transform: scale(0.75);
-			color: hsl(40, 100%, 50%);
+			// normal color in light mode
+			color: var(--primary-color);
 			box-shadow: inset 0 0 0 var(--size), var(--left) 0 0 var(--ray-size),
 				var(--right) 0 0 var(--ray-size), 0 var(--left) 0 var(--ray-size),
 				0 var(--right) 0 var(--ray-size), var(--long-left) var(--long-left) 0 var(--ray-size),
@@ -53,8 +56,9 @@
 				var(--long-left) var(--long-right) 0 var(--ray-size),
 				var(--long-right) var(--long-left) 0 var(--ray-size);
 
+			// hovering in light mode
 			&:hover {
-				color: #1c1e26;
+				color: var(--text-color);
 			}
 		}
 	}
