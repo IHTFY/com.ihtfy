@@ -18,4 +18,4 @@ For example, the links in the first column redirect to the second column:
 | https://yt.ihtfy.com      | https://youtube.com/ihopethisfindsyou |
 | https://contact.ihtfy.com | https://frankiemercado.com/contact/   |
 
-On Google Domains, you can go to the "Website" tab to add a forwarding address. Note, when a person clicks on your link, they will be redirected to the new address and they won't see your original URL anymore. This is not the case with the method described in [this previous post](https://site.ihtfy.com/redo/). That method requires you have access to the code at the destination, e.g. your own github project where you can add a CNAME file.
+On Google Domains, you can go to the "Website" tab to add a forwarding address. Note, when a person clicks on your link, they will be redirected to the new address and they won't see your original URL anymore. This is not the case with the method described in [this previous post](/redo/). That method requires you have access to the code at the destination, e.g. your own github project where you can add a CNAME file.

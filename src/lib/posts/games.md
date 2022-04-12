@@ -70,4 +70,4 @@ Based on the card game, [Illusion](https://pandasaurusgames.com/products/illusio
 
 [PLAY](https://knightpuzzle.ihtfy.com/)
 
-I have some details in [this post](https://site.ihtfy.com/knight/). This is a chess puzzle where you have to move the knight around the board without being attacked by the queen.
+I have some details in [this post](/knight/). This is a chess puzzle where you have to move the knight around the board without being attacked by the queen.
