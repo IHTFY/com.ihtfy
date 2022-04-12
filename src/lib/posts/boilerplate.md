@@ -1,7 +1,7 @@
 ---
 slug: boilerplate
 title: Boilerplate
-date: 2022-03-23
+date: 2022-03-22
 excerpt: Working on the IQ test generator
 tags: [code]
 ---

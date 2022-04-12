@@ -1,7 +1,7 @@
 ---
 slug: asphalt
 title: Asphalt
-date: 2022-01-27
+date: 2022-01-26
 excerpt: An iPad racing game
 tags: [gaming, random]
 ---

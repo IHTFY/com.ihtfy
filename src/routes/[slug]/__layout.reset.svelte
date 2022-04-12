@@ -56,8 +56,7 @@
 		<article id="markdown-content">
 			<div class="header">
 				<h1>{post.title}</h1>
-				<div class="note">Published on {dateformat(post.date, 'UTC:dd mmmm yyyy')}</div>
-				<div class="note">{post.readingTime}</div>
+				<div class="note">{dateformat(post.date, 'UTC:mmmm dS, yyyy')} — {post.readingTime}</div>
 				<div class="tags">
 					{#each post.tags as tag}
 						<Tag>{tag}</Tag>

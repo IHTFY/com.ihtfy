@@ -1,7 +1,7 @@
 ---
 slug: catchup
 title: Catchup
-date: 2022-04-03
+date: 2022-04-02
 excerpt: I was working on formatting all my posts again to work with the new site.
 tags: [website]
 ---

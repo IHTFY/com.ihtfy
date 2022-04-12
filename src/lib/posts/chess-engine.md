@@ -1,7 +1,7 @@
 ---
 slug: chess-engine
 title: Chess Engine
-date: 2022-01-16
+date: 2022-01-15
 excerpt: Making a chess engine
 tags: [code]
 ---

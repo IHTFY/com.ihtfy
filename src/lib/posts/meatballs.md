@@ -1,7 +1,7 @@
 ---
 slug: meatballs
 title: Meatballs
-date: 2022-03-03
+date: 2022-03-02
 excerpt: Thought of making meatball masala
 tags: [food, random, experiment]
 ---

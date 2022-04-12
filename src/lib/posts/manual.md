@@ -1,7 +1,7 @@
 ---
 slug: manual
 title: Manual
-date: 2022-04-04
+date: 2022-04-03
 excerpt: Still converting
 tags: [website]
 ---

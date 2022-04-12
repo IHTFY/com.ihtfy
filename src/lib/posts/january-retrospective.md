@@ -1,7 +1,7 @@
 ---
 slug: january-retrospective
 title: January Retrospective
-date: 2022-02-01
+date: 2022-01-31
 excerpt: How did I do in January?
 tags: [website, review]
 ---

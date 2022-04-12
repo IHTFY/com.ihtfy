@@ -1,7 +1,7 @@
 ---
 slug: migrating
 title: Migrating
-date: 2022-02-20
+date: 2022-02-19
 excerpt: Moving my site to GitHub
 tags: [code, design, website]
 ---

@@ -1,7 +1,7 @@
 ---
 slug: parking
 title: Parking
-date: 2022-03-10
+date: 2022-03-09
 excerpt: I went to the gym, but I didn't work out.
 tags: [random]
 ---

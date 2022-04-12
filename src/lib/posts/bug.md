@@ -1,7 +1,7 @@
 ---
 slug: bug
 title: Bug
-date: 2022-02-28
+date: 2022-02-27
 excerpt: Ran into a bug on the new website.
 tags: [code, website]
 ---

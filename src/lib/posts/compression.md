@@ -1,7 +1,7 @@
 ---
 slug: compression
 title: Compression
-date: 2022-02-13
+date: 2022-02-12
 excerpt: How LZ string compression works
 tags: [code, tutorial]
 ---
