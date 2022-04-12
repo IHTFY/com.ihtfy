@@ -1,7 +1,7 @@
 ---
 slug: pixi
 title: Pixi
-date: 2022-03-12
+date: 2022-03-11
 excerpt: I'm playing around with PixiJS.
 tags: [code]
 ---

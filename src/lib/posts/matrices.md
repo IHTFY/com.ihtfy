@@ -1,7 +1,7 @@
 ---
 slug: matrices
 title: Matrices
-date: 2022-03-21
+date: 2022-03-20
 excerpt: Thoughts about Raven's Progressive Matrices
 tags: [math, code]
 ---

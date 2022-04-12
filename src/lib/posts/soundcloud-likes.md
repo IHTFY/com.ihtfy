@@ -1,7 +1,7 @@
 ---
 slug: soundcloud-likes
 title: SoundCloud Likes
-date: 2022-02-03
+date: 2022-02-02
 excerpt: How to archive all your soundcloud likes.
 tags: [code, tutorial]
 ---

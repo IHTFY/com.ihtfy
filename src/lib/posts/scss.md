@@ -1,7 +1,7 @@
 ---
 slug: scss
 title: SCSS
-date: 2022-04-05
+date: 2022-04-04
 excerpt: I've been changing the color palette for the new site.
 tags: [website]
 ---

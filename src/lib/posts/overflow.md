@@ -1,7 +1,7 @@
 ---
 slug: overflow
 title: Overflow
-date: 2022-02-21
+date: 2022-02-20
 excerpt: Working on a Mathologer challenge
 tags: [code, math]
 ---

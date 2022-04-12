@@ -1,7 +1,7 @@
 ---
 slug: milk-tea-doppelgangers
 title: Milk Tea Doppelgangers
-date: 2022-01-19
+date: 2022-01-18
 excerpt: Milktea is cereal milk.
 tags: [food, random]
 ---

@@ -1,7 +1,7 @@
 ---
 slug: choppy
 title: Choppy
-date: 2022-03-29
+date: 2022-03-28
 excerpt: I made an unlisted stream about the IQ test generator.
 tags: [code]
 ---

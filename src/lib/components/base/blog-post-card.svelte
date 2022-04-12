@@ -2,6 +2,7 @@
 	import Card from '$lib/components/base/card.svelte';
 	import Image from '$lib/components/base/image.svelte';
 	import Tag from './tag.svelte';
+	import dateformat from 'dateformat';
 
 	export let post;
 	export let showImage = true;
@@ -16,7 +17,7 @@
 		</div>
 		<div slot="content">
 			<div class="title">{post.title}</div>
-			<div class="note">{post.readingTime}</div>
+			<div class="note">{dateformat(post.date, 'UTC:mmmm dS, yyyy')} — {post.readingTime}</div>
 			<div class="text">{post.excerpt}</div>
 		</div>
 		<div slot="footer">

@@ -1,7 +1,7 @@
 ---
 slug: redo
 title: Redo
-date: 2022-02-05
+date: 2022-02-04
 excerpt: Restarting the calendar maker
 tags: [code, design]
 ---
