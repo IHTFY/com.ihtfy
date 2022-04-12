@@ -9,7 +9,7 @@
           <title>SCSS</title>
           <description>I've been changing the color palette for the new site.</description>
           <link>https://site.ihtfy.com/scss/</link>
-          <pubDate>2022-04-05T00:00:00.000Z</pubDate>
+          <pubDate>2022-04-04T00:00:00.000Z</pubDate>
           <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/scss/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/scss/cover.jpg"/>
@@ -19,7 +19,7 @@
           <title>Manual</title>
           <description>Still converting</description>
           <link>https://site.ihtfy.com/manual/</link>
-          <pubDate>2022-04-04T00:00:00.000Z</pubDate>
+          <pubDate>2022-04-03T00:00:00.000Z</pubDate>
           <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/manual/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/manual/cover.jpg"/>
@@ -29,7 +29,7 @@
           <title>Catchup</title>
           <description>I was working on formatting all my posts again to work with the new site.</description>
           <link>https://site.ihtfy.com/catchup/</link>
-          <pubDate>2022-04-03T00:00:00.000Z</pubDate>
+          <pubDate>2022-04-02T00:00:00.000Z</pubDate>
           <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/catchup/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/catchup/cover.jpg"/>
@@ -39,20 +39,10 @@
           <title>Habit</title>
           <description>Still working on the replacement website</description>
           <link>https://site.ihtfy.com/habit/</link>
-          <pubDate>2022-04-02T00:00:00.000Z</pubDate>
+          <pubDate>2022-04-01T00:00:00.000Z</pubDate>
           <category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/habit/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/habit/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Again</title>
-          <description>I forgot to write again</description>
-          <link>https://site.ihtfy.com/again/</link>
-          <pubDate>2022-03-31T00:00:00.000Z</pubDate>
-          <category term="random" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
         </item>
       
         <item>
@@ -66,10 +56,20 @@
         </item>
       
         <item>
+          <title>Again</title>
+          <description>I forgot to write again</description>
+          <link>https://site.ihtfy.com/again/</link>
+          <pubDate>2022-03-30T00:00:00.000Z</pubDate>
+          <category term="random" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/again/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Oops</title>
           <description>I missed a day.</description>
           <link>https://site.ihtfy.com/oops/</link>
-          <pubDate>2022-03-30T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-29T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/oops/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/oops/cover.jpg"/>
@@ -79,7 +79,7 @@
           <title>Choppy</title>
           <description>I made an unlisted stream about the IQ test generator.</description>
           <link>https://site.ihtfy.com/choppy/</link>
-          <pubDate>2022-03-29T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-28T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/choppy/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/choppy/cover.jpg"/>
@@ -89,7 +89,7 @@
           <title>Assembly</title>
           <description>I like assembling furniture.</description>
           <link>https://site.ihtfy.com/assembly/</link>
-          <pubDate>2022-03-28T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-27T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/assembly/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/assembly/cover.jpg"/>
@@ -99,7 +99,7 @@
           <title>Schema</title>
           <description>I'm working on the IQ test again.</description>
           <link>https://site.ihtfy.com/schema/</link>
-          <pubDate>2022-03-27T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-26T00:00:00.000Z</pubDate>
           <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/schema/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/schema/cover.jpg"/>
@@ -109,7 +109,7 @@
           <title>Upside Down</title>
           <description>I've seen a couple videos of people putting frozen cheese pizza upside down in the oven.</description>
           <link>https://site.ihtfy.com/upside-down/</link>
-          <pubDate>2022-03-26T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-25T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/upside-down/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/upside-down/cover.jpg"/>
@@ -119,7 +119,7 @@
           <title>Quarter</title>
           <description>I'm thinking about ending the daily posts at the end of the month and transitioning to weekly instead.</description>
           <link>https://site.ihtfy.com/quarter/</link>
-          <pubDate>2022-03-25T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-24T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/quarter/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/quarter/cover.jpg"/>
@@ -129,7 +129,7 @@
           <title>Consoles</title>
           <description>I'm Bob the Builder</description>
           <link>https://site.ihtfy.com/consoles/</link>
-          <pubDate>2022-03-24T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-23T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/consoles/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/consoles/cover.jpg"/>
@@ -139,20 +139,10 @@
           <title>Boilerplate</title>
           <description>Working on the IQ test generator</description>
           <link>https://site.ihtfy.com/boilerplate/</link>
-          <pubDate>2022-03-23T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-22T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/boilerplate/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/boilerplate/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Matrices</title>
-          <description>Thoughts about Raven's Progressive Matrices</description>
-          <link>https://site.ihtfy.com/matrices/</link>
-          <pubDate>2022-03-21T00:00:00.000Z</pubDate>
-          <category term="math" /><category term="code" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
         </item>
       
         <item>
@@ -163,6 +153,16 @@
           <category term="random" /><category term="hack" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pez/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pez/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Matrices</title>
+          <description>Thoughts about Raven's Progressive Matrices</description>
+          <link>https://site.ihtfy.com/matrices/</link>
+          <pubDate>2022-03-20T00:00:00.000Z</pubDate>
+          <category term="math" /><category term="code" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/matrices/cover.jpg"/>
         </item>
       
         <item>
@@ -186,16 +186,6 @@
         </item>
       
         <item>
-          <title>dispenser</title>
-          <description>A PEZ dispenser for pills.</description>
-          <link>https://site.ihtfy.com/dispenser/</link>
-          <pubDate>2022-03-17T00:00:00.000Z</pubDate>
-          <category term="random" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
-        </item>
-      
-        <item>
           <title>Studio</title>
           <description>I own calendar.studio</description>
           <link>https://site.ihtfy.com/studio/</link>
@@ -206,10 +196,20 @@
         </item>
       
         <item>
+          <title>dispenser</title>
+          <description>A PEZ dispenser for pills.</description>
+          <link>https://site.ihtfy.com/dispenser/</link>
+          <pubDate>2022-03-16T00:00:00.000Z</pubDate>
+          <category term="random" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/dispenser/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Informed</title>
           <description>The USPS will email you the scans of incoming mail.</description>
           <link>https://site.ihtfy.com/informed/</link>
-          <pubDate>2022-03-16T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-15T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/informed/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/informed/cover.jpg"/>
@@ -219,7 +219,7 @@
           <title>314</title>
           <description>It's Pi Day.</description>
           <link>https://site.ihtfy.com/314/</link>
-          <pubDate>2022-03-15T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-14T00:00:00.000Z</pubDate>
           <category term="math" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/314/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/314/cover.jpg"/>
@@ -229,7 +229,7 @@
           <title>Similar</title>
           <description>Sometimes I forget which word to use.</description>
           <link>https://site.ihtfy.com/similar/</link>
-          <pubDate>2022-03-14T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-13T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/similar/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/similar/cover.jpg"/>
@@ -239,7 +239,7 @@
           <title>Buzzing</title>
           <description>The random buzzing phantom notifications are back.</description>
           <link>https://site.ihtfy.com/buzzing/</link>
-          <pubDate>2022-03-13T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-12T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/buzzing/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/buzzing/cover.jpg"/>
@@ -249,7 +249,7 @@
           <title>Pixi</title>
           <description>I'm playing around with PixiJS.</description>
           <link>https://site.ihtfy.com/pixi/</link>
-          <pubDate>2022-03-12T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-11T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pixi/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pixi/cover.jpg"/>
@@ -259,7 +259,7 @@
           <title>Phantom</title>
           <description>My phone is annoying me.</description>
           <link>https://site.ihtfy.com/phantom/</link>
-          <pubDate>2022-03-11T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-10T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/phantom/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/phantom/cover.jpg"/>
@@ -269,7 +269,7 @@
           <title>Parking</title>
           <description>I went to the gym, but I didn't work out.</description>
           <link>https://site.ihtfy.com/parking/</link>
-          <pubDate>2022-03-10T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-09T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/parking/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/parking/cover.jpg"/>
@@ -279,7 +279,7 @@
           <title>Two Days</title>
           <description>I started going to tue gym again.</description>
           <link>https://site.ihtfy.com/two-days/</link>
-          <pubDate>2022-03-09T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-08T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/two-days/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/two-days/cover.jpg"/>
@@ -289,7 +289,7 @@
           <title>Tikka</title>
           <description>I tried the meatballs and tikka masala.</description>
           <link>https://site.ihtfy.com/tikka/</link>
-          <pubDate>2022-03-08T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-07T00:00:00.000Z</pubDate>
           <category term="food" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/tikka/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/tikka/cover.jpg"/>
@@ -299,7 +299,7 @@
           <title>Mandelbrot</title>
           <description>Updating the description of my Mandelbrot fractal viewer</description>
           <link>https://site.ihtfy.com/mandelbrot/</link>
-          <pubDate>2022-03-07T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-06T00:00:00.000Z</pubDate>
           <category term="math" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/mandelbrot/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/mandelbrot/cover.jpg"/>
@@ -309,7 +309,7 @@
           <title>Phone</title>
           <description>This is a low quality post.</description>
           <link>https://site.ihtfy.com/phone/</link>
-          <pubDate>2022-03-06T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-05T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/phone/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/phone/cover.jpg"/>
@@ -319,7 +319,7 @@
           <title>Regional</title>
           <description>Have you heard of cheese dip?</description>
           <link>https://site.ihtfy.com/regional/</link>
-          <pubDate>2022-03-05T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-04T00:00:00.000Z</pubDate>
           <category term="food" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/regional/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/regional/cover.jpg"/>
@@ -329,7 +329,7 @@
           <title>Apartments</title>
           <description>Almost moved into a bad neighborhood</description>
           <link>https://site.ihtfy.com/apartments/</link>
-          <pubDate>2022-03-04T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-03T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/apartments/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/apartments/cover.jpg"/>
@@ -339,7 +339,7 @@
           <title>Meatballs</title>
           <description>Thought of making meatball masala</description>
           <link>https://site.ihtfy.com/meatballs/</link>
-          <pubDate>2022-03-03T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-02T00:00:00.000Z</pubDate>
           <category term="food" /><category term="random" /><category term="experiment" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/meatballs/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/meatballs/cover.jpg"/>
@@ -349,7 +349,7 @@
           <title>February Retrospective</title>
           <description>Reviewing my February goal progress</description>
           <link>https://site.ihtfy.com/february-retrospective/</link>
-          <pubDate>2022-03-02T00:00:00.000Z</pubDate>
+          <pubDate>2022-03-01T00:00:00.000Z</pubDate>
           <category term="website" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/february-retrospective/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/february-retrospective/cover.jpg"/>
@@ -359,7 +359,7 @@
           <title>Thirty</title>
           <description>What's a circadian rhythm?</description>
           <link>https://site.ihtfy.com/thirty/</link>
-          <pubDate>2022-03-01T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-28T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/thirty/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/thirty/cover.jpg"/>
@@ -369,7 +369,7 @@
           <title>Bug</title>
           <description>Ran into a bug on the new website.</description>
           <link>https://site.ihtfy.com/bug/</link>
-          <pubDate>2022-02-28T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-27T00:00:00.000Z</pubDate>
           <category term="code" /><category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/bug/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/bug/cover.jpg"/>
@@ -379,7 +379,7 @@
           <title>Shortlist</title>
           <description>My new website is getting close to being live.</description>
           <link>https://site.ihtfy.com/shortlist/</link>
-          <pubDate>2022-02-27T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-26T00:00:00.000Z</pubDate>
           <category term="website" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/shortlist/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/shortlist/cover.jpg"/>
@@ -389,20 +389,10 @@
           <title>Parallel</title>
           <description>I canceled the renewal of my WordPress.com subscription.</description>
           <link>https://site.ihtfy.com/parallel/</link>
-          <pubDate>2022-02-26T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-25T00:00:00.000Z</pubDate>
           <category term="website" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/parallel/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/parallel/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Another</title>
-          <description>Redesigning my website</description>
-          <link>https://site.ihtfy.com/another/</link>
-          <pubDate>2022-02-24T00:00:00.000Z</pubDate>
-          <category term="code" /><category term="website" /><category term="design" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
         </item>
       
         <item>
@@ -416,10 +406,20 @@
         </item>
       
         <item>
+          <title>Another</title>
+          <description>Redesigning my website</description>
+          <link>https://site.ihtfy.com/another/</link>
+          <pubDate>2022-02-23T00:00:00.000Z</pubDate>
+          <category term="code" /><category term="website" /><category term="design" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/another/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Cents</title>
           <description>Thinking about ads</description>
           <link>https://site.ihtfy.com/cents/</link>
-          <pubDate>2022-02-23T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-22T00:00:00.000Z</pubDate>
           <category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cents/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cents/cover.jpg"/>
@@ -429,7 +429,7 @@
           <title>Vortex</title>
           <description>I finished the vortex math thing.</description>
           <link>https://site.ihtfy.com/vortex/</link>
-          <pubDate>2022-02-22T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-21T00:00:00.000Z</pubDate>
           <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/vortex/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/vortex/cover.jpg"/>
@@ -439,7 +439,7 @@
           <title>Overflow</title>
           <description>Working on a Mathologer challenge</description>
           <link>https://site.ihtfy.com/overflow/</link>
-          <pubDate>2022-02-21T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-20T00:00:00.000Z</pubDate>
           <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/overflow/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/overflow/cover.jpg"/>
@@ -449,7 +449,7 @@
           <title>Migrating</title>
           <description>Moving my site to GitHub</description>
           <link>https://site.ihtfy.com/migrating/</link>
-          <pubDate>2022-02-20T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-19T00:00:00.000Z</pubDate>
           <category term="code" /><category term="design" /><category term="website" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/migrating/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/migrating/cover.jpg"/>
@@ -459,7 +459,7 @@
           <title>Simplify</title>
           <description>Compressing my SVG logo</description>
           <link>https://site.ihtfy.com/simplify/</link>
-          <pubDate>2022-02-19T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-18T00:00:00.000Z</pubDate>
           <category term="design" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/simplify/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/simplify/cover.jpg"/>
@@ -469,20 +469,10 @@
           <title>Theming</title>
           <description>Remaking the calendar maker</description>
           <link>https://site.ihtfy.com/theming/</link>
-          <pubDate>2022-02-18T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-17T00:00:00.000Z</pubDate>
           <category term="code" /><category term="design" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/theming/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/theming/cover.jpg"/>
-        </item>
-      
-        <item>
-          <title>Late</title>
-          <description>Posting late</description>
-          <link>https://site.ihtfy.com/late/</link>
-          <pubDate>2022-02-16T00:00:00.000Z</pubDate>
-          <category term="random" />
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
         </item>
       
         <item>
@@ -496,10 +486,20 @@
         </item>
       
         <item>
+          <title>Late</title>
+          <description>Posting late</description>
+          <link>https://site.ihtfy.com/late/</link>
+          <pubDate>2022-02-15T00:00:00.000Z</pubDate>
+          <category term="random" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/late/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Forgot</title>
           <description>Sorry, I forgot.</description>
           <link>https://site.ihtfy.com/forgot/</link>
-          <pubDate>2022-02-15T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-14T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/forgot/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/forgot/cover.jpg"/>
@@ -509,7 +509,7 @@
           <title>Pseudorandom</title>
           <description>Playing around with crypto - No, not currency</description>
           <link>https://site.ihtfy.com/pseudorandom/</link>
-          <pubDate>2022-02-14T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-13T00:00:00.000Z</pubDate>
           <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/pseudorandom/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/pseudorandom/cover.jpg"/>
@@ -519,7 +519,7 @@
           <title>Compression</title>
           <description>How LZ string compression works</description>
           <link>https://site.ihtfy.com/compression/</link>
-          <pubDate>2022-02-13T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-12T00:00:00.000Z</pubDate>
           <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/compression/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/compression/cover.jpg"/>
@@ -529,7 +529,7 @@
           <title>Calendar Progress</title>
           <description>Working on a calendar maker.</description>
           <link>https://site.ihtfy.com/calendar-progress/</link>
-          <pubDate>2022-02-12T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-11T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/calendar-progress/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/calendar-progress/cover.jpg"/>
@@ -539,7 +539,7 @@
           <title>Plates</title>
           <description>Installing a tow hook mounted license plate</description>
           <link>https://site.ihtfy.com/plates/</link>
-          <pubDate>2022-02-11T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-10T00:00:00.000Z</pubDate>
           <category term="project" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/plates/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/plates/cover.jpg"/>
@@ -549,7 +549,7 @@
           <title>Cheese</title>
           <description>12 year aged cheese</description>
           <link>https://site.ihtfy.com/cheese/</link>
-          <pubDate>2022-02-10T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-09T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cheese/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cheese/cover.jpg"/>
@@ -559,7 +559,7 @@
           <title>Cat</title>
           <description>A cat ate a birdie.</description>
           <link>https://site.ihtfy.com/cat/</link>
-          <pubDate>2022-02-09T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-08T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/cat/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/cat/cover.jpg"/>
@@ -569,7 +569,7 @@
           <title>Shortner</title>
           <description>How to get custom short URLs</description>
           <link>https://site.ihtfy.com/shortner/</link>
-          <pubDate>2022-02-08T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-07T00:00:00.000Z</pubDate>
           <category term="code" /><category term="hack" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/shortner/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/shortner/cover.jpg"/>
@@ -579,7 +579,7 @@
           <title>Anodize</title>
           <description>Taking a blow torch to a paperclip</description>
           <link>https://site.ihtfy.com/anodize/</link>
-          <pubDate>2022-02-07T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-06T00:00:00.000Z</pubDate>
           <category term="science" /><category term="experiment" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/anodize/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/anodize/cover.jpg"/>
@@ -589,7 +589,7 @@
           <title>HDD</title>
           <description>Testing some external hard drives</description>
           <link>https://site.ihtfy.com/hdd/</link>
-          <pubDate>2022-02-06T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-05T00:00:00.000Z</pubDate>
           <category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/hdd/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/hdd/cover.jpg"/>
@@ -599,7 +599,7 @@
           <title>Redo</title>
           <description>Restarting the calendar maker</description>
           <link>https://site.ihtfy.com/redo/</link>
-          <pubDate>2022-02-05T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-04T00:00:00.000Z</pubDate>
           <category term="code" /><category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/redo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/redo/cover.jpg"/>
@@ -609,7 +609,7 @@
           <title>Livestreams</title>
           <description>How to save livestreams.</description>
           <link>https://site.ihtfy.com/livestreams/</link>
-          <pubDate>2022-02-04T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-03T00:00:00.000Z</pubDate>
           <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/livestreams/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/livestreams/cover.jpg"/>
@@ -619,7 +619,7 @@
           <title>SoundCloud Likes</title>
           <description>How to archive all your soundcloud likes.</description>
           <link>https://site.ihtfy.com/soundcloud-likes/</link>
-          <pubDate>2022-02-03T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-02T00:00:00.000Z</pubDate>
           <category term="code" /><category term="tutorial" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/soundcloud-likes/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/soundcloud-likes/cover.jpg"/>
@@ -629,7 +629,7 @@
           <title>Lingo</title>
           <description>Wordle is trending</description>
           <link>https://site.ihtfy.com/lingo/</link>
-          <pubDate>2022-02-02T00:00:00.000Z</pubDate>
+          <pubDate>2022-02-01T00:00:00.000Z</pubDate>
           <category term="gaming" /><category term="review" /><category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/lingo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/lingo/cover.jpg"/>
@@ -639,7 +639,7 @@
           <title>January Retrospective</title>
           <description>How did I do in January?</description>
           <link>https://site.ihtfy.com/january-retrospective/</link>
-          <pubDate>2022-02-01T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-31T00:00:00.000Z</pubDate>
           <category term="website" /><category term="review" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/january-retrospective/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/january-retrospective/cover.jpg"/>
@@ -649,7 +649,7 @@
           <title>IMSLP</title>
           <description>The place for classical sheet music</description>
           <link>https://site.ihtfy.com/imslp/</link>
-          <pubDate>2022-01-31T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-30T00:00:00.000Z</pubDate>
           <category term="music" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/imslp/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/imslp/cover.jpg"/>
@@ -659,7 +659,7 @@
           <title>444</title>
           <description>4 for $4 from Wendy's</description>
           <link>https://site.ihtfy.com/444/</link>
-          <pubDate>2022-01-30T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-29T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/444/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/444/cover.jpg"/>
@@ -669,7 +669,7 @@
           <title>Logo</title>
           <description>Thinking of a new logo</description>
           <link>https://site.ihtfy.com/logo/</link>
-          <pubDate>2022-01-29T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-28T00:00:00.000Z</pubDate>
           <category term="design" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/logo/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/logo/cover.jpg"/>
@@ -679,7 +679,7 @@
           <title>Fractal</title>
           <description>Making a fractal viewer to arbitrary depth</description>
           <link>https://site.ihtfy.com/fractal/</link>
-          <pubDate>2022-01-28T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-27T00:00:00.000Z</pubDate>
           <category term="code" /><category term="math" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/fractal/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/fractal/cover.jpg"/>
@@ -689,7 +689,7 @@
           <title>Asphalt</title>
           <description>An iPad racing game</description>
           <link>https://site.ihtfy.com/asphalt/</link>
-          <pubDate>2022-01-27T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-26T00:00:00.000Z</pubDate>
           <category term="gaming" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/asphalt/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/asphalt/cover.jpg"/>
@@ -699,7 +699,7 @@
           <title>Dash Cam</title>
           <description>Installing a dash cam</description>
           <link>https://site.ihtfy.com/dash-cam/</link>
-          <pubDate>2022-01-26T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-25T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/dash-cam/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/dash-cam/cover.jpg"/>
@@ -709,7 +709,7 @@
           <title>Panorama Scroll</title>
           <description>A funny way to screenshot a page</description>
           <link>https://site.ihtfy.com/panorama-scroll/</link>
-          <pubDate>2022-01-25T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-24T00:00:00.000Z</pubDate>
           <category term="hack" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/panorama-scroll/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/panorama-scroll/cover.jpg"/>
@@ -719,7 +719,7 @@
           <title>Watching Videos</title>
           <description>Learning about SvelteKit</description>
           <link>https://site.ihtfy.com/watching-videos/</link>
-          <pubDate>2022-01-24T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-23T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/watching-videos/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/watching-videos/cover.jpg"/>
@@ -729,7 +729,7 @@
           <title>Headache</title>
           <description>Head hurts</description>
           <link>https://site.ihtfy.com/headache/</link>
-          <pubDate>2022-01-23T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-22T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/headache/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/headache/cover.jpg"/>
@@ -739,7 +739,7 @@
           <title>Oil Change</title>
           <description>My car hit 100000</description>
           <link>https://site.ihtfy.com/oil-change/</link>
-          <pubDate>2022-01-22T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-21T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/oil-change/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/oil-change/cover.jpg"/>
@@ -749,7 +749,7 @@
           <title>Sleep Schedule</title>
           <description>I stay up.</description>
           <link>https://site.ihtfy.com/sleep-schedule/</link>
-          <pubDate>2022-01-21T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-20T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/sleep-schedule/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/sleep-schedule/cover.jpg"/>
@@ -759,7 +759,7 @@
           <title>Blank</title>
           <description></description>
           <link>https://site.ihtfy.com/blank/</link>
-          <pubDate>2022-01-20T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-19T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/blank/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/blank/cover.jpg"/>
@@ -769,7 +769,7 @@
           <title>Milk Tea Doppelgangers</title>
           <description>Milktea is cereal milk.</description>
           <link>https://site.ihtfy.com/milk-tea-doppelgangers/</link>
-          <pubDate>2022-01-19T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-18T00:00:00.000Z</pubDate>
           <category term="food" /><category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/milk-tea-doppelgangers/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/milk-tea-doppelgangers/cover.jpg"/>
@@ -779,7 +779,7 @@
           <title>SvelteKit</title>
           <description>About to start the calendar maker</description>
           <link>https://site.ihtfy.com/sveltekit/</link>
-          <pubDate>2022-01-18T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-17T00:00:00.000Z</pubDate>
           <category term="code" /><category term="project" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/sveltekit/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/sveltekit/cover.jpg"/>
@@ -789,7 +789,7 @@
           <title>Lazy Sunday</title>
           <description>This is not a real post</description>
           <link>https://site.ihtfy.com/lazy-sunday/</link>
-          <pubDate>2022-01-17T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-16T00:00:00.000Z</pubDate>
           <category term="random" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/lazy-sunday/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/lazy-sunday/cover.jpg"/>
@@ -799,7 +799,7 @@
           <title>Chess Engine</title>
           <description>Making a chess engine</description>
           <link>https://site.ihtfy.com/chess-engine/</link>
-          <pubDate>2022-01-16T00:00:00.000Z</pubDate>
+          <pubDate>2022-01-15T00:00:00.000Z</pubDate>
           <category term="code" />
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/chess-engine/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/chess-engine/cover.jpg"/>
