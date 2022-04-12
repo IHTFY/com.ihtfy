@@ -1,7 +1,7 @@
 ---
 slug: thirty
 title: Thirty
-date: 2022-03-01
+date: 2022-02-28
 excerpt: What's a circadian rhythm?
 tags: [random]
 ---

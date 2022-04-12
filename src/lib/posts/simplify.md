@@ -1,7 +1,7 @@
 ---
 slug: simplify
 title: Simplify
-date: 2022-02-19
+date: 2022-02-18
 excerpt: Compressing my SVG logo
 tags: [design, code]
 ---

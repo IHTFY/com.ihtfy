@@ -1,7 +1,7 @@
 ---
 slug: cat
 title: Cat
-date: 2022-02-09
+date: 2022-02-08
 excerpt: A cat ate a birdie.
 tags: [random]
 ---

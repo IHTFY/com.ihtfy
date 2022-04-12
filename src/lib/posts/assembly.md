@@ -1,7 +1,7 @@
 ---
 slug: assembly
 title: Assembly
-date: 2022-03-28
+date: 2022-03-27
 excerpt: I like assembling furniture.
 tags: [random]
 ---
