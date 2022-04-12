@@ -58,8 +58,8 @@
 
 		#icon {
 			transition: all 0.2s ease-in-out;
-			fill: var(--text-light-color);
-			stroke: var(--text-light-color);
+			fill: var(--text-color);
+			stroke: var(--text-color);
 
 			path {
 				fill: none;
@@ -70,21 +70,19 @@
 		#name {
 			transition: all 0.2s ease-in-out;
 			fill: var(--text-color);
-			stroke: var(--text-color);
 
 			path {
 				fill: inherit;
-				stroke: inherit;
 			}
 		}
 
 		&:hover {
 			#icon {
-				stroke: var(--callout-info-accent-color);
+				stroke: var(--button-secondary-light-text-color);
 			}
 
 			#name {
-				fill: var(--callout-info-accent-color);
+				fill: var(--button-secondary-light-text-color);
 				stroke: none;
 			}
 		}
