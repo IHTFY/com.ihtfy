@@ -72,4 +72,4 @@ It turns out the missing nut didn't matter much either, because it was too tight
 
 It was also suggested to use Loctite on the main screw to avoid it from loosening over time. I didn't do this, since it might make it too hard to remove the assembly from the mount incase the car ever needs a tow. I just used the included baby Allen wrench and tightened it until I felt like the screw was close to stripping. It felt pretty secure when I wiggled the plate with my hand, but we'll see if it starts to sag.
 
-Also the cat from [the other day](https://site.ihtfy.comm/cat/) kept snuggling up to me while I was trying to install it.
+Also the cat from [the other day](/cat/) kept snuggling up to me while I was trying to install it.
