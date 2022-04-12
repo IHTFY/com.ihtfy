@@ -6,8 +6,6 @@ excerpt: How LZ string compression works
 tags: [code, tutorial]
 ---
 
-TODO Make these tables look nicer. `\src\lib\scss\base.scss`
-
 I was getting a warning on a coding project that each page was more than 1MB in size. The data is a list of coordinates, stored as a big string. I was able to reduce the size of the data to 20% the original size by rounding to whole numbers. Then I used [this LZ compression library](https://www.npmjs.com/package/lz-string) to reduce it to 5% the orignal size.
 
 LZ is a lossless compression algorithm, which means you get the exact original input when you decompress. It works by:
