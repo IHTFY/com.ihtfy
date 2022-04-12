@@ -6,6 +6,36 @@
     <description>I like to write code, do math, make music, and play with fire.</description>
     
         <item>
+          <title>SCSS</title>
+          <description>I've been changing the color palette for the new site.</description>
+          <link>https://site.ihtfy.com/scss/</link>
+          <pubDate>2022-04-05T00:00:00.000Z</pubDate>
+          <category term="website" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/scss/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/scss/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Manual</title>
+          <description>Still converting</description>
+          <link>https://site.ihtfy.com/manual/</link>
+          <pubDate>2022-04-04T00:00:00.000Z</pubDate>
+          <category term="website" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/manual/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/manual/cover.jpg"/>
+        </item>
+      
+        <item>
+          <title>Catchup</title>
+          <description>I was working on formatting all my posts again to work with the new site.</description>
+          <link>https://site.ihtfy.com/catchup/</link>
+          <pubDate>2022-04-03T00:00:00.000Z</pubDate>
+          <category term="website" />
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://site.ihtfy.com/images/posts/catchup/cover.jpg"/>
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="https://site.ihtfy.com/images/posts/catchup/cover.jpg"/>
+        </item>
+      
+        <item>
           <title>Habit</title>
           <description>Still working on the replacement website</description>
           <link>https://site.ihtfy.com/habit/</link>
