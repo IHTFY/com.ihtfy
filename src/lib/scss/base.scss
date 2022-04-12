@@ -72,7 +72,7 @@ h5 {
 	fill: var(--callout-info-accent-color);
 }
 ::selection {
-	background-color: rgba(var(--primary-color), 0.3);
+	background-color: var(--selection-color);
 	color: var(--text-color);
 	text-shadow: none;
 }

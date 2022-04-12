@@ -6,7 +6,7 @@ excerpt: Thoughts about Raven's Progressive Matrices
 tags: [math, code]
 ---
 
-There's a type of puzzle called a Raven's Matrix. It was developed as a type of IQ test, but I remember doing it in elementary school. There's a free IQ test from Mensa Norway you can try: https://test.mensa.no/
+There's a type of puzzle called a Raven's Matrix. It was developed as a type of IQ test, but I remember doing it in elementary school. There's a free IQ test from Mensa Norway you can try: [test.mensa.no](https://test.mensa.no)
 
 I thought it would be fun to make a web app that generates these matrices. There's a very basic version I found [here](https://www.caseyrule.com/projects/pattern-puzzle). Basically just a few shapes, different fill colors, and border styles, and sometimes a nested shape.
 
