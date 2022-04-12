@@ -1,7 +1,7 @@
 ---
 slug: regional
 title: Regional
-date: 2022-03-05
+date: 2022-03-04
 excerpt: Have you heard of cheese dip?
 tags: [food, random]
 ---

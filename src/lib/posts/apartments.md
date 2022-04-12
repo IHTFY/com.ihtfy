@@ -1,7 +1,7 @@
 ---
 slug: apartments
 title: Apartments
-date: 2022-03-04
+date: 2022-03-03
 excerpt: Almost moved into a bad neighborhood
 tags: [random]
 ---

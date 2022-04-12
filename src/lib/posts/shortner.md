@@ -1,7 +1,7 @@
 ---
 slug: shortner
 title: Shortner
-date: 2022-02-08
+date: 2022-02-07
 excerpt: How to get custom short URLs
 tags: [code, hack]
 ---

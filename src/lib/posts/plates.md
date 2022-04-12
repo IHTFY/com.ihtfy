@@ -1,7 +1,7 @@
 ---
 slug: plates
 title: Plates
-date: 2022-02-11
+date: 2022-02-10
 excerpt: Installing a tow hook mounted license plate
 tags: [project, review]
 ---

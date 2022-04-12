@@ -1,7 +1,7 @@
 ---
 slug: two-days
 title: Two Days
-date: 2022-03-09
+date: 2022-03-08
 excerpt: I started going to tue gym again.
 tags: [random]
 ---

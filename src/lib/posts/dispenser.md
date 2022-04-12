@@ -1,7 +1,7 @@
 ---
 slug: dispenser
 title: dispenser
-date: 2022-03-17
+date: 2022-03-16
 excerpt: A PEZ dispenser for pills.
 tags: [random]
 ---
