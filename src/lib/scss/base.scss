@@ -104,7 +104,40 @@ i {
 
 // #region Tables
 table {
-	border-radius: 10px;
-	background: var(--primary-light-color);
+	font-family: sans-serif;
+	margin: 25px 0;
+	overflow: hidden;
+
+	border-collapse: separate;
+	border: solid var(--primary-color) 3px;
+	border-radius: 1rem;
+	-moz-border-radius: 1rem;
+
+	thead tr {
+		background-color: var(--primary-lightest-color);
+		color: var(--text-color);
+		text-align: left;
+
+		th {
+			border-top: none;
+			background-color: var(--primary-light-color);
+		}
+	}
+
+	th,
+	td {
+		padding: 1rem;
+		border-left: solid var(--primary-color) 3px;
+		border-top: solid var(--primary-color) 3px;
+
+		&:first-child {
+			border-left: none;
+		}
+	}
+
+	tbody tr:nth-of-type(even) {
+		background-color: var(--primary-lightest-color);
+	}
 }
+
 // #endregion
