@@ -13,12 +13,12 @@
 				<Logo {animated} />
 			</a>
 			<div class="links">
-				<!-- <a href="/blog">Blog</a>
-				<a href="/resume">Resume</a> -->
+				<a href="/blog">Blog</a>
+				<a href="/resume">Resume</a>
 			</div>
 		</div>
 		<DarkSwitch />
-		<div class="right">
+		<div class="non-mobile">
 			<Socials />
 		</div>
 	</nav>
@@ -65,7 +65,7 @@
 			height: 44px;
 		}
 
-		.right {
+		.non-mobile {
 			@include for-phone-only {
 				display: none;
 			}

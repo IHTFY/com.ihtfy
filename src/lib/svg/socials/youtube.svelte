@@ -19,3 +19,9 @@
 		stroke-width="1.5"
 	/>
 </svg>
+
+<style>
+	svg {
+		filter: drop-shadow(5px 5px 2px rgba(0, 0, 0, 0.5));
+	}
+</style>

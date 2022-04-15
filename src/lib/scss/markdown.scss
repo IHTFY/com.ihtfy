@@ -1,10 +1,10 @@
 .markdown-layout {
-	background-color: var(--post-page-background-color);
+	background-color: var(--page-background-color);
 	header {
 		background: var(--footer-background);
 	}
 	footer {
-		--body-background-color: var(--post-page-background-color);
+		--body-background-color: var(--page-background-color);
 	}
 }
 
