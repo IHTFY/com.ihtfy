@@ -19,7 +19,7 @@
 			<BlogIcon />
 			Blog
 		</a>
-		<a id="experience-btn" href="#experience" class="button secondary-light">
+		<a id="experience-btn" href="#experience" class="button primary-light">
 			<ExperienceIcon />
 			Experience
 		</a>

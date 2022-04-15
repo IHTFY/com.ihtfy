@@ -34,8 +34,15 @@
 	--waves-color-start: rgba(var(--waves-color), 0.3);
 	--waves-color-end: rgba(var(--waves-color), 0.1);
 
-	--shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0);
-	--shadow-hover: 0px 0px 2px 2px var(--text-color);
+	--neumorphic-shading-concave: inset 6px 6px 6px rgba(0, 0, 0, 0.15),
+		inset -6px -6px 6px rgba(255, 255, 255, 0.15);
+	--neumorphic-shading-convex: inset -6px -6px 6px rgba(0, 0, 0, 0.15),
+		inset 6px 6px 6px rgba(255, 255, 255, 0.15);
+	--neumorphic-shadow: 6px 6px 6px rgba(0, 0, 0, 0.25), -6px -6px 6px rgba(255, 255, 255, 0.25);
+	--neumorphic-shadow-hover: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(255, 255, 255, 0);
+
+	--shadow: var(--neumorphic-shading-convex), var(--neumorphic-shadow);
+	--shadow-hover: var(--neumorphic-shading-concave), var(--neumorphic-shadow-hover);
 
 	--button-primary-background-color: var(--primary-color);
 	--button-primary-text-color: var(--primary-color-contrast);
@@ -51,8 +58,9 @@
 
 	--image-shadow: 8px 14px 38px rgba(39, 44, 49, 0.06), 1px 3px 8px rgba(39, 44, 49, 0.03);
 
-	--footer-background: linear-gradient(
-		60deg,
+	--angle: -60deg;
+	--gradient: linear-gradient(
+		var(--angle),
 		var(--waves-color-start) 0%,
 		var(--waves-color-end) 100%
 	);
@@ -102,7 +110,6 @@
 	--secondary-lightest-color: rgba(45, 47, 72, 1);
 	// #endregion
 
-	// --page-background-color: #1c1e26;
 	--page-background-color: rgba(3, 10, 35, 1);
 	--page-background-color-hsl-hue: 227;
 	--page-background-color-hsl-saturation: 84%;
@@ -128,6 +135,8 @@
 	--inline-code-background-color: rgba(93, 104, 104, 1);
 
 	--highlight-marker-url: #{"url('https://s2.svgbox.net/pen-brushes.svg?ic=brush-9&color=0D6970')"};
+
+	--angle: 130deg;
 
 	--callout-background-color: var(--page-background-color);
 	--callout-info-background-color: rgba(29, 56, 116, 1); //blue 900

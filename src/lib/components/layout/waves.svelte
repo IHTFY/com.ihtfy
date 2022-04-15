@@ -43,7 +43,7 @@
 <style lang="scss">
 	@import '../../scss/breakpoints.scss';
 	.waves-container {
-		background: linear-gradient(60deg, var(--waves-color-start) 0%, var(--waves-color-end) 100%);
+		background: var(--gradient);
 		position: absolute;
 		width: 100%;
 		height: min(65vh, 500px);
