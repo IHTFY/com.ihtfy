@@ -1,5 +1,4 @@
 <script>
-	// import Avatar from '$lib/svg/avatar.svelte';
 	import Avatar from '$lib/components/base/pfp.svelte';
 	import Blob1 from '$lib/svg/blobs/blob1.svelte';
 	import Blob2 from '$lib/svg/blobs/blob2.svelte';
@@ -9,7 +8,7 @@
 
 <section id="about">
 	<div class="info">
-		<h2>I've been posting something every day in 2022.</h2>
+		<h2>I've been posting a lot in 2022.</h2>
 		<p>
 			You can find most of my online stuff here. I go by <SparklingHighlight
 				>ihtfy</SparklingHighlight

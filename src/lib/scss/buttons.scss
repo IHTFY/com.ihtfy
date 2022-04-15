@@ -2,10 +2,10 @@
 	border-radius: 999px;
 	-webkit-appearance: none;
 	appearance: none;
-	border: solid 2px var(--shadow);
+	// border: solid 2px var(--shadow);
 	background: transparent;
 	font-weight: 600;
-	box-shadow: var(--shadow);
+	box-shadow: var(--neumorphic-shading-convex), var(--neumorphic-shadow);
 	cursor: pointer;
 	display: flex;
 	align-items: center;
@@ -16,9 +16,10 @@
 	width: 100%;
 
 	&:hover {
-		box-shadow: var(--shadow-hover);
+		box-shadow: var(--neumorphic-shading-concave), var(--neumorphic-shadow-hover);
+		transform: scale(0.99);
 		text-decoration: none;
-		filter: brightness(1.2);
+		filter: brightness(1.1);
 	}
 
 	&.primary {
