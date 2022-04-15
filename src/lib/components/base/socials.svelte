@@ -69,7 +69,7 @@
 		gap: 20px;
 
 		a {
-			width: 24px;
+			width: 32px;
 			color: var(--text-color);
 			fill: var(--text-color);
 

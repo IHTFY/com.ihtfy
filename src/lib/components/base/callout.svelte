@@ -43,7 +43,7 @@
 			top: 0;
 			left: 0;
 			transform: translate(calc(-50% - 1.5px), -50%);
-			background: var(--post-page-background-color);
+			background: var(--page-background-color);
 			padding: 8px;
 			border-radius: 50%;
 			fill: var(--accent-color);
