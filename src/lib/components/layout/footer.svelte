@@ -28,7 +28,7 @@
 	footer {
 		height: 340px;
 		width: 100%;
-		background: var(--footer-background);
+		background: var(--gradient);
 		display: grid;
 		grid-template-rows: 120px 1fr;
 

@@ -19,7 +19,7 @@ I made this in March of 2014. I was playing around with pygame and was learning 
 I created a JavaScript version that uses HTML5 canvas, and the '2' bug is fixed. It prompts you to enter a width and height of the image (defaults to 300x300), and then prompts for download.
 </Callout>
 
-![](/optimized-images/posts/prime/primes.png)
+![720](/optimized-images/posts/prime/primes.png)
 
 ### New JS Version
 

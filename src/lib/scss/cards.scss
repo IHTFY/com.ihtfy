@@ -1,6 +1,6 @@
 .card {
 	background: var(--primary-light-color);
-	box-shadow: var(--shadow);
+	box-shadow: var(--neumorphic-shading-concave), var(--neumorphic-shadow);
 	color: var(--text-color);
 	border-radius: 10px;
 	transition: all 0.5s ease;
@@ -14,8 +14,8 @@
 
 	&:hover {
 		text-decoration: none;
-		box-shadow: var(--shadow-hover);
-		transform: scale(1.01);
+		box-shadow: var(--neumorphic-shading-concave), var(--neumorphic-shadow-hover);
+		transform: scale(0.99);
 		transition-duration: 0.1s;
 
 		&.clickable {
