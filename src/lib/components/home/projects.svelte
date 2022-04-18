@@ -468,7 +468,6 @@
 					<div slot="footer">
 						<div class="tags">
 							<Tag>Web Game</Tag>
-							<Tag color="secondary">D3</Tag>
 							<Tag color="secondary">chess.js</Tag>
 							<Tag color="secondary">Webpack</Tag>
 						</div>
