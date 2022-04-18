@@ -19,10 +19,10 @@
 			<BlogIcon />
 			Blog
 		</a>
-		<a id="experience-btn" href="#experience" class="button primary-light">
+		<!-- <a id="experience-btn" href="#experience" class="button primary-light">
 			<ExperienceIcon />
 			Experience
-		</a>
+		</a> -->
 	</div>
 </section>
 
