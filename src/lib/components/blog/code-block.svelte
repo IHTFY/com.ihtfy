@@ -23,7 +23,7 @@
 		font-size: 1rem;
 		line-height: 1.33em;
 		border-radius: 8px;
-		box-shadow: var(--shadow);
+		box-shadow: var(--neumorphic-shading-concave), var(--neumorphic-shadow);
 
 		padding: 30px 15px;
 		margin: 30px 0;
@@ -45,27 +45,28 @@
 			}
 		}
 
+		.filename {
+			background: inherit;
+			border-radius: 8px;
+			margin-bottom: -2px;
+			padding: 5px 10px;
+			position: absolute;
+			left: 0px;
+			top: -16px;
+			z-index: 1;
+			box-shadow: var(--neumorphic-shading-convex), var(--neumorphic-shadow);
+		}
+
 		.lang {
 			position: absolute;
 			right: 0;
-			top: -15px;
+			top: -16px;
 			background: inherit;
 			border-radius: 8px;
 			padding: 5px 10px;
 			z-index: 2;
 			font-size: 0.85em;
-		}
-
-		.filename {
-			background: inherit;
-			border-top-left-radius: 8px;
-			border-top-right-radius: 8px;
-			margin-bottom: -2px;
-			padding: 5px 10px;
-			position: absolute;
-			left: 0px;
-			top: -15px;
-			z-index: 1;
+			box-shadow: var(--neumorphic-shading-convex), var(--neumorphic-shadow);
 		}
 	}
 </style>
