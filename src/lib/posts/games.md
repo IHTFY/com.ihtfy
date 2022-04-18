@@ -16,7 +16,7 @@ I've made a few web games in recently. I'll try to keep this page updated as I m
 
 <Image
   path="posts/{slug}"
-  filename="emipre"
+  filename="empire"
   figcaption="Empire Lobby"
   alt="Empire Lobby"
 />
