@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-21f8841f.js",
+    "file": "start-62ad02f6.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js"
+      "_vendor-787b9ffb.js"
     ],
     "dynamicImports": [
       "src/routes/__layout.svelte",
@@ -17,86 +17,83 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-57f34dae.js",
+    "file": "pages/__layout.svelte-d75e2385.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_theme-c4973066.js"
+      "_vendor-787b9ffb.js",
+      "_meta-40b0440a.js",
+      "_theme-c77d7a74.js"
     ],
     "css": [
       "assets/app-79905423.css"
     ]
   },
   "src/routes/__error.svelte": {
-    "file": "pages/__error.svelte-c88ed958.js",
+    "file": "pages/__error.svelte-d945058d.js",
     "src": "src/routes/__error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js"
+      "_vendor-787b9ffb.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-8a365ac4.js",
+    "file": "pages/index.svelte-e4437dc5.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_image-0cce5af4.js",
-      "_blog-post-card-6fef264c.js",
-      "_3-2-1-grid-e81c2559.js",
-      "_footer-93ad4353.js",
-      "_waves-layout-9d163cdc.js",
-      "_theme-c4973066.js"
+      "_vendor-787b9ffb.js",
+      "_image-16129649.js",
+      "_footer-dd3fb2b0.js",
+      "_waves-layout-a330a6fb.js",
+      "_meta-40b0440a.js",
+      "_theme-c77d7a74.js"
     ],
     "css": [
       "assets/pages/index.svelte-28413dc0.css"
     ]
   },
   "src/routes/resume.svelte": {
-    "file": "pages/resume.svelte-8c754205.js",
+    "file": "pages/resume.svelte-92566b45.js",
     "src": "src/routes/resume.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_waves-layout-9d163cdc.js",
-      "_theme-c4973066.js",
-      "_footer-93ad4353.js"
+      "_vendor-787b9ffb.js",
+      "_meta-40b0440a.js"
     ],
     "css": [
-      "assets/pages/resume.svelte-8fa92391.css"
+      "assets/pages/resume.svelte-51d887da.css"
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-19cb65bd.js",
+    "file": "pages/blog/index.svelte-aff6748d.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_3-2-1-grid-e81c2559.js",
-      "_blog-post-card-6fef264c.js",
-      "_waves-layout-9d163cdc.js",
-      "_theme-c4973066.js",
-      "_image-0cce5af4.js",
-      "_footer-93ad4353.js"
+      "_vendor-787b9ffb.js",
+      "_waves-layout-a330a6fb.js",
+      "_footer-dd3fb2b0.js",
+      "_meta-40b0440a.js",
+      "_image-16129649.js",
+      "_theme-c77d7a74.js"
     ]
   },
   "src/routes/[slug]/__layout.reset.svelte": {
-    "file": "pages/_slug_/__layout.reset.svelte-d98db3bc.js",
+    "file": "pages/_slug_/__layout.reset.svelte-11afc20b.js",
     "src": "src/routes/[slug]/__layout.reset.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_footer-93ad4353.js",
-      "_image-0cce5af4.js",
-      "_blog-post-card-6fef264c.js",
-      "_theme-c4973066.js"
+      "_vendor-787b9ffb.js",
+      "_footer-dd3fb2b0.js",
+      "_image-16129649.js",
+      "_meta-40b0440a.js",
+      "_theme-c77d7a74.js"
     ],
     "css": [
       "assets/pages/_slug_/__layout.reset.svelte-0c3340a3.css",
@@ -104,70 +101,55 @@
     ]
   },
   "src/routes/[slug]/index.svelte": {
-    "file": "pages/_slug_/index.svelte-fa6cbc4c.js",
+    "file": "pages/_slug_/index.svelte-44de93c6.js",
     "src": "src/routes/[slug]/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_image-0cce5af4.js"
+      "_vendor-787b9ffb.js",
+      "_image-16129649.js"
     ],
     "css": [
       "assets/pages/_slug_/index.svelte-76c4fcf0.css"
     ]
   },
-  "_vendor-69ff4e77.js": {
-    "file": "chunks/vendor-69ff4e77.js"
+  "_vendor-787b9ffb.js": {
+    "file": "chunks/vendor-787b9ffb.js"
   },
-  "_theme-c4973066.js": {
-    "file": "chunks/theme-c4973066.js",
+  "_meta-40b0440a.js": {
+    "file": "chunks/meta-40b0440a.js"
+  },
+  "_theme-c77d7a74.js": {
+    "file": "chunks/theme-c77d7a74.js",
     "imports": [
-      "_vendor-69ff4e77.js"
+      "_vendor-787b9ffb.js"
     ]
   },
-  "_blog-post-card-6fef264c.js": {
-    "file": "chunks/blog-post-card-6fef264c.js",
+  "_footer-dd3fb2b0.js": {
+    "file": "chunks/footer-dd3fb2b0.js",
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_image-0cce5af4.js"
+      "_vendor-787b9ffb.js",
+      "_image-16129649.js",
+      "_theme-c77d7a74.js"
     ],
     "css": [
-      "assets/blog-post-card-8c902075.css"
+      "assets/footer-db5e74dc.css"
     ]
   },
-  "_waves-layout-9d163cdc.js": {
-    "file": "chunks/waves-layout-9d163cdc.js",
+  "_waves-layout-a330a6fb.js": {
+    "file": "chunks/waves-layout-a330a6fb.js",
     "imports": [
-      "_vendor-69ff4e77.js",
-      "_footer-93ad4353.js"
+      "_vendor-787b9ffb.js",
+      "_footer-dd3fb2b0.js"
     ],
     "css": [
-      "assets/waves-layout-ba7fa52e.css"
+      "assets/waves-layout-9d32594e.css"
     ]
   },
-  "_3-2-1-grid-e81c2559.js": {
-    "file": "chunks/3-2-1-grid-e81c2559.js",
+  "_image-16129649.js": {
+    "file": "chunks/image-16129649.js",
     "imports": [
-      "_vendor-69ff4e77.js"
-    ],
-    "css": [
-      "assets/3-2-1-grid-afcd9288.css"
-    ]
-  },
-  "_footer-93ad4353.js": {
-    "file": "chunks/footer-93ad4353.js",
-    "imports": [
-      "_vendor-69ff4e77.js",
-      "_theme-c4973066.js"
-    ],
-    "css": [
-      "assets/footer-a9748434.css"
-    ]
-  },
-  "_image-0cce5af4.js": {
-    "file": "chunks/image-0cce5af4.js",
-    "imports": [
-      "_vendor-69ff4e77.js"
+      "_vendor-787b9ffb.js"
     ],
     "css": [
       "assets/image-afd2d821.css"
