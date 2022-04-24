@@ -36,6 +36,6 @@ There is an option to manually edit the data points. It uses JSON format, so be 
 
 ## Edit the Data
 
-![](https://github.com/IHTFY/workout/blob/main/gifs/edit.gif?raw=true)
+![edit data](https://github.com/IHTFY/workout/blob/main/gifs/edit.gif?raw=true)
 
 [Try it out](https://workout.ihtfy.com/), or see the [source code](https://github.com/IHTFY/workout)
