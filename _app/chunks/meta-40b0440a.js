@@ -1,1 +1,0 @@
-const s="https://site.ihtfy.com",e=["Frankie Mercado","IHopeThisFindsYou","IHTFY","software","code","coding","math"],t="I like to write code, do math, make music, and play with fire.",i="IHTFY",o=`${s}/images/site-preview.png`;export{t as d,o as i,e as k,s,i as t};
