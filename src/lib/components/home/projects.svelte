@@ -615,7 +615,7 @@
 
 								<a
 									class="text-secondary"
-									href="https://site.ihtfy.com"
+									href="https://ihtfy.com"
 									target="_blank"
 									rel="noopener"
 									title="Open site"
