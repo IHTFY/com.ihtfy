@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-b166a874.js",
+    "file": "start-204dba73.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -40,15 +40,15 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-a79122a9.js",
+    "file": "pages/index.svelte-97558c80.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-787b9ffb.js",
       "_image-16129649.js",
-      "_footer-dd3fb2b0.js",
-      "_waves-layout-a330a6fb.js",
+      "_footer-36a83377.js",
+      "_waves-layout-21b3feee.js",
       "_meta-5217abc3.js",
       "_theme-c77d7a74.js"
     ],
@@ -70,27 +70,27 @@
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-a75c98c4.js",
+    "file": "pages/blog/index.svelte-42a58bda.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-787b9ffb.js",
-      "_waves-layout-a330a6fb.js",
-      "_footer-dd3fb2b0.js",
+      "_waves-layout-21b3feee.js",
+      "_footer-36a83377.js",
       "_meta-5217abc3.js",
       "_image-16129649.js",
       "_theme-c77d7a74.js"
     ]
   },
   "src/routes/[slug]/__layout.reset.svelte": {
-    "file": "pages/_slug_/__layout.reset.svelte-3b876779.js",
+    "file": "pages/_slug_/__layout.reset.svelte-496c49f7.js",
     "src": "src/routes/[slug]/__layout.reset.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_vendor-787b9ffb.js",
-      "_footer-dd3fb2b0.js",
+      "_footer-36a83377.js",
       "_image-16129649.js",
       "_meta-5217abc3.js",
       "_theme-c77d7a74.js"
@@ -125,8 +125,8 @@
       "_vendor-787b9ffb.js"
     ]
   },
-  "_footer-dd3fb2b0.js": {
-    "file": "chunks/footer-dd3fb2b0.js",
+  "_footer-36a83377.js": {
+    "file": "chunks/footer-36a83377.js",
     "imports": [
       "_vendor-787b9ffb.js",
       "_image-16129649.js",
@@ -136,11 +136,11 @@
       "assets/footer-db5e74dc.css"
     ]
   },
-  "_waves-layout-a330a6fb.js": {
-    "file": "chunks/waves-layout-a330a6fb.js",
+  "_waves-layout-21b3feee.js": {
+    "file": "chunks/waves-layout-21b3feee.js",
     "imports": [
       "_vendor-787b9ffb.js",
-      "_footer-dd3fb2b0.js"
+      "_footer-36a83377.js"
     ],
     "css": [
       "assets/waves-layout-9d32594e.css"
