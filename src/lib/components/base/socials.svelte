@@ -6,7 +6,7 @@
 	import PatreonIcon from '$lib/svg/socials/patreon.svelte';
 	import TikTokIcon from '$lib/svg/socials/tiktok.svelte';
 	import EmailIcon from '$lib/svg/socials/email.svelte';
-	import RSSIcon from '$lib/svg/rss.svelte';
+	// import RSSIcon from '$lib/svg/rss.svelte';
 </script>
 
 <div class="socials">
@@ -56,9 +56,9 @@
 	<a href="mailto:site@FrankieMercado.com" target="_blank" rel="noopener" title="Send an email">
 		<EmailIcon />
 	</a>
-	<a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
+	<!-- <a href="/rss.xml" target="_blank" rel="noopener" title="Subscribe to my RSS Feed">
 		<RSSIcon />
-	</a>
+	</a> -->
 </div>
 
 <style lang="scss">
