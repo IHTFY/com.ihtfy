@@ -4,11 +4,16 @@ import posts from '$lib/posts';
 function escapeXml(unsafe) {
 	return unsafe.replace(/[<>&'"]/g, function (c) {
 		switch (c) {
-			case '<': return '&lt;';
-			case '>': return '&gt;';
-			case '&': return '&amp;';
-			case '\'': return '&apos;';
-			case '"': return '&quot;';
+			case '<':
+				return '&lt;';
+			case '>':
+				return '&gt;';
+			case '&':
+				return '&amp;';
+			case "'":
+				return '&apos;';
+			case '"':
+				return '&quot;';
 		}
 	});
 }
@@ -32,21 +37,23 @@ const xml = (posts) => `
     <link>${siteBaseUrl}</link>
     <description>${description}</description>
     ${posts
-		.map(
-			(post) => `
+			.map(
+				(post) => `
         <item>
           <title>${escapeXml(post.title)}</title>
           <description>${escapeXml(post.excerpt)}</description>
           <link>${siteBaseUrl}/${post.slug}/</link>
           <pubDate>${new Date(post.date).toISOString()}</pubDate>
           ${post.tags ? post.tags.map((tag) => `<category term="${tag}" />`).join('') : ''}
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="${siteBaseUrl}/images/posts/${post.slug
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="${siteBaseUrl}/images/posts/${
+					post.slug
 				}/cover.jpg"/>
-          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="${siteBaseUrl}/images/posts/${post.slug
+          <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="${siteBaseUrl}/images/posts/${
+					post.slug
 				}/cover.jpg"/>
         </item>
       `
-		)
-		.join('')}
+			)
+			.join('')}
   </channel>
 </rss>`;
