@@ -30,7 +30,7 @@ I didn't post any public videos. I did post [an unlisted video](https://www.yout
 
 <Callout type="success">Succeeded</Callout>
 
-Most days, I would think of an idea long before 10pm. I also started working ahead which gave me time to delve into longer posts, like [Compression](https://frankiemercado.com/2022/02/12/compression/) and [Pseudorandom](https://frankiemercado.com/2022/02/13/pseudorandom/).
+Most days, I would think of an idea long before 10pm. I also started working ahead which gave me time to delve into longer posts, like [Compression](/compression) and [Pseudorandom](/pseudorandom).
 
 > I’d like to bring one of my long-term projects to completion and post about the steps I’m taking to finish it.
 
@@ -42,7 +42,7 @@ I have spent a lot of time working on rebuilding my website, which is kind of fi
 
 <Callout type="success">Succeeded</Callout>
 
-A few posts were showcasing code I had written a long time ago: [SoundCloud Likes](https://frankiemercado.com/2022/02/02/soundcloud-likes/), [Livestreams](https://frankiemercado.com/2022/02/03/livestreams/), [Shortner](https://frankiemercado.com/2022/02/07/shortner/).
+A few posts were showcasing code I had written a long time ago: [SoundCloud Likes](/soundcloud-likes), [Livestreams](/livestreams), [Shortner](/shortner).
 
 > I'll make some categories on [Patreon](https://www.patreon.com/IHTFY).
 
