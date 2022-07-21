@@ -191,9 +191,7 @@
 						</div>
 					</div>
 				</Card>
-			</ProjectsGrid>
 
-			<ThreeTwoOneGrid>
 				<Card>
 					<div slot="image">
 						<Image path="projects" filename="svg-scale" alt="SVG Scale" />
@@ -425,9 +423,7 @@
 						</div>
 					</div>
 				</Card>
-			</ThreeTwoOneGrid>
 
-			<ProjectsGrid>
 				<Card>
 					<div slot="image">
 						<Image path="projects" filename="js-bookmarklets" alt="JS Bookmarklets" />
@@ -553,9 +549,7 @@
 						</div>
 					</div>
 				</Card>
-			</ProjectsGrid>
 
-			<ThreeTwoOneGrid>
 				<Card>
 					<div slot="image">
 						<Image path="projects" filename="telewave" alt="Telewave" />
@@ -793,7 +787,7 @@
 						</div>
 					</div>
 				</Card>
-			</ThreeTwoOneGrid>
+			</ProjectsGrid>
 		</OneByOneGrid>
 	</Section>
 	<Blobs maxTop={5} minLeft={50} />
