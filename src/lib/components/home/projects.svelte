@@ -21,6 +21,46 @@
 			<ProjectsGrid>
 				<Card>
 					<div slot="image">
+						<Image path="projects" filename="domination" alt="Domination" />
+					</div>
+					<div slot="content">
+						<div class="title">
+							Domination
+							<div class="links">
+								<a
+									class="text-secondary"
+									href="https://github.com/IHTFY/chess-domination"
+									target="_blank"
+									rel="noopener"
+									title="Open project on GitHub"
+								>
+									<Github />
+								</a>
+								<a
+									class="text-secondary"
+									href="https://domination.ihtfy.com"
+									target="_blank"
+									rel="noopener"
+									title="Open site"
+								>
+									<ExternalLinkIcon />
+								</a>
+							</div>
+						</div>
+						<div class="text">A place to play around with some chess puzzles.</div>
+					</div>
+					<div slot="footer">
+						<div class="tags">
+							<Tag>Web Game</Tag>
+							<Tag>PWA</Tag>
+							<Tag color="secondary">Vanilla JS</Tag>
+							<Tag color="secondary">MaterializeCSS</Tag>
+						</div>
+					</div>
+				</Card>
+
+				<Card>
+					<div slot="image">
 						<Image path="projects" filename="empire" alt="Empire" />
 					</div>
 					<div slot="content">
