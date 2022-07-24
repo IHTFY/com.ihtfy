@@ -6,6 +6,10 @@ excerpt: I updated my drone batteries.
 tags: [photography, random]
 ---
 
+<script>
+  import Callout from "$lib/components/base/callout.svelte";
+</script>
+
 # Drone Update
 
 In my [Winter Drone](/winter-drone) post from the beginning of the year, I mentioned that I was having trouble updating my drone batteries' firmware. I booted up the drone today, and was able to update the app and firmware straightforwardly. Another problem that solved itself through procrastination.
@@ -28,6 +32,19 @@ There are still some features I could implement:
 - Generate all possible solutions (I've done this for some but not all)
 
 I'd like to prioritize making the video, though.
+
+<Callout type="info" date="2022-07-23">
+2022-07-23
+
+I added:
+
+- sound effects
+- highlighting attacking pieces and uncovered squares
+- saving scores and settings in localstorage
+- score differential between personal best and best possible
+
+So the only thing I'm missing is generating all possible solutions... and the video.
+</Callout>
 
 # Ads
 
