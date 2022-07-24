@@ -42,6 +42,7 @@ I added:
 - highlighting attacking pieces and uncovered squares
 - saving scores and settings in localstorage
 - score differential between personal best and best possible
+- installable PWA with offline ability
 
 So the only thing I'm missing is generating all possible solutions... and the video.
 </Callout>
