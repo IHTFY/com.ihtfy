@@ -47,7 +47,12 @@
 								</a>
 							</div>
 						</div>
-						<div class="text">A place to play around with some chess puzzles.</div>
+						<div class="text">
+							A place to play around with some chess puzzles.
+							<a class="project-post-button button secondary-light transparent" href="/domination">
+								Read blog post
+							</a>
+						</div>
 					</div>
 					<div slot="footer">
 						<div class="tags">
