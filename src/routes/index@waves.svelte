@@ -19,12 +19,11 @@
 </script>
 
 <script>
-	import Hero from '$lib/components/home/hero.svelte';
 	import About from '$lib/components/home/about.svelte';
-	import RecentPosts from '$lib/components/home/recent-posts.svelte';
-	import Experience from '$lib/components/home/experience.svelte';
+	// import Experience from '$lib/components/home/experience.svelte';
+	import Hero from '$lib/components/home/hero.svelte';
 	import Projects from '$lib/components/home/projects.svelte';
-	import WavesLayout from '$lib/layouts/waves-layout.svelte';
+	import RecentPosts from '$lib/components/home/recent-posts.svelte';
 	import { title } from '$lib/meta';
 
 	export let posts;
@@ -36,12 +35,10 @@
 	<meta name="twitter:title" content={title} />
 </svelte:head>
 
-<WavesLayout>
-	<div class="container">
-		<Hero />
-		<About />
-		<RecentPosts {posts} />
-		<Projects />
-		<!-- <Experience /> -->
-	</div>
-</WavesLayout>
+<div class="container">
+	<Hero />
+	<About />
+	<RecentPosts {posts} />
+	<Projects />
+	<!-- <Experience /> -->
+</div>

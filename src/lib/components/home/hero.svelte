@@ -1,7 +1,7 @@
 <script>
-	import ProjectsIcon from '$lib/svg/projects.svelte';
 	import BlogIcon from '$lib/svg/blog.svelte';
-	import ExperienceIcon from '$lib/svg/experience.svelte';
+	import ProjectsIcon from '$lib/svg/projects.svelte';
+	// import ExperienceIcon from '$lib/svg/experience.svelte';
 </script>
 
 <section id="hero">
