@@ -3,7 +3,7 @@ slug: domination
 title: Domination
 date: 2022-07-23
 excerpt: I made another chess puzzle game thing.
-tags: [coding, gaming]
+tags: [code, gaming]
 ---
 
 ## [Play It!](https://domination.ihtfy.com/)

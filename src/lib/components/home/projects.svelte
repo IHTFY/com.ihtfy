@@ -1,14 +1,14 @@
 <script>
+	import ProjectsGrid from '$lib/components/layout/projects-grid.svelte';
 	import Card from '../base/card.svelte';
 	import Section from '../layout/section.svelte';
-	import ProjectsGrid from '$lib/components/layout/projects-grid.svelte';
-	import ThreeTwoOneGrid from '$lib/components/layout/3-2-1-grid.svelte';
+	// import ThreeTwoOneGrid from '$lib/components/layout/3-2-1-grid.svelte';
 	import OneByOneGrid from '$lib/components/layout/1x1-grid.svelte';
 	import ExternalLinkIcon from '$lib/svg/external-link.svelte';
 	import Github from '$lib/svg/socials/github.svelte';
-	import Blobs from '../layout/blobs.svelte';
 	import Image from '../base/image.svelte';
 	import Tag from '../base/tag.svelte';
+	import Blobs from '../layout/blobs.svelte';
 </script>
 
 <section id="projects">

@@ -1,9 +1,9 @@
-import preprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-static';
 import { mdsvex } from 'mdsvex';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeExternalLinks from 'rehype-external-links';
 import rehypeSlug from 'rehype-slug';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import preprocess from 'svelte-preprocess';
 
 const extensions = ['.svelte', '.md'];
 
@@ -17,7 +17,7 @@ const config = {
 		}),
 		mdsvex({
 			layout: {
-				article: './src/lib/layouts/article-layout.svelte'
+				article: './src/routes/__layout-article@default.svelte'
 			},
 			extensions: extensions,
 			rehypePlugins: [

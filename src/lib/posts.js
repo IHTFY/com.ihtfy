@@ -1,14 +1,19 @@
+// NOTE must import Prism from 'prismjs' before importing prism-svelte!!!
+import Prism from 'prismjs'; // eslint-disable-line no-unused-vars
+// organize-imports-disable-next-line
 import 'prism-svelte';
 import readingTime from 'reading-time';
 
-const imports = import.meta.globEager('./posts/*.md');
+const imports = import.meta.glob('./posts/*.md', { eager: true });
 
 const posts = [];
 for (const path in imports) {
 	const post = imports[path];
 	if (post) {
 		posts.push({
+			// @ts-ignore
 			...post.metadata,
+			// @ts-ignore
 			...post.default.render()
 		});
 	}
