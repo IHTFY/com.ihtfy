@@ -1,3 +1,3 @@
-# Soon to be ihtfy.com
+# [ihtfy.com](https://ihtfy.com)
 
 Based on fantinel.dev
