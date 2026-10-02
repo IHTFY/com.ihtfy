@@ -4,7 +4,7 @@
 	"scripts": {
 		"dev": "vite dev --host",
 		"build": "vite build",
-		"ghdeploy": "npx gh-pages -d build -t true",
+		"ghdeploy": "pnpm run build && gh-pages -d build --dotfiles --branch gh-pages",
 		"preview": "vite preview --host",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write .",

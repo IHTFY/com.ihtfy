@@ -27,8 +27,14 @@ publishing. Keep existing post slugs and asset paths so bookmarked links work.
 
 ## Publishing
 
+`pnpm build` also prerenders `rss.xml` and `sitemap.xml`. CI runs the frozen
+install, lint, and production build without deploying. Archive Markdown retains
+its existing formatting; generated files and static assets are excluded from
+Prettier.
+
 GitHub Pages publishes the `gh-pages` branch at `/` with the custom domain
-`ihtfy.com`. Build and inspect the output before running `pnpm ghdeploy`.
+`ihtfy.com`. Inspect the production preview before running `pnpm ghdeploy`, which builds fresh
+output and publishes it using the installed deployment tool.
 Preserve `static/CNAME` and `static/.nojekyll`. Other subdomains are served by
 separate repositories; this site's deployment does not require DNS changes.
 
