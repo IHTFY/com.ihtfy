@@ -7,7 +7,7 @@ tags: [random]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 The random buzzing phantom notifications are back. Nothing in notification history, and I haven't changed anything.

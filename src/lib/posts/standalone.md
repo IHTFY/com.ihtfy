@@ -7,7 +7,7 @@ tags: [code, gaming]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 Today I made [Empire](https://empire.ihtfy.com/) a PWA, which means you can install it on your phone or computer as an app. I've made a PWA before, [Optics](https://optics.ihtfy.com/), but it was harder to get it to work this time around. Some of the difficulty came from forgetting to either clear the browser cache or restart the dev server. But in the end I got it working.

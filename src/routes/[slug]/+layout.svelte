@@ -1,37 +1,18 @@
-<script context="module">
-	export async function load({ fetch, url }) {
-		const jsonUrl = url.pathname.replace(/\/\s*$/, '') + '.json';
-		const res = await fetch(jsonUrl);
-
-		if (res.ok) {
-			return {
-				props: {
-					post: await res.json()
-				}
-			};
-		}
-
-		return {
-			status: res.status,
-			error: new Error(`Could not load ${jsonUrl}`)
-		};
-	}
-</script>
-
 <script>
 	import '../../app.scss';
-	import Header from '$lib/components/layout/header.svelte';
-	import Footer from '$lib/components/layout/footer.svelte';
+	import Header from '#lib/components/layout/header.svelte';
+	import Footer from '#lib/components/layout/footer.svelte';
 
-	import Image from '$lib/components/base/image.svelte';
-	import Tag from '$lib/components/base/tag.svelte';
+	import Image from '#lib/components/base/image.svelte';
+	import Tag from '#lib/components/base/tag.svelte';
 	import dateformat from 'dateformat';
-	import BlogPostCard from '$lib/components/base/blog-post-card.svelte';
-	import ThreeByThreeGrid from '$lib/components/layout/3x3-grid.svelte';
-	import Section from '$lib/components/layout/section.svelte';
-	import { keywords, siteBaseUrl, title } from '$lib/meta';
+	import BlogPostCard from '#lib/components/base/blog-post-card.svelte';
+	import ThreeByThreeGrid from '#lib/components/layout/3x3-grid.svelte';
+	import Section from '#lib/components/layout/section.svelte';
+	import { keywords, siteBaseUrl, title } from '#lib/meta.js';
 
-	export let post;
+	export let data;
+	$: post = data.post;
 </script>
 
 <svelte:head>
@@ -58,7 +39,7 @@
 				<h1>{post.title}</h1>
 				<div class="note">{dateformat(post.date, 'UTC:mmmm dS, yyyy')} — {post.readingTime}</div>
 				<div class="tags">
-					{#each post.tags as tag}
+					{#each post.tags as tag (tag)}
 						<Tag>{tag}</Tag>
 					{/each}
 				</div>
@@ -79,7 +60,7 @@
 					align="top"
 				>
 					<ThreeByThreeGrid>
-						{#each post.relatedPosts as rel}
+						{#each post.relatedPosts as rel (rel.slug)}
 							<BlogPostCard post={rel} />
 						{/each}
 					</ThreeByThreeGrid>

@@ -7,7 +7,7 @@ tags: [photography]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 This is just a giant albino alligator at the California Academy of Sciences in San Francisco. This is actually a panorama, too. The full size is 7876x5547.

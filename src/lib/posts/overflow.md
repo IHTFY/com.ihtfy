@@ -7,7 +7,7 @@ tags: [code, math]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 My sleep schedule is basically inverted again. I'm going to try to stay up until tomorrow night.

@@ -1,6 +1,6 @@
 <script>
-	import FooterWave from '$lib/svg/footer-wave.svelte';
-	import Socials from '$lib/components/base/socials.svelte';
+	import FooterWave from '#lib/svg/footer-wave.svelte';
+	import Socials from '#lib/components/base/socials.svelte';
 
 	let currentYear = new Date().getFullYear();
 </script>

@@ -16,6 +16,7 @@
 
 	{#if figcaption}
 		<!-- svelte-ignore a11y-structure -->
+		<!-- eslint-disable-next-line svelte/no-at-html-tags -- Captions are authored in repository content. -->
 		<figcaption>{@html figcaption}</figcaption>
 	{/if}
 </picture>

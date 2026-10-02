@@ -1,5 +1,5 @@
 <script>
-	import { title } from '$lib/meta';
+	import { title } from '#lib/meta.js';
 </script>
 
 <svelte:head>

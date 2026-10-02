@@ -7,7 +7,7 @@ tags: [code, design, website]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 I'm going to try migrating this site from WordPress to a SvelteKit site hosted on GitHub. I'm paying $99 per year to host on wordpress.com; there's a cheaper plan now, but I don't see any way to downgrade - only upgrade. It's also very limiting: I can't add an SVG image, custom JS (expected), but even the additional CSS rules are very limited because the theme overrides them.

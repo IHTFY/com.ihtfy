@@ -1,8 +1,8 @@
 <script>
-	import Avatar from '$lib/components/base/pfp.svelte';
-	import Blob1 from '$lib/svg/blobs/blob1.svelte';
-	import Blob2 from '$lib/svg/blobs/blob2.svelte';
-	import Blob3 from '$lib/svg/blobs/blob3.svelte';
+	import Avatar from '#lib/components/base/pfp.svelte';
+	import Blob1 from '#lib/svg/blobs/blob1.svelte';
+	import Blob2 from '#lib/svg/blobs/blob2.svelte';
+	import Blob3 from '#lib/svg/blobs/blob3.svelte';
 	import SparklingHighlight from '../style/sparkling-highlight.svelte';
 </script>
 
@@ -26,7 +26,7 @@
 </section>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 
 	#about {
 		position: relative;

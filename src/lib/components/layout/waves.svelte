@@ -41,7 +41,7 @@
 </div>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 	.waves-container {
 		background: var(--gradient);
 		position: absolute;
