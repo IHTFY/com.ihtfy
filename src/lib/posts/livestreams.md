@@ -11,7 +11,7 @@ tags: [code, tutorial]
   import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
-This is somewhat related to my [previous post](https://blog.ihtfy.com/post/soundcloud-likes/) about downloading all of my SoundCloud liked songs. I have another batch file that I use to save livestreams. It doesn't work for YouTube livestreams and probably not Twitch either. Often news sites or other random sites will work.
+This is somewhat related to my [previous post](/soundcloud-likes/) about downloading all of my SoundCloud liked songs. I have another batch file that I use to save livestreams. It doesn't work for YouTube livestreams and probably not Twitch either. Often news sites or other random sites will work.
 
 Go to the stream and open your internet browser's developer tools - in Chrome, `ctrl` + `shift` + `j`. Click the "Network" tab. You can optionally filter to the "Fetch/XHR" traffic as well. Now, refresh the page and click play on the video if necessary. You will hopefully find a file that ends in .m3u8. Common filenames are `index.m3u8`, `playlist.m3u8`, or `manifest.m3u8`. Sometimes the file extension is just .m3u.
 
@@ -34,7 +34,7 @@ We're going to make a batch file that takes an URL to an m3u8 file and saves a v
 
 FFmpeg is another command line tool to convert videos and tons of [other manipulation](https://ffmpeg.org/about.html). It's free, very powerful, and used in almost every video conversion tool you've ever used.
 
-I'm on Windows, so I downloaded the .exe. I would recommend putting it in your Path again. Instructions for that are at the bottom of my [SoundCloud post](https://blog.ihtfy.com/post/soundcloud-likes/). Adding the folder with the ffmpeg.exe will allow you to run FFmpeg by typing `ffmpeg` in the command line. It's possible the installation will add it to your path anyway, but you may need to restart your computer for it to take effect.
+I'm on Windows, so I downloaded the .exe. I would recommend putting it in your Path again. Instructions for that are at the bottom of my [SoundCloud post](/soundcloud-likes/). Adding the folder with the ffmpeg.exe will allow you to run FFmpeg by typing `ffmpeg` in the command line. It's possible the installation will add it to your path anyway, but you may need to restart your computer for it to take effect.
 
 Next, we'll make the batch file. Make a new text file and add this inside of it:
 

@@ -11,6 +11,7 @@
 	checked={$theme === 'light'}
 	on:change={toggleDarkMode}
 	title="Toggle dark mode"
+	aria-label="Toggle dark mode"
 />
 
 <style lang="scss">
@@ -23,6 +24,11 @@
 
 		appearance: none;
 		outline: none;
+
+		&:focus-visible {
+			outline: 2px solid var(--text-color);
+			outline-offset: 6px;
+		}
 		cursor: pointer;
 
 		width: var(--size);

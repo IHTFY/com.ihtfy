@@ -1,12 +1,5 @@
 <script>
-	import { title } from '#lib/meta.js';
 </script>
-
-<svelte:head>
-	<title>Resume | {title}</title>
-	<meta property="og:title" content="Resume | {title}" />
-	<meta name="twitter:title" content="Resume | {title}" />
-</svelte:head>
 
 <div>
 	<embed

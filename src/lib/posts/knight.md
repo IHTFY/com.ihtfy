@@ -30,6 +30,6 @@ The true challenge is to do it on a real board where there is no help in the for
 
 I added options to show the target square, and if you're really having trouble, Queen Vision, which darkens all the squares the queen can attack.
 
-There is also a Stats section that shows your time splits for each target as well as how many moves it took. The "Best" is what I think the optimal length is. If you find a shorter path between two targets, please send me the a message [here](https://frankiemercado.com/contact/).
+There is also a Stats section that shows your time splits for each target as well as how many moves it took. The "Best" is what I think the optimal length is. If you find a shorter path between two targets, please send me a message [here](https://frankiemercado.com/contact/).
 
 [Try it out](https://knightpuzzle.ihtfy.com/), or see the [source code](https://github.com/IHTFY/knight-puzzle).
