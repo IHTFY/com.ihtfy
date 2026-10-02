@@ -1,0 +1,1 @@
+import{E as e,O as t}from"./DhRgfJDB.js";import"./BelnbgrZ.js";var n={slug:`consoles`,title:`Consoles`,date:`2022-03-23T00:00:00.000Z`,excerpt:`I'm Bob the Builder`,tags:[`random`]},{slug:r,title:i,date:a,excerpt:o,tags:s}=n,c=t(`<p>I’ve been assembling tv consoles all day.</p>`);function l(t){var n=c();e(t,n)}export{l as default,n as metadata};

@@ -1,0 +1,1109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+ <channel>
+  <title>IHTFY</title>
+  <link>https://ihtfy.com</link>
+  <description>I like to write code, do math, make music, and play with fire.</description>
+  <atom:link href="https://ihtfy.com/rss.xml" rel="self" type="application/rss+xml" />
+  <item>
+   <title>Domination</title>
+   <description>I made another chess puzzle game thing.</description>
+   <link>https://ihtfy.com/domination/</link>
+   <guid isPermaLink="true">https://ihtfy.com/domination/</guid>
+   <pubDate>Sat, 23 Jul 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/domination/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/domination/cover.png" />
+  </item>
+<item>
+   <title>Battery</title>
+   <description>I updated my drone batteries.</description>
+   <link>https://ihtfy.com/battery/</link>
+   <guid isPermaLink="true">https://ihtfy.com/battery/</guid>
+   <pubDate>Sun, 19 Jun 2022 00:00:00 GMT</pubDate>
+   <category>photography</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/battery/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/battery/cover.png" />
+  </item>
+<item>
+   <title>MathJax</title>
+   <description>You can write math in GitHub ReadMes now.</description>
+   <link>https://ihtfy.com/mathjax/</link>
+   <guid isPermaLink="true">https://ihtfy.com/mathjax/</guid>
+   <pubDate>Tue, 24 May 2022 00:00:00 GMT</pubDate>
+   <category>math</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/mathjax/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/mathjax/cover.png" />
+  </item>
+<item>
+   <title>SCSS</title>
+   <description>I&apos;ve been changing the color palette for the new site.</description>
+   <link>https://ihtfy.com/scss/</link>
+   <guid isPermaLink="true">https://ihtfy.com/scss/</guid>
+   <pubDate>Mon, 04 Apr 2022 00:00:00 GMT</pubDate>
+   <category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/scss/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/scss/cover.png" />
+  </item>
+<item>
+   <title>Manual</title>
+   <description>Still converting</description>
+   <link>https://ihtfy.com/manual/</link>
+   <guid isPermaLink="true">https://ihtfy.com/manual/</guid>
+   <pubDate>Sun, 03 Apr 2022 00:00:00 GMT</pubDate>
+   <category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/manual/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/manual/cover.png" />
+  </item>
+<item>
+   <title>Catchup</title>
+   <description>I was working on formatting all my posts again to work with the new site.</description>
+   <link>https://ihtfy.com/catchup/</link>
+   <guid isPermaLink="true">https://ihtfy.com/catchup/</guid>
+   <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+   <category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/catchup/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/catchup/cover.png" />
+  </item>
+<item>
+   <title>Habit</title>
+   <description>Still working on the replacement website</description>
+   <link>https://ihtfy.com/habit/</link>
+   <guid isPermaLink="true">https://ihtfy.com/habit/</guid>
+   <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+   <category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/habit/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/habit/cover.png" />
+  </item>
+<item>
+   <title>Wombo</title>
+   <description>How I made the thumbnails for these posts.</description>
+   <link>https://ihtfy.com/wombo/</link>
+   <guid isPermaLink="true">https://ihtfy.com/wombo/</guid>
+   <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+   <category>art</category><category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/wombo/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/wombo/cover.png" />
+  </item>
+<item>
+   <title>Again</title>
+   <description>I forgot to write again</description>
+   <link>https://ihtfy.com/again/</link>
+   <guid isPermaLink="true">https://ihtfy.com/again/</guid>
+   <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/again/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/again/cover.png" />
+  </item>
+<item>
+   <title>Oops</title>
+   <description>I missed a day.</description>
+   <link>https://ihtfy.com/oops/</link>
+   <guid isPermaLink="true">https://ihtfy.com/oops/</guid>
+   <pubDate>Tue, 29 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/oops/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/oops/cover.png" />
+  </item>
+<item>
+   <title>Choppy</title>
+   <description>I made an unlisted stream about the IQ test generator.</description>
+   <link>https://ihtfy.com/choppy/</link>
+   <guid isPermaLink="true">https://ihtfy.com/choppy/</guid>
+   <pubDate>Mon, 28 Mar 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/choppy/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/choppy/cover.png" />
+  </item>
+<item>
+   <title>Assembly</title>
+   <description>I like assembling furniture.</description>
+   <link>https://ihtfy.com/assembly/</link>
+   <guid isPermaLink="true">https://ihtfy.com/assembly/</guid>
+   <pubDate>Sun, 27 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/assembly/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/assembly/cover.png" />
+  </item>
+<item>
+   <title>Schema</title>
+   <description>I&apos;m working on the IQ test again.</description>
+   <link>https://ihtfy.com/schema/</link>
+   <guid isPermaLink="true">https://ihtfy.com/schema/</guid>
+   <pubDate>Sat, 26 Mar 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/schema/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/schema/cover.png" />
+  </item>
+<item>
+   <title>Upside Down</title>
+   <description>I&apos;ve seen a couple videos of people putting frozen cheese pizza upside down in the oven.</description>
+   <link>https://ihtfy.com/upside-down/</link>
+   <guid isPermaLink="true">https://ihtfy.com/upside-down/</guid>
+   <pubDate>Fri, 25 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/upside-down/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/upside-down/cover.png" />
+  </item>
+<item>
+   <title>Quarter</title>
+   <description>I&apos;m thinking about ending the daily posts at the end of the month and transitioning to weekly instead.</description>
+   <link>https://ihtfy.com/quarter/</link>
+   <guid isPermaLink="true">https://ihtfy.com/quarter/</guid>
+   <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/quarter/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/quarter/cover.png" />
+  </item>
+<item>
+   <title>Consoles</title>
+   <description>I&apos;m Bob the Builder</description>
+   <link>https://ihtfy.com/consoles/</link>
+   <guid isPermaLink="true">https://ihtfy.com/consoles/</guid>
+   <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/consoles/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/consoles/cover.png" />
+  </item>
+<item>
+   <title>Boilerplate</title>
+   <description>Working on the IQ test generator</description>
+   <link>https://ihtfy.com/boilerplate/</link>
+   <guid isPermaLink="true">https://ihtfy.com/boilerplate/</guid>
+   <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/boilerplate/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/boilerplate/cover.png" />
+  </item>
+<item>
+   <title>PEZ</title>
+   <description>I got the PEZ dispenser in the mail today.</description>
+   <link>https://ihtfy.com/pez/</link>
+   <guid isPermaLink="true">https://ihtfy.com/pez/</guid>
+   <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category><category>hack</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/pez/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/pez/cover.png" />
+  </item>
+<item>
+   <title>Matrices</title>
+   <description>Thoughts about Raven&apos;s Progressive Matrices</description>
+   <link>https://ihtfy.com/matrices/</link>
+   <guid isPermaLink="true">https://ihtfy.com/matrices/</guid>
+   <pubDate>Sun, 20 Mar 2022 00:00:00 GMT</pubDate>
+   <category>math</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/matrices/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/matrices/cover.png" />
+  </item>
+<item>
+   <title>Reminders</title>
+   <description>I turned back on Google location history.</description>
+   <link>https://ihtfy.com/reminders/</link>
+   <guid isPermaLink="true">https://ihtfy.com/reminders/</guid>
+   <pubDate>Sat, 19 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/reminders/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/reminders/cover.png" />
+  </item>
+<item>
+   <title>Factory</title>
+   <description>How to setup Google Home speakers in a new house.</description>
+   <link>https://ihtfy.com/factory/</link>
+   <guid isPermaLink="true">https://ihtfy.com/factory/</guid>
+   <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/factory/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/factory/cover.png" />
+  </item>
+<item>
+   <title>Studio</title>
+   <description>I own calendar.studio</description>
+   <link>https://ihtfy.com/studio/</link>
+   <guid isPermaLink="true">https://ihtfy.com/studio/</guid>
+   <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>project</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/studio/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/studio/cover.png" />
+  </item>
+<item>
+   <title>dispenser</title>
+   <description>A PEZ dispenser for pills.</description>
+   <link>https://ihtfy.com/dispenser/</link>
+   <guid isPermaLink="true">https://ihtfy.com/dispenser/</guid>
+   <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/dispenser/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/dispenser/cover.png" />
+  </item>
+<item>
+   <title>Informed</title>
+   <description>The USPS will email you the scans of incoming mail.</description>
+   <link>https://ihtfy.com/informed/</link>
+   <guid isPermaLink="true">https://ihtfy.com/informed/</guid>
+   <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/informed/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/informed/cover.png" />
+  </item>
+<item>
+   <title>314</title>
+   <description>It&apos;s Pi Day.</description>
+   <link>https://ihtfy.com/314/</link>
+   <guid isPermaLink="true">https://ihtfy.com/314/</guid>
+   <pubDate>Mon, 14 Mar 2022 00:00:00 GMT</pubDate>
+   <category>math</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/314/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/314/cover.png" />
+  </item>
+<item>
+   <title>Similar</title>
+   <description>Sometimes I forget which word to use.</description>
+   <link>https://ihtfy.com/similar/</link>
+   <guid isPermaLink="true">https://ihtfy.com/similar/</guid>
+   <pubDate>Sun, 13 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/similar/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/similar/cover.png" />
+  </item>
+<item>
+   <title>Buzzing</title>
+   <description>The random buzzing phantom notifications are back.</description>
+   <link>https://ihtfy.com/buzzing/</link>
+   <guid isPermaLink="true">https://ihtfy.com/buzzing/</guid>
+   <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/buzzing/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/buzzing/cover.png" />
+  </item>
+<item>
+   <title>Pixi</title>
+   <description>I&apos;m playing around with PixiJS.</description>
+   <link>https://ihtfy.com/pixi/</link>
+   <guid isPermaLink="true">https://ihtfy.com/pixi/</guid>
+   <pubDate>Fri, 11 Mar 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/pixi/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/pixi/cover.png" />
+  </item>
+<item>
+   <title>Phantom</title>
+   <description>My phone is annoying me.</description>
+   <link>https://ihtfy.com/phantom/</link>
+   <guid isPermaLink="true">https://ihtfy.com/phantom/</guid>
+   <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/phantom/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/phantom/cover.png" />
+  </item>
+<item>
+   <title>Parking</title>
+   <description>I went to the gym, but I didn&apos;t work out.</description>
+   <link>https://ihtfy.com/parking/</link>
+   <guid isPermaLink="true">https://ihtfy.com/parking/</guid>
+   <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/parking/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/parking/cover.png" />
+  </item>
+<item>
+   <title>Two Days</title>
+   <description>I started going to tue gym again.</description>
+   <link>https://ihtfy.com/two-days/</link>
+   <guid isPermaLink="true">https://ihtfy.com/two-days/</guid>
+   <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/two-days/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/two-days/cover.png" />
+  </item>
+<item>
+   <title>Tikka</title>
+   <description>I tried the meatballs and tikka masala.</description>
+   <link>https://ihtfy.com/tikka/</link>
+   <guid isPermaLink="true">https://ihtfy.com/tikka/</guid>
+   <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+   <category>food</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/tikka/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/tikka/cover.png" />
+  </item>
+<item>
+   <title>Mandelbrot</title>
+   <description>Updating the description of my Mandelbrot fractal viewer</description>
+   <link>https://ihtfy.com/mandelbrot/</link>
+   <guid isPermaLink="true">https://ihtfy.com/mandelbrot/</guid>
+   <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+   <category>math</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/mandelbrot/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/mandelbrot/cover.png" />
+  </item>
+<item>
+   <title>Phone</title>
+   <description>This is a low quality post.</description>
+   <link>https://ihtfy.com/phone/</link>
+   <guid isPermaLink="true">https://ihtfy.com/phone/</guid>
+   <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/phone/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/phone/cover.png" />
+  </item>
+<item>
+   <title>Regional</title>
+   <description>Have you heard of cheese dip?</description>
+   <link>https://ihtfy.com/regional/</link>
+   <guid isPermaLink="true">https://ihtfy.com/regional/</guid>
+   <pubDate>Fri, 04 Mar 2022 00:00:00 GMT</pubDate>
+   <category>food</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/regional/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/regional/cover.png" />
+  </item>
+<item>
+   <title>Apartments</title>
+   <description>Almost moved into a bad neighborhood</description>
+   <link>https://ihtfy.com/apartments/</link>
+   <guid isPermaLink="true">https://ihtfy.com/apartments/</guid>
+   <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/apartments/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/apartments/cover.png" />
+  </item>
+<item>
+   <title>Meatballs</title>
+   <description>Thought of making meatball masala</description>
+   <link>https://ihtfy.com/meatballs/</link>
+   <guid isPermaLink="true">https://ihtfy.com/meatballs/</guid>
+   <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
+   <category>food</category><category>random</category><category>experiment</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/meatballs/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/meatballs/cover.png" />
+  </item>
+<item>
+   <title>February Retrospective</title>
+   <description>Reviewing my February goal progress</description>
+   <link>https://ihtfy.com/february-retrospective/</link>
+   <guid isPermaLink="true">https://ihtfy.com/february-retrospective/</guid>
+   <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
+   <category>website</category><category>review</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/february-retrospective/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/february-retrospective/cover.png" />
+  </item>
+<item>
+   <title>Thirty</title>
+   <description>What&apos;s a circadian rhythm?</description>
+   <link>https://ihtfy.com/thirty/</link>
+   <guid isPermaLink="true">https://ihtfy.com/thirty/</guid>
+   <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/thirty/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/thirty/cover.png" />
+  </item>
+<item>
+   <title>Bug</title>
+   <description>Ran into a bug on the new website.</description>
+   <link>https://ihtfy.com/bug/</link>
+   <guid isPermaLink="true">https://ihtfy.com/bug/</guid>
+   <pubDate>Sun, 27 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/bug/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/bug/cover.png" />
+  </item>
+<item>
+   <title>Shortlist</title>
+   <description>My new website is getting close to being live.</description>
+   <link>https://ihtfy.com/shortlist/</link>
+   <guid isPermaLink="true">https://ihtfy.com/shortlist/</guid>
+   <pubDate>Sat, 26 Feb 2022 00:00:00 GMT</pubDate>
+   <category>website</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/shortlist/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/shortlist/cover.png" />
+  </item>
+<item>
+   <title>Parallel</title>
+   <description>I canceled the renewal of my WordPress.com subscription.</description>
+   <link>https://ihtfy.com/parallel/</link>
+   <guid isPermaLink="true">https://ihtfy.com/parallel/</guid>
+   <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
+   <category>website</category><category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/parallel/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/parallel/cover.png" />
+  </item>
+<item>
+   <title>Plan</title>
+   <description>Working on my new site</description>
+   <link>https://ihtfy.com/plan/</link>
+   <guid isPermaLink="true">https://ihtfy.com/plan/</guid>
+   <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/plan/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/plan/cover.png" />
+  </item>
+<item>
+   <title>Another</title>
+   <description>Redesigning my website</description>
+   <link>https://ihtfy.com/another/</link>
+   <guid isPermaLink="true">https://ihtfy.com/another/</guid>
+   <pubDate>Wed, 23 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>website</category><category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/another/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/another/cover.png" />
+  </item>
+<item>
+   <title>Cents</title>
+   <description>Thinking about ads</description>
+   <link>https://ihtfy.com/cents/</link>
+   <guid isPermaLink="true">https://ihtfy.com/cents/</guid>
+   <pubDate>Tue, 22 Feb 2022 00:00:00 GMT</pubDate>
+   <category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/cents/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/cents/cover.png" />
+  </item>
+<item>
+   <title>Vortex</title>
+   <description>I finished the vortex math thing.</description>
+   <link>https://ihtfy.com/vortex/</link>
+   <guid isPermaLink="true">https://ihtfy.com/vortex/</guid>
+   <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/vortex/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/vortex/cover.png" />
+  </item>
+<item>
+   <title>Overflow</title>
+   <description>Working on a Mathologer challenge</description>
+   <link>https://ihtfy.com/overflow/</link>
+   <guid isPermaLink="true">https://ihtfy.com/overflow/</guid>
+   <pubDate>Sun, 20 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/overflow/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/overflow/cover.png" />
+  </item>
+<item>
+   <title>Migrating</title>
+   <description>Moving my site to GitHub</description>
+   <link>https://ihtfy.com/migrating/</link>
+   <guid isPermaLink="true">https://ihtfy.com/migrating/</guid>
+   <pubDate>Sat, 19 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>design</category><category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/migrating/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/migrating/cover.png" />
+  </item>
+<item>
+   <title>Simplify</title>
+   <description>Compressing my SVG logo</description>
+   <link>https://ihtfy.com/simplify/</link>
+   <guid isPermaLink="true">https://ihtfy.com/simplify/</guid>
+   <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+   <category>design</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/simplify/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/simplify/cover.png" />
+  </item>
+<item>
+   <title>Theming</title>
+   <description>Remaking the calendar maker</description>
+   <link>https://ihtfy.com/theming/</link>
+   <guid isPermaLink="true">https://ihtfy.com/theming/</guid>
+   <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>design</category><category>project</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/theming/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/theming/cover.png" />
+  </item>
+<item>
+   <title>Reredo</title>
+   <description>Redoing the calendar maker again</description>
+   <link>https://ihtfy.com/reredo/</link>
+   <guid isPermaLink="true">https://ihtfy.com/reredo/</guid>
+   <pubDate>Wed, 16 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/reredo/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/reredo/cover.png" />
+  </item>
+<item>
+   <title>Late</title>
+   <description>Posting late</description>
+   <link>https://ihtfy.com/late/</link>
+   <guid isPermaLink="true">https://ihtfy.com/late/</guid>
+   <pubDate>Tue, 15 Feb 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/late/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/late/cover.png" />
+  </item>
+<item>
+   <title>Forgot</title>
+   <description>Sorry, I forgot.</description>
+   <link>https://ihtfy.com/forgot/</link>
+   <guid isPermaLink="true">https://ihtfy.com/forgot/</guid>
+   <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/forgot/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/forgot/cover.png" />
+  </item>
+<item>
+   <title>Pseudorandom</title>
+   <description>Playing around with crypto - No, not currency</description>
+   <link>https://ihtfy.com/pseudorandom/</link>
+   <guid isPermaLink="true">https://ihtfy.com/pseudorandom/</guid>
+   <pubDate>Sun, 13 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/pseudorandom/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/pseudorandom/cover.png" />
+  </item>
+<item>
+   <title>Compression</title>
+   <description>How LZ string compression works</description>
+   <link>https://ihtfy.com/compression/</link>
+   <guid isPermaLink="true">https://ihtfy.com/compression/</guid>
+   <pubDate>Sat, 12 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>tutorial</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/compression/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/compression/cover.png" />
+  </item>
+<item>
+   <title>Calendar Progress</title>
+   <description>Working on a calendar maker.</description>
+   <link>https://ihtfy.com/calendar-progress/</link>
+   <guid isPermaLink="true">https://ihtfy.com/calendar-progress/</guid>
+   <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/calendar-progress/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/calendar-progress/cover.png" />
+  </item>
+<item>
+   <title>Plates</title>
+   <description>Installing a tow hook mounted license plate</description>
+   <link>https://ihtfy.com/plates/</link>
+   <guid isPermaLink="true">https://ihtfy.com/plates/</guid>
+   <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
+   <category>project</category><category>review</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/plates/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/plates/cover.png" />
+  </item>
+<item>
+   <title>Cheese</title>
+   <description>12 year aged cheese</description>
+   <link>https://ihtfy.com/cheese/</link>
+   <guid isPermaLink="true">https://ihtfy.com/cheese/</guid>
+   <pubDate>Wed, 09 Feb 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/cheese/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/cheese/cover.png" />
+  </item>
+<item>
+   <title>Cat</title>
+   <description>A cat ate a birdie.</description>
+   <link>https://ihtfy.com/cat/</link>
+   <guid isPermaLink="true">https://ihtfy.com/cat/</guid>
+   <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/cat/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/cat/cover.png" />
+  </item>
+<item>
+   <title>Shortener</title>
+   <description>How to get custom short URLs</description>
+   <link>https://ihtfy.com/shortner/</link>
+   <guid isPermaLink="true">https://ihtfy.com/shortner/</guid>
+   <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>hack</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/shortner/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/shortner/cover.png" />
+  </item>
+<item>
+   <title>Anodize</title>
+   <description>Taking a blow torch to a paperclip</description>
+   <link>https://ihtfy.com/anodize/</link>
+   <guid isPermaLink="true">https://ihtfy.com/anodize/</guid>
+   <pubDate>Sun, 06 Feb 2022 00:00:00 GMT</pubDate>
+   <category>science</category><category>experiment</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/anodize/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/anodize/cover.png" />
+  </item>
+<item>
+   <title>HDD</title>
+   <description>Testing some external hard drives</description>
+   <link>https://ihtfy.com/hdd/</link>
+   <guid isPermaLink="true">https://ihtfy.com/hdd/</guid>
+   <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
+   <category>review</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/hdd/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/hdd/cover.png" />
+  </item>
+<item>
+   <title>Redo</title>
+   <description>Restarting the calendar maker</description>
+   <link>https://ihtfy.com/redo/</link>
+   <guid isPermaLink="true">https://ihtfy.com/redo/</guid>
+   <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/redo/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/redo/cover.png" />
+  </item>
+<item>
+   <title>Livestreams</title>
+   <description>How to save livestreams.</description>
+   <link>https://ihtfy.com/livestreams/</link>
+   <guid isPermaLink="true">https://ihtfy.com/livestreams/</guid>
+   <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>tutorial</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/livestreams/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/livestreams/cover.png" />
+  </item>
+<item>
+   <title>SoundCloud Likes</title>
+   <description>How to archive all your soundcloud likes.</description>
+   <link>https://ihtfy.com/soundcloud-likes/</link>
+   <guid isPermaLink="true">https://ihtfy.com/soundcloud-likes/</guid>
+   <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>tutorial</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/soundcloud-likes/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/soundcloud-likes/cover.png" />
+  </item>
+<item>
+   <title>Lingo</title>
+   <description>Wordle is trending</description>
+   <link>https://ihtfy.com/lingo/</link>
+   <guid isPermaLink="true">https://ihtfy.com/lingo/</guid>
+   <pubDate>Tue, 01 Feb 2022 00:00:00 GMT</pubDate>
+   <category>gaming</category><category>review</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/lingo/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/lingo/cover.png" />
+  </item>
+<item>
+   <title>January Retrospective</title>
+   <description>How did I do in January?</description>
+   <link>https://ihtfy.com/january-retrospective/</link>
+   <guid isPermaLink="true">https://ihtfy.com/january-retrospective/</guid>
+   <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+   <category>website</category><category>review</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/january-retrospective/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/january-retrospective/cover.png" />
+  </item>
+<item>
+   <title>IMSLP</title>
+   <description>The place for classical sheet music</description>
+   <link>https://ihtfy.com/imslp/</link>
+   <guid isPermaLink="true">https://ihtfy.com/imslp/</guid>
+   <pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate>
+   <category>music</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/imslp/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/imslp/cover.png" />
+  </item>
+<item>
+   <title>444</title>
+   <description>4 for $4 from Wendy&apos;s</description>
+   <link>https://ihtfy.com/444/</link>
+   <guid isPermaLink="true">https://ihtfy.com/444/</guid>
+   <pubDate>Sat, 29 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/444/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/444/cover.png" />
+  </item>
+<item>
+   <title>Logo</title>
+   <description>Thinking of a new logo</description>
+   <link>https://ihtfy.com/logo/</link>
+   <guid isPermaLink="true">https://ihtfy.com/logo/</guid>
+   <pubDate>Fri, 28 Jan 2022 00:00:00 GMT</pubDate>
+   <category>design</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/logo/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/logo/cover.png" />
+  </item>
+<item>
+   <title>Fractal</title>
+   <description>Making a fractal viewer to arbitrary depth</description>
+   <link>https://ihtfy.com/fractal/</link>
+   <guid isPermaLink="true">https://ihtfy.com/fractal/</guid>
+   <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/fractal/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/fractal/cover.png" />
+  </item>
+<item>
+   <title>Asphalt</title>
+   <description>An iPad racing game</description>
+   <link>https://ihtfy.com/asphalt/</link>
+   <guid isPermaLink="true">https://ihtfy.com/asphalt/</guid>
+   <pubDate>Wed, 26 Jan 2022 00:00:00 GMT</pubDate>
+   <category>gaming</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/asphalt/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/asphalt/cover.png" />
+  </item>
+<item>
+   <title>Dash Cam</title>
+   <description>Installing a dash cam</description>
+   <link>https://ihtfy.com/dash-cam/</link>
+   <guid isPermaLink="true">https://ihtfy.com/dash-cam/</guid>
+   <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/dash-cam/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/dash-cam/cover.png" />
+  </item>
+<item>
+   <title>Panorama Scroll</title>
+   <description>A funny way to screenshot a page</description>
+   <link>https://ihtfy.com/panorama-scroll/</link>
+   <guid isPermaLink="true">https://ihtfy.com/panorama-scroll/</guid>
+   <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+   <category>hack</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/panorama-scroll/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/panorama-scroll/cover.png" />
+  </item>
+<item>
+   <title>Watching Videos</title>
+   <description>Learning about SvelteKit</description>
+   <link>https://ihtfy.com/watching-videos/</link>
+   <guid isPermaLink="true">https://ihtfy.com/watching-videos/</guid>
+   <pubDate>Sun, 23 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/watching-videos/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/watching-videos/cover.png" />
+  </item>
+<item>
+   <title>Headache</title>
+   <description>Head hurts</description>
+   <link>https://ihtfy.com/headache/</link>
+   <guid isPermaLink="true">https://ihtfy.com/headache/</guid>
+   <pubDate>Sat, 22 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/headache/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/headache/cover.png" />
+  </item>
+<item>
+   <title>Oil Change</title>
+   <description>My car hit 100000</description>
+   <link>https://ihtfy.com/oil-change/</link>
+   <guid isPermaLink="true">https://ihtfy.com/oil-change/</guid>
+   <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/oil-change/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/oil-change/cover.png" />
+  </item>
+<item>
+   <title>Sleep Schedule</title>
+   <description>I stay up.</description>
+   <link>https://ihtfy.com/sleep-schedule/</link>
+   <guid isPermaLink="true">https://ihtfy.com/sleep-schedule/</guid>
+   <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/sleep-schedule/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/sleep-schedule/cover.png" />
+  </item>
+<item>
+   <title>Blank</title>
+   <description></description>
+   <link>https://ihtfy.com/blank/</link>
+   <guid isPermaLink="true">https://ihtfy.com/blank/</guid>
+   <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/blank/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/blank/cover.png" />
+  </item>
+<item>
+   <title>Milk Tea Doppelgangers</title>
+   <description>Milktea is cereal milk.</description>
+   <link>https://ihtfy.com/milk-tea-doppelgangers/</link>
+   <guid isPermaLink="true">https://ihtfy.com/milk-tea-doppelgangers/</guid>
+   <pubDate>Tue, 18 Jan 2022 00:00:00 GMT</pubDate>
+   <category>food</category><category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/milk-tea-doppelgangers/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/milk-tea-doppelgangers/cover.png" />
+  </item>
+<item>
+   <title>SvelteKit</title>
+   <description>About to start the calendar maker</description>
+   <link>https://ihtfy.com/sveltekit/</link>
+   <guid isPermaLink="true">https://ihtfy.com/sveltekit/</guid>
+   <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>project</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/sveltekit/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/sveltekit/cover.png" />
+  </item>
+<item>
+   <title>Lazy Sunday</title>
+   <description>This is not a real post</description>
+   <link>https://ihtfy.com/lazy-sunday/</link>
+   <guid isPermaLink="true">https://ihtfy.com/lazy-sunday/</guid>
+   <pubDate>Sun, 16 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/lazy-sunday/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/lazy-sunday/cover.png" />
+  </item>
+<item>
+   <title>Chess Engine</title>
+   <description>Making a chess engine</description>
+   <link>https://ihtfy.com/chess-engine/</link>
+   <guid isPermaLink="true">https://ihtfy.com/chess-engine/</guid>
+   <pubDate>Sat, 15 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/chess-engine/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/chess-engine/cover.png" />
+  </item>
+<item>
+   <title>PWA</title>
+   <description>Making the Knight Puzzle a PWA</description>
+   <link>https://ihtfy.com/pwa/</link>
+   <guid isPermaLink="true">https://ihtfy.com/pwa/</guid>
+   <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/pwa/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/pwa/cover.png" />
+  </item>
+<item>
+   <title>Days Go By</title>
+   <description>A picture of the sunset</description>
+   <link>https://ihtfy.com/days-go-by/</link>
+   <guid isPermaLink="true">https://ihtfy.com/days-go-by/</guid>
+   <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category><category>photography</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/days-go-by/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/days-go-by/cover.png" />
+  </item>
+<item>
+   <title>Offline</title>
+   <description>Turning Optics into a PWA</description>
+   <link>https://ihtfy.com/offline/</link>
+   <guid isPermaLink="true">https://ihtfy.com/offline/</guid>
+   <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/offline/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/offline/cover.png" />
+  </item>
+<item>
+   <title>Hotel ACs</title>
+   <description>How to hack hotel air conditioning.</description>
+   <link>https://ihtfy.com/hotel-acs/</link>
+   <guid isPermaLink="true">https://ihtfy.com/hotel-acs/</guid>
+   <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
+   <category>hack</category><category>project</category><category>tutorial</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/hotel-acs/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/hotel-acs/cover.png" />
+  </item>
+<item>
+   <title>Hotel TVs</title>
+   <description>Hacking the hotel TV</description>
+   <link>https://ihtfy.com/hotel-tvs/</link>
+   <guid isPermaLink="true">https://ihtfy.com/hotel-tvs/</guid>
+   <pubDate>Tue, 11 Jan 2022 00:00:00 GMT</pubDate>
+   <category>hack</category><category>tutorial</category><category>experiment</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/hotel-tvs/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/hotel-tvs/cover.png" />
+  </item>
+<item>
+   <title>Standalone</title>
+   <description>Making Empire an installable app</description>
+   <link>https://ihtfy.com/standalone/</link>
+   <guid isPermaLink="true">https://ihtfy.com/standalone/</guid>
+   <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/standalone/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/standalone/cover.png" />
+  </item>
+<item>
+   <title>Tabs</title>
+   <description>Adding navigation to Empire</description>
+   <link>https://ihtfy.com/tabs/</link>
+   <guid isPermaLink="true">https://ihtfy.com/tabs/</guid>
+   <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/tabs/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/tabs/cover.png" />
+  </item>
+<item>
+   <title>Taco Dip</title>
+   <description>I made taco dip.</description>
+   <link>https://ihtfy.com/taco-dip/</link>
+   <guid isPermaLink="true">https://ihtfy.com/taco-dip/</guid>
+   <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
+   <category>food</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/taco-dip/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/taco-dip/cover.png" />
+  </item>
+<item>
+   <title>Drunken Crawfish</title>
+   <description>Stix Grill &amp; Bar in Fremont, CA</description>
+   <link>https://ihtfy.com/drunken-crawfish/</link>
+   <guid isPermaLink="true">https://ihtfy.com/drunken-crawfish/</guid>
+   <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category><category>food</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/drunken-crawfish/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/drunken-crawfish/cover.png" />
+  </item>
+<item>
+   <title>Early Bird</title>
+   <description>Installing car floor mats</description>
+   <link>https://ihtfy.com/early-bird/</link>
+   <guid isPermaLink="true">https://ihtfy.com/early-bird/</guid>
+   <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/early-bird/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/early-bird/cover.png" />
+  </item>
+<item>
+   <title>Westward</title>
+   <description>I flew back to California</description>
+   <link>https://ihtfy.com/westward/</link>
+   <guid isPermaLink="true">https://ihtfy.com/westward/</guid>
+   <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+   <category>random</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/westward/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/westward/cover.png" />
+  </item>
+<item>
+   <title>Hibachi</title>
+   <description>Went out to a hibachi place</description>
+   <link>https://ihtfy.com/hibachi/</link>
+   <guid isPermaLink="true">https://ihtfy.com/hibachi/</guid>
+   <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+   <category>food</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/hibachi/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/hibachi/cover.png" />
+  </item>
+<item>
+   <title>Winter Drone</title>
+   <description>I took pictures from the sky</description>
+   <link>https://ihtfy.com/winter-drone/</link>
+   <guid isPermaLink="true">https://ihtfy.com/winter-drone/</guid>
+   <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+   <category>photography</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/winter-drone/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/winter-drone/cover.png" />
+  </item>
+<item>
+   <title>Happy New Year</title>
+   <description>Starting daily posts</description>
+   <link>https://ihtfy.com/happy-new-year/</link>
+   <guid isPermaLink="true">https://ihtfy.com/happy-new-year/</guid>
+   <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
+   <category>website</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/happy-new-year/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/happy-new-year/cover.png" />
+  </item>
+<item>
+   <title>Games</title>
+   <description>Here are some web games I&apos;ve made.</description>
+   <link>https://ihtfy.com/games/</link>
+   <guid isPermaLink="true">https://ihtfy.com/games/</guid>
+   <pubDate>Fri, 16 Jul 2021 00:00:00 GMT</pubDate>
+   <category>gaming</category><category>code</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/games/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/games/cover.png" />
+  </item>
+<item>
+   <title>Knight</title>
+   <description>I made a chess puzzle game.</description>
+   <link>https://ihtfy.com/knight/</link>
+   <guid isPermaLink="true">https://ihtfy.com/knight/</guid>
+   <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+   <category>code</category><category>gaming</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/knight/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/knight/cover.png" />
+  </item>
+<item>
+   <title>Workout</title>
+   <description>I made a workout tracker</description>
+   <link>https://ihtfy.com/workout/</link>
+   <guid isPermaLink="true">https://ihtfy.com/workout/</guid>
+   <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+   <category>code</category><category>project</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/workout/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/workout/cover.png" />
+  </item>
+<item>
+   <title>YouTube Speeds Faster Than 2x</title>
+   <description>How to watch YouTube even faster</description>
+   <link>https://ihtfy.com/youtube-speeds-faster-than-2x/</link>
+   <guid isPermaLink="true">https://ihtfy.com/youtube-speeds-faster-than-2x/</guid>
+   <pubDate>Sat, 08 Jun 2019 00:00:00 GMT</pubDate>
+   <category>code</category><category>tutorial</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/youtube-speeds-faster-than-2x/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/youtube-speeds-faster-than-2x/cover.png" />
+  </item>
+<item>
+   <title>Grey</title>
+   <description>A tiny planet</description>
+   <link>https://ihtfy.com/grey/</link>
+   <guid isPermaLink="true">https://ihtfy.com/grey/</guid>
+   <pubDate>Fri, 29 Sep 2017 00:00:00 GMT</pubDate>
+   <category>photography</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/grey/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/grey/cover.png" />
+  </item>
+<item>
+   <title>Albinogator</title>
+   <description>A panoramic portrait of an Albino Alligator</description>
+   <link>https://ihtfy.com/albinogator/</link>
+   <guid isPermaLink="true">https://ihtfy.com/albinogator/</guid>
+   <pubDate>Tue, 22 Aug 2017 00:00:00 GMT</pubDate>
+   <category>photography</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/albinogator/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/albinogator/cover.png" />
+  </item>
+<item>
+   <title>Point</title>
+   <description>Gernerative art using Processing</description>
+   <link>https://ihtfy.com/point/</link>
+   <guid isPermaLink="true">https://ihtfy.com/point/</guid>
+   <pubDate>Thu, 07 Jan 2016 00:00:00 GMT</pubDate>
+   <category>code</category><category>art</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/point/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/point/cover.png" />
+  </item>
+<item>
+   <title>Ana RAW</title>
+   <description>More music I made for another of my sister&apos;s fashio shows</description>
+   <link>https://ihtfy.com/ana-raw/</link>
+   <guid isPermaLink="true">https://ihtfy.com/ana-raw/</guid>
+   <pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
+   <category>music</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/ana-raw/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/ana-raw/cover.png" />
+  </item>
+<item>
+   <title>Ana MKE</title>
+   <description>Music I made for my sister&apos;s fashion show in 2015</description>
+   <link>https://ihtfy.com/ana-mke/</link>
+   <guid isPermaLink="true">https://ihtfy.com/ana-mke/</guid>
+   <pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
+   <category>music</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/ana-mke/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/ana-mke/cover.png" />
+  </item>
+<item>
+   <title>Globes</title>
+   <description>Spherical panoramas</description>
+   <link>https://ihtfy.com/globes/</link>
+   <guid isPermaLink="true">https://ihtfy.com/globes/</guid>
+   <pubDate>Tue, 15 Sep 2015 00:00:00 GMT</pubDate>
+   <category>photography</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/globes/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/globes/cover.png" />
+  </item>
+<item>
+   <title>Prime</title>
+   <description>Plotting twin primes</description>
+   <link>https://ihtfy.com/prime/</link>
+   <guid isPermaLink="true">https://ihtfy.com/prime/</guid>
+   <pubDate>Sat, 29 Aug 2015 00:00:00 GMT</pubDate>
+   <category>code</category><category>art</category><category>math</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/prime/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/prime/cover.png" />
+  </item>
+<item>
+   <title>mmfunk</title>
+   <description>The first remix I made</description>
+   <link>https://ihtfy.com/mmfunk/</link>
+   <guid isPermaLink="true">https://ihtfy.com/mmfunk/</guid>
+   <pubDate>Mon, 03 Aug 2015 00:00:00 GMT</pubDate>
+   <category>music</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/mmfunk/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/mmfunk/cover.png" />
+  </item>
+<item>
+   <title>Wire</title>
+   <description>My first wire wrappings</description>
+   <link>https://ihtfy.com/wire/</link>
+   <guid isPermaLink="true">https://ihtfy.com/wire/</guid>
+   <pubDate>Mon, 27 Jul 2015 00:00:00 GMT</pubDate>
+   <category>art</category><category>project</category>
+   <media:thumbnail url="https://ihtfy.com/optimized-images/posts/wire/cover.png" />
+   <media:content medium="image" url="https://ihtfy.com/optimized-images/posts/wire/cover.png" />
+  </item>
+ </channel>
+</rss>
