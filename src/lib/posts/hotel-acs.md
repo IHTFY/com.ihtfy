@@ -7,7 +7,7 @@ tags: [hack, project, tutorial]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 A lot of hotels use the same air conditioning units. Sometimes the control is set by a faulty thermostat or somewhere outside of the room. It can also be annoying to have intermittent fan noise while you're trying to sleep.

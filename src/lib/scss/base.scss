@@ -1,3 +1,6 @@
+@use './mixins.scss' as *;
+@use './breakpoints.scss' as *;
+
 .container {
 	@include padded-container;
 }

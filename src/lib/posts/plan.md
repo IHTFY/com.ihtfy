@@ -7,7 +7,7 @@ tags: [code, design]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 I'll try starting with Elianiva's site, since the dev server works as far as I can tell. The changes I want to make are:

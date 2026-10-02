@@ -7,7 +7,7 @@ tags: [code, gaming]
 ---
 
 <script>
-  import Callout from "$lib/components/base/callout.svelte";
+  import Callout from "#lib/components/base/callout.svelte";
 </script>
 
 I added some changes to my [Empire](https://empire.ihtfy.com/) game; most noticeably, navigation tabs. I also added a button to peek at your secret nickname, and I added some color and avatars to the Lobby. Adding the tabs was actually a bit complicated since the logic flow of the game relied on it being impossible to go back and resubmit forms, etc.

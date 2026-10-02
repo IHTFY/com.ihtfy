@@ -1,0 +1,8 @@
+node_modules
+build
+.svelte-kit
+pnpm-lock.yaml
+MAINTENANCE-REVIEW.md
+SIZE-REDUCTION-REVIEW.md
+static/
+src/lib/posts/*.md

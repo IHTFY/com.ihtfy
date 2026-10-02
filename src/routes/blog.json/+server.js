@@ -1,4 +1,5 @@
-import posts from '$lib/posts';
+export const prerender = true;
+import posts from '#lib/server/posts.js';
 
 export async function GET() {
 	const body = Object.keys(posts).map((index) => {
@@ -13,8 +14,5 @@ export async function GET() {
 		};
 	});
 
-	return {
-		status: 200,
-		body: JSON.stringify(body)
-	};
+	return Response.json(body);
 }

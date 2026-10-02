@@ -1,13 +1,20 @@
 <script>
-	import Image from '$lib/components/base/image.svelte';
+	import Image from '#lib/components/base/image.svelte';
 
-	$: isHovered = 0;
+	let isHovered = 0;
 
 	const hovering = () => (isHovered = 1);
 	const leaving = () => (isHovered = 0);
 </script>
 
-<div id="wrap" on:mouseover={hovering} on:focus={hovering} on:mouseout={leaving} on:blur={leaving}>
+<div
+	role="presentation"
+	id="wrap"
+	on:mouseover={hovering}
+	on:focus={hovering}
+	on:mouseout={leaving}
+	on:blur={leaving}
+>
 	<div id="regular" style="transform: translate(0px, {20 + isHovered * 250}px)">
 		<Image path="avatar" alt="Frankie" filename="avatar" />
 	</div>
