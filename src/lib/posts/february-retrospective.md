@@ -42,7 +42,7 @@ I have spent a lot of time working on rebuilding my website, which is kind of fi
 
 <Callout type="success">Succeeded</Callout>
 
-A few posts were showcasing code I had written a long time ago: [SoundCloud Likes](/soundcloud-likes), [Livestreams](/livestreams), [Shortner](/shortner).
+A few posts were showcasing code I had written a long time ago: [SoundCloud Likes](/soundcloud-likes), [Livestreams](/livestreams), [Shortener](/shortner).
 
 > I'll make some categories on [Patreon](https://www.patreon.com/IHTFY).
 
