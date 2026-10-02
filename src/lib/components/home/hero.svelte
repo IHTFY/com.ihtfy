@@ -1,7 +1,7 @@
 <script>
-	import BlogIcon from '$lib/svg/blog.svelte';
-	import ProjectsIcon from '$lib/svg/projects.svelte';
-	// import ExperienceIcon from '$lib/svg/experience.svelte';
+	import BlogIcon from '#lib/svg/blog.svelte';
+	import ProjectsIcon from '#lib/svg/projects.svelte';
+	// import ExperienceIcon from '#lib/svg/experience.svelte';
 </script>
 
 <section id="hero">
@@ -27,7 +27,7 @@
 </section>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 
 	#hero {
 		display: flex;

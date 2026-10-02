@@ -7,7 +7,7 @@ tags: [project, review]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 California requires a front license plate. I didn't want to drill into the front bumper, so I bought [this license plate mount](https://amzn.to/3BczzhP) that attaches to the tow mount. I was a little worried, because the reviews were mixed about whether it actually fits. I figured, some people were able to make it work, so it's probably other people being dense, or maybe they had defective units.

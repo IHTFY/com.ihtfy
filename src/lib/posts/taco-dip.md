@@ -7,7 +7,7 @@ tags: [food]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 I made taco dip today. I'm not sure how widely known this dish is, but it's a staple appetizer at parties where I'm from.
