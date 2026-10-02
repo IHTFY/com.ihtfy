@@ -9,19 +9,29 @@
 	$: imageSrc = `/optimized-images/${path ? path + '/' : ''}${filename}`;
 </script>
 
-<picture>
-	<source srcset="{imageSrc}.avif" type="image/avif" />
-	<source srcset="{imageSrc}.webp" type="image/webp" />
-	<img src="{imageSrc}.png" {alt} loading="lazy" decoding="async" />
+{#snippet renderPicture()}
+	<picture>
+		<source srcset="{imageSrc}.avif" type="image/avif" />
+		<source srcset="{imageSrc}.webp" type="image/webp" />
+		<img src="{imageSrc}.png" {alt} loading="lazy" decoding="async" />
+	</picture>
+{/snippet}
 
-	{#if figcaption}
-		<!-- svelte-ignore a11y-structure -->
+{#if figcaption}
+	<figure>
+		{@render renderPicture()}
 		<!-- eslint-disable-next-line svelte/no-at-html-tags -- Captions are authored in repository content. -->
 		<figcaption>{@html figcaption}</figcaption>
-	{/if}
-</picture>
+	</figure>
+{:else}
+	{@render renderPicture()}
+{/if}
 
 <style lang="scss">
+	figure {
+		margin: 0;
+	}
+
 	picture {
 		position: relative;
 		width: 100%;

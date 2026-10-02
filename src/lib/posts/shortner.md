@@ -1,12 +1,12 @@
 ---
 slug: shortner
-title: Shortner
+title: Shortener
 date: 2022-02-07
 excerpt: How to get custom short URLs
 tags: [code, hack]
 ---
 
-If you have a domain (website name) registered, you can use it as a custom url shortner. I own ihtfy.com and I use it to make shortcut links to various pages.
+If you have a domain (website name) registered, you can use it as a custom url shortener. I own ihtfy.com and I use it to make shortcut links to various pages.
 
 For example, the links in the first column redirect to the second column:
 
