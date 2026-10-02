@@ -1,6 +1,6 @@
 <script>
-	import Card from '$lib/components/base/card.svelte';
-	import Image from '$lib/components/base/image.svelte';
+	import Card from '#lib/components/base/card.svelte';
+	import Image from '#lib/components/base/image.svelte';
 	import Tag from './tag.svelte';
 	import dateformat from 'dateformat';
 
@@ -23,7 +23,7 @@
 		<div slot="footer">
 			{#if post.tags}
 				<div class="tags">
-					{#each post.tags.slice(0, 2) as tag}
+					{#each post.tags.slice(0, 2) as tag (tag)}
 						<Tag>{tag}</Tag>
 					{/each}
 				</div>

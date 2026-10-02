@@ -1,8 +1,9 @@
-import { description, siteBaseUrl, title } from '$lib/meta';
-import posts from '$lib/posts';
+export const prerender = true;
+import { description, siteBaseUrl, title } from '#lib/meta.js';
+import posts from '#lib/server/posts.js';
 
 function escapeXml(unsafe) {
-	return unsafe.replace(/[<>&'"]/g, function (c) {
+	return String(unsafe ?? '').replace(/[<>&'"]/g, function (c) {
 		switch (c) {
 			case '<':
 				return '&lt;';
@@ -24,10 +25,7 @@ export async function GET() {
 		'Cache-Control': 'max-age=0, s-maxage=3600',
 		'Content-Type': 'application/xml'
 	};
-	return {
-		headers,
-		body
-	};
+	return new Response(body, { headers });
 }
 
 const xml = (posts) => `
@@ -46,11 +44,11 @@ const xml = (posts) => `
           <pubDate>${new Date(post.date).toISOString()}</pubDate>
           ${post.tags ? post.tags.map((tag) => `<category term="${tag}" />`).join('') : ''}
           <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="${siteBaseUrl}/images/posts/${
-					post.slug
-				}/cover.jpg"/>
+						post.slug
+					}/cover.jpg"/>
           <media:content xmlns:media="http://search.yahoo.com/mrss/" medium="image" url="${siteBaseUrl}/images/posts/${
-					post.slug
-				}/cover.jpg"/>
+						post.slug
+					}/cover.jpg"/>
         </item>
       `
 			)

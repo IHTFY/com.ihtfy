@@ -2,9 +2,10 @@
 import Prism from 'prismjs'; // eslint-disable-line no-unused-vars
 // organize-imports-disable-next-line
 import 'prism-svelte';
+import { render } from 'svelte/server';
 import readingTime from 'reading-time';
 
-const imports = import.meta.glob('./posts/*.md', { eager: true });
+const imports = import.meta.glob('../posts/*.md', { eager: true });
 
 const posts = [];
 for (const path in imports) {
@@ -14,7 +15,7 @@ for (const path in imports) {
 			// @ts-ignore
 			...post.metadata,
 			// @ts-ignore
-			...post.default.render()
+			html: render(post.default).body
 		});
 	}
 }
@@ -73,8 +74,8 @@ const filteredPosts = posts
 		new Date(a.date).getTime() > new Date(b.date).getTime()
 			? -1
 			: new Date(a.date).getTime() < new Date(b.date).getTime()
-			? 1
-			: 0
+				? 1
+				: 0
 	)
 	.map((post) => {
 		const readingTimeDuration = readingTime(post.html).text;

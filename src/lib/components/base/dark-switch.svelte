@@ -1,5 +1,5 @@
 <script>
-	import { theme } from '$lib/components/style/theme.js';
+	import { theme } from '#lib/components/style/theme.js';
 
 	const toggleDarkMode = () => theme.update((current) => (current === 'light' ? 'dark' : 'light'));
 </script>
@@ -49,9 +49,13 @@
 			transform: scale(0.75);
 			// normal color in light mode
 			color: var(--primary-color);
-			box-shadow: inset 0 0 0 var(--size), var(--left) 0 0 var(--ray-size),
-				var(--right) 0 0 var(--ray-size), 0 var(--left) 0 var(--ray-size),
-				0 var(--right) 0 var(--ray-size), var(--long-left) var(--long-left) 0 var(--ray-size),
+			box-shadow:
+				inset 0 0 0 var(--size),
+				var(--left) 0 0 var(--ray-size),
+				var(--right) 0 0 var(--ray-size),
+				0 var(--left) 0 var(--ray-size),
+				0 var(--right) 0 var(--ray-size),
+				var(--long-left) var(--long-left) 0 var(--ray-size),
 				var(--long-right) var(--long-right) 0 var(--ray-size),
 				var(--long-left) var(--long-right) 0 var(--ray-size),
 				var(--long-right) var(--long-left) 0 var(--ray-size);

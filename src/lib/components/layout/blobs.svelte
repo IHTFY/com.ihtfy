@@ -1,11 +1,11 @@
 <script>
-	import Blob1 from '$lib/svg/blobs/blob1.svelte';
-	import Blob2 from '$lib/svg/blobs/blob2.svelte';
-	import Blob3 from '$lib/svg/blobs/blob3.svelte';
-	import Blob4 from '$lib/svg/blobs/blob4.svelte';
-	import Blob5 from '$lib/svg/blobs/blob5.svelte';
-	import Blob6 from '$lib/svg/blobs/blob6.svelte';
-	import Blob7 from '$lib/svg/blobs/blob7.svelte';
+	import Blob1 from '#lib/svg/blobs/blob1.svelte';
+	import Blob2 from '#lib/svg/blobs/blob2.svelte';
+	import Blob3 from '#lib/svg/blobs/blob3.svelte';
+	import Blob4 from '#lib/svg/blobs/blob4.svelte';
+	import Blob5 from '#lib/svg/blobs/blob5.svelte';
+	import Blob6 from '#lib/svg/blobs/blob6.svelte';
+	import Blob7 from '#lib/svg/blobs/blob7.svelte';
 
 	const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
 
@@ -32,7 +32,7 @@
 </script>
 
 <div class="blobs-container">
-	{#each blobs as blob}
+	{#each blobs as blob (blob)}
 		<div
 			class="blob"
 			style="height:{blob.size};width:{blob.size};margin-left:{blob.left};margin-top:{blob.top};animation-duration:{blob.animationDuration}s;"
@@ -57,7 +57,7 @@
 </div>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 
 	.blobs-container {
 		position: absolute;

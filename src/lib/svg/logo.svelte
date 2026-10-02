@@ -119,23 +119,29 @@
 			}
 			#name {
 				> path:nth-child(1) {
-					animation: animate-svg-fill 2s ease-in-out 0.4s both,
+					animation:
+						animate-svg-fill 2s ease-in-out 0.4s both,
 						animate-svg-stroke 3s ease-in-out both;
 				}
 				> path:nth-child(2) {
-					animation: animate-svg-fill 2s ease-in-out 0.8s both,
+					animation:
+						animate-svg-fill 2s ease-in-out 0.8s both,
 						animate-svg-stroke 3s ease-in-out both;
 				}
 				> path:nth-child(3) {
-					animation: animate-svg-fill 2s ease-in-out 1.2s both,
+					animation:
+						animate-svg-fill 2s ease-in-out 1.2s both,
 						animate-svg-stroke 3s ease-in-out both;
 				}
 				> path:nth-child(4) {
-					animation: animate-svg-fill 2s ease-in-out 1.6s both,
+					animation:
+						animate-svg-fill 2s ease-in-out 1.6s both,
 						animate-svg-stroke 3s ease-in-out both;
 				}
 				> path:nth-child(5) {
-					animation: animate-svg-fill 2s ease-in-out 2s both, animate-svg-stroke 2s ease-in-out both;
+					animation:
+						animate-svg-fill 2s ease-in-out 2s both,
+						animate-svg-stroke 2s ease-in-out both;
 				}
 			}
 		}

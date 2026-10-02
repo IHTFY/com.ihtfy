@@ -7,7 +7,7 @@ tags: [code, math]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 I'm working on the IQ test again. I'll have to work on the best way to represent rules, and configuration for different graphics. Basically, I think I will have a 3x3 array, filled with blank config files - maybe they will have indexes and neighbor references. Then I will apply rules to this array, modifying the config files. The config files will be able to define a graphic, like a grid with shapes, nested shapes, dot patterns etc.

@@ -6,7 +6,8 @@ assets in `static`.
 
 ## Development
 
-Install dependencies with pnpm, then start the development server:
+Use Node.js 22.17 or newer and pnpm 12.8.1 (pinned in `packageManager`), then
+install dependencies and start the development server:
 
 ```sh
 pnpm install --frozen-lockfile

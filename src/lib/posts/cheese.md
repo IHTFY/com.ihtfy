@@ -7,7 +7,7 @@ tags: [random]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 When I was home for Christmas, I tried some old cheese. It was good; a little strange at first but actually quite addictive.

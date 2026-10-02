@@ -7,8 +7,8 @@ tags: [code, tutorial]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import Image from "#lib/components/base/image.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 This is somewhat related to my [previous post](https://blog.ihtfy.com/post/soundcloud-likes/) about downloading all of my SoundCloud liked songs. I have another batch file that I use to save livestreams. It doesn't work for YouTube livestreams and probably not Twitch either. Often news sites or other random sites will work.

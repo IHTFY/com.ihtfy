@@ -7,7 +7,7 @@ tags: [hack, tutorial, experiment]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 I'm staying in a hotel right now. I carry an HDMI cable in my backpack so that I can watch YouTube, Netflix, etc. Hotels will often take measures to ensure you can't do that. This one had:

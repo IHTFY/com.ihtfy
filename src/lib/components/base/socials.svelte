@@ -1,11 +1,11 @@
 <script>
-	import YouTubeIcon from '$lib/svg/socials/youtube.svelte';
-	import GitHubIcon from '$lib/svg/socials/github.svelte';
-	import TwitterIcon from '$lib/svg/socials/twitter.svelte';
-	import PatreonIcon from '$lib/svg/socials/patreon.svelte';
-	import TikTokIcon from '$lib/svg/socials/tiktok.svelte';
-	import EmailIcon from '$lib/svg/socials/email.svelte';
-	// import RSSIcon from '$lib/svg/rss.svelte';
+	import YouTubeIcon from '#lib/svg/socials/youtube.svelte';
+	import GitHubIcon from '#lib/svg/socials/github.svelte';
+	import TwitterIcon from '#lib/svg/socials/twitter.svelte';
+	import PatreonIcon from '#lib/svg/socials/patreon.svelte';
+	import TikTokIcon from '#lib/svg/socials/tiktok.svelte';
+	import EmailIcon from '#lib/svg/socials/email.svelte';
+	// import RSSIcon from '#lib/svg/rss.svelte';
 </script>
 
 <div class="socials">
@@ -53,7 +53,7 @@
 </div>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 	.socials {
 		display: flex;
 		align-items: center;

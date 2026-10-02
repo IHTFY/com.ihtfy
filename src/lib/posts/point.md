@@ -7,8 +7,8 @@ tags: [code, art, math]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import Image from "#lib/components/base/image.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 I made this in June of 2014. I was using processing (a java library) to make mosaic and pointillism style images from existing pictures.

@@ -7,9 +7,9 @@ tags: [code, art, math]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
-  import Callout from "$lib/components/base/callout.svelte";
+  import Image from "#lib/components/base/image.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
+  import Callout from "#lib/components/base/callout.svelte";
 </script>
 
 I made this in March of 2014. I was playing around with pygame and was learning how to assign colors to specific pixels. Composite numbers are black, twin primes are green, and other primes are blue. Pixels are enumerated from 0 starting at the top left and read like a book. Note: '2' should be blue, but I never fixed that.

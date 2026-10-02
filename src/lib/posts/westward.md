@@ -7,7 +7,7 @@ tags: [random]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 ## Flying
