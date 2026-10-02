@@ -1,0 +1,1 @@
+import{E as e,O as t}from"./DhRgfJDB.js";import"./BelnbgrZ.js";var n={slug:`oil-change`,title:`Oil Change`,date:`2022-01-21T00:00:00.000Z`,excerpt:`My car hit 100000`,tags:[`random`]},{slug:r,title:i,date:a,excerpt:o,tags:s}=n,c=t(`<p>Just did errands today. My car hit 100,000 miles.</p>`);function l(t){var n=c();e(t,n)}export{l as default,n as metadata};
