@@ -66,7 +66,7 @@
 		}
 
 		.non-mobile {
-			@include for-phone-only {
+			@include for-tablet-portrait-down {
 				display: none;
 			}
 		}
