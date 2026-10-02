@@ -82,7 +82,7 @@ In `svelte.config.js` I'll remove the `target` from `kit: {...`.
 
 Now when I run, there are no errors in the console, but the page (`localhost:3000`) has an error: `Unrecognized option 'enableSourcemap'`.
 
-After searching a bit, I may need to update svelte or some other decency. I'll run `npm update`. That seemed to fix it.
+After searching a bit, I may need to update svelte or some other dependency. I'll run `npm update`. That seemed to fix it.
 
 I see the site, but when I scroll down and up, it crashes and gives another error: `[plugin:vite-plugin-svelte] Error while preprocessing C:/Users/Frankie/Documents/Code/blog/src/lib/posts/web-workers.md - Cannot read property 'buildPlaceholders' of undefined`.
 

@@ -82,9 +82,6 @@
 				&#blog-btn {
 					order: 2;
 				}
-				&#experience-btn {
-					order: 3;
-				}
 			}
 
 			@include for-phone-only {
@@ -96,9 +93,6 @@
 					}
 					&#blog-btn {
 						order: 3;
-					}
-					&#experience-btn {
-						order: 2;
 					}
 				}
 			}

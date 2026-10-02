@@ -9,7 +9,7 @@
 <header>
 	<nav class="container">
 		<div class="left">
-			<a class="logo" href="/" alt="Site logo">
+			<a class="logo" href="/" aria-label="IHTFY home">
 				<Logo {animated} />
 			</a>
 			<div class="links">
