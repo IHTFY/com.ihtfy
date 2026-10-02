@@ -1,12 +1,13 @@
-@import './lib/scss/reset.scss';
-@import './lib/scss/themes.scss';
-@import './lib/scss/breakpoints.scss';
-@import './lib/scss/variables.scss';
-@import './lib/scss/mixins.scss';
-@import './lib/scss/base.scss';
-@import './lib/scss/buttons.scss';
-@import './lib/scss/cards.scss';
-@import './lib/scss/code-highlights.scss';
+@use './lib/scss/reset.scss' as *;
+@use './lib/scss/themes.scss' as *;
+@use './lib/scss/breakpoints.scss' as *;
+@use './lib/scss/variables.scss' as *;
+@use './lib/scss/mixins.scss' as *;
+@use './lib/scss/base.scss' as *;
+@use './lib/scss/buttons.scss' as *;
+@use './lib/scss/cards.scss' as *;
+@use './lib/scss/code-highlights.scss' as *;
+@use './lib/scss/markdown.scss' as *;
 
 body {
 	--body-background-color: var(--page-background-color);
@@ -38,5 +39,3 @@ html {
 	height: 100%;
 	position: relative;
 }
-
-@import './lib/scss/markdown.scss';

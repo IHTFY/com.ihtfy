@@ -1,8 +1,8 @@
 <script>
-	import Card from '$lib/components/base/card.svelte';
-	import TwoByTwoGrid from '$lib/components/layout/2x2-grid.svelte';
-	import Section from '$lib/components/layout/section.svelte';
-	import LowAccentHighlight from '$lib/components/style/low-accent-highlight.svelte';
+	import Card from '#lib/components/base/card.svelte';
+	import TwoByTwoGrid from '#lib/components/layout/2x2-grid.svelte';
+	import Section from '#lib/components/layout/section.svelte';
+	import LowAccentHighlight from '#lib/components/style/low-accent-highlight.svelte';
 	import Tag from '../base/tag.svelte';
 	import Blobs from '../layout/blobs.svelte';
 
@@ -125,7 +125,7 @@
 		buttonColor="secondary"
 	>
 		<TwoByTwoGrid>
-			{#each entries as entry}
+			{#each entries as entry (entry)}
 				<Card>
 					<div slot="content">
 						<div class="title">
@@ -139,7 +139,7 @@
 					</div>
 					<div slot="footer">
 						<div class="tags">
-							{#each entry.tags as tag}
+							{#each entry.tags as tag (tag)}
 								<Tag color={tag.color}>{tag.text}</Tag>
 							{/each}
 						</div>

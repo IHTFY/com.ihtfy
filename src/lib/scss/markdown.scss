@@ -1,3 +1,6 @@
+@use './breakpoints.scss' as *;
+@use '../../lib/scss/mixins.scss' as *;
+
 .markdown-layout {
 	background-color: var(--page-background-color);
 	header {
@@ -7,8 +10,6 @@
 		--body-background-color: var(--page-background-color);
 	}
 }
-
-@import '../../lib/scss/mixins.scss';
 
 // #region Layout styles
 #markdown-content {

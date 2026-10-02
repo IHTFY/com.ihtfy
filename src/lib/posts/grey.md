@@ -7,7 +7,7 @@ tags: [photography]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 Another globe featuring [@nwele](https://www.instagram.com/nwele/)

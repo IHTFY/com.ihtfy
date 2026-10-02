@@ -1,8 +1,8 @@
 <script>
 	import '../app.scss';
-	import { description, image, keywords, title } from '$lib/meta';
+	import { description, image, keywords, title } from '#lib/meta.js';
 	import { onMount } from 'svelte';
-	import { theme } from '$lib/components/style/theme.js';
+	import { theme } from '#lib/components/style/theme.js';
 
 	onMount(() => {
 		const { matches: isDarkTheme } = window.matchMedia('(prefers-color-scheme: dark)');
@@ -12,8 +12,8 @@
 		preference = localStorage.getItem('theme')
 			? localStorage.getItem('theme')
 			: isDarkTheme
-			? 'dark'
-			: 'light';
+				? 'dark'
+				: 'light';
 
 		theme.set(preference);
 
@@ -40,7 +40,7 @@
 	<script>
 		try {
 			// prettier-ignore
-			const { matches: isDarkMode } = window.matchMedia( "(prefers-color-scheme: dark)")
+			const { matches: isDarkMode } = window.matchMedia( "(prefers-color-scheme: dark)");
 
 			const theme = localStorage.getItem('theme');
 			let preference = theme || (isDarkMode ? 'dark' : 'light');

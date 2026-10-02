@@ -1,7 +1,7 @@
 <script>
-	import Alert from '$lib/svg/alert.svelte';
-	import Check from '$lib/svg/check.svelte';
-	import Info from '$lib/svg/info.svelte';
+	import Alert from '#lib/svg/alert.svelte';
+	import Check from '#lib/svg/check.svelte';
+	import Info from '#lib/svg/info.svelte';
 
 	export let type = null;
 </script>
