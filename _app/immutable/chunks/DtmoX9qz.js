@@ -1,0 +1,1 @@
+import{i as e}from"./DhRgfJDB.js";var t=e(`dark`);export{t};

@@ -1,0 +1,1 @@
+import{E as e,O as t}from"../chunks/DhRgfJDB.js";import"../chunks/BelnbgrZ.js";var n=t(`<div class="svelte-1mijfb4"><embed src="/francisco-mercado-resume-public-2019-07-30.pdf" width="100%" height="100%" type="application/pdf"/></div>`);function r(t){var r=n();e(t,r)}export{r as component};

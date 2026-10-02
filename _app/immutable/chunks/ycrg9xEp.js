@@ -1,0 +1,1 @@
+import{E as e,O as t}from"./DhRgfJDB.js";import"./BelnbgrZ.js";var n={slug:`again`,title:`Again`,date:`2022-03-30T00:00:00.000Z`,excerpt:`I forgot to write again`,tags:[`random`]},{slug:r,title:i,date:a,excerpt:o,tags:s}=n,c=t(`<p>I forgot to write again.</p>`);function l(t){var n=c();e(t,n)}export{l as default,n as metadata};
