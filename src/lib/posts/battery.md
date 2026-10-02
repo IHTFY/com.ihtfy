@@ -49,7 +49,7 @@ So the only thing I'm missing is generating all possible solutions... and the vi
 
 # Ads
 
-I added Google AdSense ads to most of my project sites. I opted to only use "anchor" ads - the kind that slide in from the top or bottom and and be collapsed. I find these to be the least invasive kind, since they're dismissable. I will probably remove these at some point, because I don't think they will ever generate substantial revenue.
+I added Google AdSense ads to most of my project sites. I opted to only use "anchor" ads - the kind that slide in from the top or bottom and can be collapsed. I find these to be the least invasive kind, since they're dismissable. I will probably remove these at some point, because I don't think they will ever generate substantial revenue.
 
 I haven't promoted any of my sites other than posting on this blog and word of mouth. I suppose a YouTube video could lead some people there. I'll leave them for now and see.
 
