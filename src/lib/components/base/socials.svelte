@@ -1,7 +1,6 @@
 <script>
 	import YouTubeIcon from '$lib/svg/socials/youtube.svelte';
 	import GitHubIcon from '$lib/svg/socials/github.svelte';
-	import InstagramIcon from '$lib/svg/socials/instagram.svelte';
 	import TwitterIcon from '$lib/svg/socials/twitter.svelte';
 	import PatreonIcon from '$lib/svg/socials/patreon.svelte';
 	import TikTokIcon from '$lib/svg/socials/tiktok.svelte';
@@ -20,14 +19,6 @@
 	</a>
 	<a href="https://github.com/IHTFY/" target="_blank" rel="noopener" title="See my code on GitHub">
 		<GitHubIcon />
-	</a>
-	<a
-		href="https://www.instagram.com/ihtfy/"
-		target="_blank"
-		rel="noopener noreferrer"
-		title="See my pictures on Instagram"
-	>
-		<InstagramIcon />
 	</a>
 	<a
 		href="https://twitter.com/ihtfy"
