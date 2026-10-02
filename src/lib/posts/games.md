@@ -7,7 +7,7 @@ tags: [gaming, code]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 I've made a few web games in recently. I'll try to keep this page updated as I make more.

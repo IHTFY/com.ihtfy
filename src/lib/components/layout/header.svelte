@@ -1,7 +1,7 @@
 <script>
-	import Logo from '$lib/svg/logo.svelte';
+	import Logo from '#lib/svg/logo.svelte';
 	import DarkSwitch from '../base/dark-switch.svelte';
-	import Socials from '$lib/components/base/socials.svelte';
+	import Socials from '#lib/components/base/socials.svelte';
 
 	export let animated = true;
 </script>
@@ -25,7 +25,7 @@
 </header>
 
 <style lang="scss">
-	@import '../../scss/breakpoints.scss';
+	@use '../../scss/breakpoints.scss' as *;
 
 	header {
 		position: relative;

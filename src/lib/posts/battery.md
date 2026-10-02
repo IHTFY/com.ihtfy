@@ -7,7 +7,7 @@ tags: [photography, random]
 ---
 
 <script>
-  import Callout from "$lib/components/base/callout.svelte";
+  import Callout from "#lib/components/base/callout.svelte";
 </script>
 
 # Drone Update

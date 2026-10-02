@@ -7,7 +7,7 @@ tags: [random, photography]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 The clouds looked nice during the sunset today.

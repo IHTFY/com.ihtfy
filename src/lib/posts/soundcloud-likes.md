@@ -7,7 +7,7 @@ tags: [code, tutorial]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
 </script>
 
 SoundCloud is notorious for having songs deleted - often by the original uploader. Most of these songs are not easily found elsewhere on the internet. To download them, you can use a very powerful free tool: [youtube-dl](https://ytdl-org.github.io/youtube-dl/download.html)

@@ -7,8 +7,8 @@ tags: [code, tutorial]
 ---
 
 <script>
-  import CodeBlock from "$lib/components/blog/code-block.svelte";
-  import Image from "$lib/components/base/image.svelte";
+  import CodeBlock from "#lib/components/blog/code-block.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 I remember speeding up books on tape to chipmunk speeds so I could get through them faster. Today, my podcast app does this without the pitch distortion, and it can even trim out the silent parts.

@@ -1,5 +1,5 @@
 <script>
-	import Sparkle from '$lib/components/style/sparkles/single-sparkle.svelte';
+	import Sparkle from '#lib/components/style/sparkles/single-sparkle.svelte';
 	import { onDestroy, onMount } from 'svelte';
 	const random = (min, max) => Math.floor(Math.random() * (max - min)) + min;
 
@@ -42,14 +42,14 @@
 	});
 </script>
 
-<div class="sparkle-wrapper">
+<span class="sparkle-wrapper">
 	{#each sparkles as sparkle (sparkle.id)}
 		<Sparkle color={sparkle.color} size={sparkle.size} style={sparkle.style} />
 	{/each}
-	<div class="slot-wrapper">
+	<span class="slot-wrapper">
 		<slot />
-	</div>
-</div>
+	</span>
+</span>
 
 <style lang="scss">
 	.sparkle-wrapper {

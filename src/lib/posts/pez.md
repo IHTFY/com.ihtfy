@@ -7,7 +7,7 @@ tags: [random, hack]
 ---
 
 <script>
-  import Image from "$lib/components/base/image.svelte";
+  import Image from "#lib/components/base/image.svelte";
 </script>
 
 I got the PEZ dispenser in the mail today, that I talked about [here](/dispenser/). I loaded some lactaid into it, and it seems to work fine. They're a little trickier to keep in line since they have a rounded profile and are a bit narrower.

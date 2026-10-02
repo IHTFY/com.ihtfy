@@ -1,8 +1,8 @@
 <script>
-	import TwoByTwoGrid from '$lib/components/layout/2x2-grid.svelte';
-	import Section from '$lib/components/layout/section.svelte';
-	import Blobs from '$lib/components/layout/blobs.svelte';
-	import BlogPostCard from '$lib/components/base/blog-post-card.svelte';
+	import TwoByTwoGrid from '#lib/components/layout/2x2-grid.svelte';
+	import Section from '#lib/components/layout/section.svelte';
+	import Blobs from '#lib/components/layout/blobs.svelte';
+	import BlogPostCard from '#lib/components/base/blog-post-card.svelte';
 
 	export let posts = [];
 </script>
@@ -15,7 +15,7 @@
 		buttonUrl="/blog"
 	>
 		<TwoByTwoGrid>
-			{#each posts as post}
+			{#each posts as post (post.slug)}
 				<BlogPostCard {post} showImage={false} />
 			{/each}
 		</TwoByTwoGrid>
