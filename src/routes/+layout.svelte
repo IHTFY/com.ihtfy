@@ -14,7 +14,9 @@
 				? `Blog | ${title}`
 				: page.url.pathname === '/resume/'
 					? `Resume | ${title}`
-					: title
+					: page.url.pathname === '/support/'
+						? `Support | ${title}`
+						: title
 	);
 	const pageDescription = $derived(post?.excerpt ?? description);
 	const pageImage = $derived(
