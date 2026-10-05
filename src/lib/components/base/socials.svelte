@@ -2,7 +2,7 @@
 	import YouTubeIcon from '#lib/svg/socials/youtube.svelte';
 	import GitHubIcon from '#lib/svg/socials/github.svelte';
 	import TwitterIcon from '#lib/svg/socials/twitter.svelte';
-	import PatreonIcon from '#lib/svg/socials/patreon.svelte';
+	import HeartIcon from '#lib/svg/socials/heart.svelte';
 	import TikTokIcon from '#lib/svg/socials/tiktok.svelte';
 	import EmailIcon from '#lib/svg/socials/email.svelte';
 	// import RSSIcon from '#lib/svg/rss.svelte';
@@ -28,13 +28,8 @@
 	>
 		<TwitterIcon />
 	</a>
-	<a
-		href="https://patreon.com/ihtfy"
-		target="_blank"
-		rel="noopener noreferrer"
-		title="Send me a tip on Patreon"
-	>
-		<PatreonIcon />
+	<a href="/support/" title="Support my work">
+		<HeartIcon />
 	</a>
 	<a
 		href="https://tiktok.com/@ihtfy"
