@@ -12,11 +12,9 @@
 			? `${post.title} | ${title}`
 			: page.url.pathname === '/blog/'
 				? `Blog | ${title}`
-				: page.url.pathname === '/resume/'
-					? `Resume | ${title}`
-					: page.url.pathname === '/support/'
-						? `Support | ${title}`
-						: title
+				: page.url.pathname === '/support/'
+					? `Support | ${title}`
+					: title
 	);
 	const pageDescription = $derived(post?.excerpt ?? description);
 	const pageImage = $derived(

@@ -22,7 +22,7 @@ pnpm build
 pnpm preview
 ```
 
-Check the homepage, blog archive, an article, resume, and theme switch before
+Check the homepage, blog archive, an article, and theme switch before
 publishing. Keep existing post slugs and asset paths so bookmarked links work.
 
 ## Publishing
